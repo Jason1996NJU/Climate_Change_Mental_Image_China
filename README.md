@@ -1,3 +1,3 @@
-# Climate_Change_Mental_Image_China
+# Perceptions of Climate Change in China in Earth's Future
 
-Perceptions of Climate Change in China
+Data and R code to reproduce our results.
