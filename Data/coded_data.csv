@@ -1,0 +1,3046 @@
+SubjID,gender,age,education,fam.income,location,sub.topic,topic,perception
+A20171209B1321,1,23,7,4,Dongguan,air pollution,pollution,2
+A20171209B1319,0,42,5,4,Dongguan,vehicle/industrial exhaust,cause,3
+A20171209B1317,1,51,5,3,Dongguan,capricious,temperature,3
+A20171209A1050,1,33,7,6,Dongguan,re. temperature,adaptation,3
+A20171209A1001,0,16,3,3,Dongguan,hot,temperature,3
+A20171209A0925,0,23,3,4,Dongguan,capricious,temperature,0
+A20171209A0922,0,30,3,2,Dongguan,anomaly,temperature,3
+A20171209A0920,0,29,6,5,Dongguan,physical discomfort,health,1
+A20171209B1318,0,19,5,7,Dongguan,capricious,temperature,0
+A20171209B1312,1,50,5,3,Dongguan,disease,health,3
+A20171209A0914,0,17,3,5,Dongguan,capricious,temperature,0
+A20171209B1305,1,41,2,3,Dongguan,vehicle/industrial exhaust,cause,3
+A20171209A0911,1,12,3,2,Dongguan,season,weather,2
+A20171209A0910,1,61,4,5,Dongguan,air pollution,pollution,3
+A20171209A0909,0,32,4,2,Dongguan,air pollution,pollution,3
+A20171209A0908,0,23,4,4,Dongguan,other pollution,pollution,2
+A20171209A0904,1,21,3,4,Dongguan,air pollution,pollution,3
+A20171209A0902,0,39,3,2,Dongguan,flood,disaster,3
+A20171209A0900,1,41,3,2,Dongguan,others,disaster,3
+B20171209A0909,1,27,8,5,Dongguan,melting ice,disaster,2
+B20171209A0945,0,28,4,4,Dongguan,capricious,temperature,3
+B20171209A1013,1,16,3,3,Dongguan,global warming,scienific terms,0
+B20171209A1045,1,22,4,5,Dongguan,hot,temperature,2
+B20171209A1046,0,53,4,4,Dongguan,global warming,scienific terms,1
+B20171209A1059,0,34,5,5,Dongguan,capricious,temperature,2
+B20171209A1101,0,27,4,5,Dongguan,capricious,temperature,1
+B20171209A1103,0,31,4,5,Dongguan,global warming,scienific terms,3
+B20171209A1115,1,23,4,4,Dongguan,green house effect,scienific terms,3
+B20171209A1128,1,34,4,3,Dongguan,disease,health,2
+B20171209A1132,0,31,5,4,Dongguan,disease,health,2
+B20171209A1139,0,30,5,3,Dongguan,global warming,scienific terms,3
+B20171209A1145,0,28,4,4,Dongguan,global warming,scienific terms,1
+B20171209A1200,1,27,5,4,Dongguan,physical discomfort,health,1
+B20171209B1530,0,15,3,6,Dongguan,socio-economic impact,socioeconomic_impact,2
+B20171209B1533,0,15,3,7,Dongguan,green house effect,scienific terms,3
+B20171209B1512,0,23,6,4,Dongguan,physical discomfort,health,3
+B20171209B1429,0,28,7,3,Dongguan,bad weather,weather,1
+B20171209B1430,0,30,4,4,Dongguan,physical discomfort,health,2
+B20171209B1424,1,23,7,5,Dongguan,hot,temperature,3
+B20171209B1403,1,23,3,3,Dongguan,capricious,temperature,1
+B20171209B1503,1,34,4,3,Dongguan,disease,health,1
+B20171209A1203,1,33,4,4,Dongguan,global warming,scienific terms,2
+B20171209B1529,0,15,3,1,Dongguan,physical discomfort,health,3
+C20171209A1035,1,26,3,2,Dongguan,nice weather,weather,3
+C20171209A1040,0,40,2,3,Dongguan,physical discomfort,health,3
+C20171209A1036,0,26,7,4,Dongguan,El Nino/ozone hole,scienific terms,2
+C20171209A1041,1,44,4,4,Dongguan,vehicle/industrial exhaust,cause,3
+C20171209A1045,1,55,3,1,Dongguan,air pollution,pollution,3
+C20171209A1042,1,53,3,4,Dongguan,hot,temperature,3
+C20171209A1037,1,45,3,3,Dongguan,cold,temperature,1
+C20171209A1038,0,20,6,1,Dongguan,protect environment,mitigation,2
+C20171209A1030,0,38,7,4,Dongguan,air pollution,pollution,3
+C20171209A1031,1,33,6,4,Dongguan,re. temperature,adaptation,2
+C20171209A1032,0,43,4,4,Dongguan,vehicle/industrial exhaust,cause,3
+C20171209A1039,0,21,7,2,Dongguan,anomaly,temperature,3
+C20171209A1033,0,23,4,1,Dongguan,other pollution,pollution,3
+C20171209A1025,0,30,3,3,Dongguan,physical discomfort,health,3
+C20171209A1026,1,23,6,4,Dongguan,nice weather,weather,2
+C20171209A1020,0,29,7,4,Dongguan,other pollution,pollution,3
+C20171209A1021,0,40,3,3,Dongguan,hot,temperature,3
+C20171209A1010,1,55,4,3,Dongguan,capricious,temperature,3
+C20171209A1005,1,32,6,4,Dongguan,nice weather,weather,2
+C20171209A1006,1,38,7,5,Dongguan,air pollution,pollution,3
+C20171209A1007,1,30,6,4,Dongguan,nice weather,weather,3
+C20171209A1000,0,26,7,3,Dongguan,nice weather,weather,3
+C20171209A1001,1,70,2,2,Dongguan,nice weather,weather,3
+C20171209A0955,1,28,7,4,Dongguan,others,disaster,3
+C20171209A0950,0,45,4,3,Dongguan,nice weather,weather,2
+C20171209A0915,0,54,2,3,Dongguan,nice weather,weather,3
+C20171209A0920,0,40,6,4,Dongguan,bad weather,weather,3
+C20171209A0935,1,13,3,2,Dongguan,nice weather,weather,0
+C20171209A0930,1,43,4,4,Dongguan,nice weather,weather,2
+C20171209A0936,0,15,3,2,Dongguan,hurricane,disaster,3
+C20171209A0940,0,35,7,3,Dongguan,air pollution,pollution,3
+C20171209A0920,1,24,4,3,Dongguan,El Nino/ozone hole,scienific terms,2
+C20171209A0941,1,53,3,2,Dongguan,hot,temperature,3
+C20171209A1051,0,38,4,4,Dongguan,nice weather,weather,0
+C20171209A1100,0,15,4,4,Dongguan,capricious,temperature,3
+C20171209A1200,0,16,4,3,Dongguan,bad weather,weather,1
+C20171209A1150,0,14,3,2,Dongguan,green house effect,scienific terms,0
+C20171209A1141,0,22,7,4,Dongguan,green house effect,scienific terms,2
+C20171209A1125,0,28,6,4,Dongguan,nice weather,weather,3
+C20171209A1116,1,15,4,3,Dongguan,anomaly,temperature,2
+C20171209A1110,0,21,7,3,Dongguan,disease,health,3
+C20171209A1111,0,15,4,5,Dongguan,anomaly,temperature,3
+C20171209A1112,1,15,4,2,Dongguan,bad weather,weather,1
+C20171209A1105,0,40,3,3,Dongguan,nice weather,weather,2
+C20171209A1200,0,16,4,2,Dongguan,bad weather,weather,0
+C20171209A1201,0,21,5,1,Dongguan,re. temperature,adaptation,1
+C20171209A1155,1,40,3,2,Dongguan,bad weather,weather,0
+C20171209A1156,0,36,3,2,Dongguan,bad weather,weather,0
+C20171209A1157,0,45,3,3,Dongguan,bad weather,weather,1
+C20171209A1151,0,42,7,4,Dongguan,hot,temperature,0
+C20171209A1152,0,40,4,3,Dongguan,nice weather,weather,1
+C20171209A1153,0,35,3,2,Dongguan,hot,temperature,3
+C20171209A1154,0,28,6,3,Dongguan,nice weather,weather,2
+C20171209A1158,1,50,7,3,Dongguan,air pollution,pollution,2
+A20170903A1005,1,49,4,2,Dongguan,bad weather,weather,3
+A20170903A1006,1,40,7,4,Dongguan,other pollution,pollution,1
+A20170903A1007,1,38,7,3,Dongguan,hot,temperature,2
+A20170903A1009,0,36,5,3,Dongguan,re. temperature,adaptation,3
+A20170903A1010,0,43,4,4,Dongguan,hot,temperature,2
+A20170903A1015,0,32,6,3,Dongguan,air pollution,pollution,2
+A20170903A1016,0,38,7,4,Dongguan,anomaly,temperature,3
+A20170903A1017,1,43,4,3,Dongguan,global warming,scienific terms,3
+A20170903A1018,1,30,5,3,Dongguan,global warming,scienific terms,3
+A20170903A1020,1,45,4,5,Dongguan,capricious,temperature,3
+A20170903A1022,0,45,2,2,Dongguan,disease,health,3
+A20170903A1023,1,44,3,3,Dongguan,rising sea,disaster,3
+A20170903A1024,1,48,4,3,Dongguan,hot,temperature,1
+A20170902P1203,1,29,4,3,Dongguan,vehicle/industrial exhaust,cause,2
+A20170902P1204,0,45,2,3,Dongguan,vehicle/industrial exhaust,cause,0
+A20170902P1202,0,18,5,4,Dongguan,air pollution,pollution,3
+A20170902P1203,0,18,4,5,Dongguan,vehicle/industrial exhaust,cause,3
+A20170902A1121,1,41,4,4,Dongguan,other pollution,pollution,0
+A20170902A1122,1,45,3,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1123,1,43,3,3,Dongguan,vehicle/industrial exhaust,cause,0
+A20170902A1124,1,39,3,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1125,1,33,3,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1126,1,42,4,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1013,0,43,4,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1117,0,37,7,6,Dongguan,air pollution,pollution,2
+A20170902A1120,0,33,7,5,Dongguan,air pollution,pollution,3
+A20170903A0945,1,31,6,1,Dongguan,earthquake,disaster,3
+A20170903A0957,1,25,4,4,Dongguan,cold,temperature,2
+A20170903A0958,1,30,6,3,Dongguan,cold,temperature,2
+A20170903A0959,1,35,6,4,Dongguan,proverb,weather,3
+A20170903A1000,0,32,7,3,Dongguan,global warming,scienific terms,3
+A20170903A1001,1,16,4,3,Dongguan,degradation,pollution,2
+A20170903A1002,1,30,6,5,Dongguan,hot,temperature,1
+A20170903A1004,1,24,3,3,Dongguan,anomaly,temperature,3
+A20170903A1040,1,52,3,4,Dongguan,hot,temperature,2
+C20170902A0915,0,20,4,4,Dongguan,air pollution,pollution,3
+C20170902A0920,0,43,5,3,Dongguan,capricious,temperature,2
+C20170902A0925,0,26,6,3,Dongguan,hot,temperature,2
+C20170902A0930,0,24,3,3,Dongguan,rising sea,disaster,2
+C20170902A0935,0,30,7,4,Dongguan,flood,disaster,1
+C20170902A0945,0,58,1,2,Dongguan,global warming,scienific terms,2
+C20170902A0946,0,18,8,1,Dongguan,air pollution,pollution,3
+C20170902A0947,0,30,4,4,Dongguan,air pollution,pollution,1
+C20170902A0949,0,22,7,4,Dongguan,green house effect,scienific terms,3
+C20170902A0951,0,29,4,2,Dongguan,re. weather change,adaptation,2
+C20170902A0954,0,21,7,4,Dongguan,bad weather,weather,2
+C20170902A0955,1,40,7,5,Dongguan,nice weather,weather,1
+C20170902A0956,1,33,6,4,Dongguan,re. temperature,adaptation,2
+C20170902A0957,0,58,3,1,Dongguan,re. temperature,adaptation,2
+C20170902A0958,0,22,7,5,Dongguan,bad weather,weather,3
+C20170902A0959,1,53,4,1,Dongguan,cold,temperature,2
+C20170902A1000,0,18,7,5,Dongguan,El Nino/ozone hole,scienific terms,2
+C20170902A1005,1,55,3,2,Dongguan,re. weather change,adaptation,3
+C20170902A1030,1,67,3,3,Dongguan,reduce emission,mitigation,3
+C20170902A1045,0,64,2,1,Dongguan,re. weather change,adaptation,1
+C20170902A1050,1,36,6,5,Dongguan,capricious,temperature,2
+B20170903A0930,1,42,6,3,Dongguan,hurricane,disaster,1
+B20170903A0931,0,24,7,4,Dongguan,green house effect,scienific terms,3
+B20170903A0932,0,28,6,3,Dongguan,El Nino/ozone hole,scienific terms,3
+B20170903A0933,1,25,6,4,Dongguan,rising sea,disaster,3
+B20170903A0934,0,23,7,3,Dongguan,global warming,scienific terms,3
+B20170903A0935,1,40,6,3,Dongguan,hurricane,disaster,3
+B20170903A0936,0,41,3,3,Dongguan,air pollution,pollution,3
+B20170903A0937,1,23,6,4,Dongguan,green house effect,scienific terms,3
+B20170903A0940,1,48,6,1,Dongguan,hurricane,disaster,2
+B20170903A0939,1,38,6,2,Dongguan,hurricane,disaster,3
+B20170903A0942,1,49,4,4,Dongguan,green house effect,scienific terms,3
+B20170903A0943,1,27,6,4,Dongguan,vehicle/industrial exhaust,cause,3
+B20170903A0944,0,26,6,2,Dongguan,cold,temperature,0
+B20170903A0945,0,33,4,2,Dongguan,cold,temperature,3
+B20170903A0946,1,52,2,3,Dongguan,urbanization/economy,cause,2
+B20170903A0947,0,19,5,3,Dongguan,global warming,scienific terms,3
+B20170903A0948,1,53,3,7,Dongguan,vehicle/industrial exhaust,cause,3
+B20170903A0949,0,20,6,3,Dongguan,global warming,scienific terms,3
+B20170903A0950,0,18,6,3,Dongguan,hot,temperature,3
+B20170903A0951,0,18,6,3,Dongguan,global warming,scienific terms,2
+B20170903A0952,0,22,7,2,Dongguan,global warming,scienific terms,3
+B20170903A0953,1,22,3,3,Dongguan,re. weather change,adaptation,2
+B20170903A0954,1,25,6,3,Dongguan,global warming,scienific terms,1
+B20170903A0955,1,38,4,3,Dongguan,air pollution,pollution,3
+B20170903A0957,0,21,6,3,Dongguan,global warming,scienific terms,3
+B20170903A0958,0,20,6,3,Dongguan,bad weather,weather,2
+B20170903A0959,0,21,6,3,Dongguan,nice weather,weather,2
+B20170903A0960,1,51,3,3,Dongguan,re. weather change,adaptation,1
+B20170902A0930,1,26,4,2,Dongguan,flood,disaster,3
+B20170902A0932,0,49,3,3,Dongguan,disease,health,2
+B20170902A0936,0,38,3,3,Dongguan,disease,health,3
+B20170902A0940,0,34,4,3,Dongguan,disease,health,2
+B20170902A0941,1,32,6,4,Dongguan,green house effect,scienific terms,3
+B20170902A0942,1,22,4,6,Dongguan,hot,temperature,2
+B20170902A0948,1,39,3,3,Dongguan,hot,temperature,1
+B20170902A0951,1,22,4,3,Dongguan,capricious,temperature,2
+B20170902A0952,1,44,7,4,Dongguan,hot,temperature,3
+B20170902A0955,1,39,3,3,Dongguan,hot,temperature,3
+B20170902A0957,1,32,6,2,Dongguan,socio-economic impact,socioeconomic_impact,3
+B20170902A0958,1,37,6,3,Dongguan,hurricane,disaster,1
+C20170903A1020,0,25,7,5,Dongguan,hot,temperature,0
+C20170903A1030,1,42,6,6,Dongguan,nice weather,weather,2
+C20170903A1039,1,38,6,4,Dongguan,hurricane,disaster,3
+C20170903A1120,0,35,6,3,Dongguan,disease,health,1
+C20170903A1110,1,26,6,3,Dongguan,vehicle/industrial exhaust,cause,1
+C20170903A1111,1,30,6,3,Dongguan,protect environment,mitigation,2
+C20170903A1130,1,27,3,2,Dongguan,nice weather,weather,3
+C20170903A1115,1,24,7,8,Dongguan,El Nino/ozone hole,scienific terms,2
+C20170903A1100,1,34,7,4,Dongguan,re. weather change,adaptation,3
+C20170903A1040,0,35,6,3,Dongguan,re. weather change,adaptation,3
+C20170903A1036,0,50,7,4,Dongguan,re. weather change,adaptation,3
+C20170903A1041,0,40,7,5,Dongguan,re. temperature,adaptation,3
+C20170903A1031,1,28,6,5,Dongguan,hurricane,disaster,3
+C20170903A1025,0,25,5,4,Dongguan,hot,temperature,3
+C20170903A1021,0,36,6,5,Dongguan,hot,temperature,3
+C20170903A1016,0,36,3,3,Dongguan,bad weather,weather,2
+C20170903A1010,0,16,4,3,Dongguan,capricious,temperature,1
+C20170903A1005,1,27,7,5,Dongguan,El Nino/ozone hole,scienific terms,3
+C20170903A1000,1,30,6,3,Dongguan,vehicle/industrial exhaust,cause,2
+C20170903A0955,0,35,3,3,Dongguan,re. weather change,adaptation,2
+C20170903A0950,1,35,6,4,Dongguan,re. weather change,adaptation,1
+C20170903A0945,0,36,5,3,Dongguan,hot,temperature,3
+C20170903A0925,0,22,7,4,Dongguan,global warming,scienific terms,3
+C20170903A0935,0,26,7,3,Dongguan,re. weather change,adaptation,3
+C20170903A0926,1,35,5,3,Dongguan,protect environment,mitigation,0
+C20170903A0920,0,75,2,2,Dongguan,protect environment,mitigation,3
+C20170903A0915,0,33,7,2,Dongguan,other pollution,pollution,3
+C20170903A1037,1,33,7,3,Dongguan,re. temperature,adaptation,3
+C20170903A1031,0,37,6,4,Dongguan,bad weather,weather,2
+C20170903A1001,1,54,3,3,Dongguan,socio-economic impact,socioeconomic_impact,3
+A20180120A0900,0,46,4,3,Suzhou,air pollution,pollution,3
+A20180120A0905,1,31,6,4,Suzhou,re. air pollution,adaptation,3
+A20180120A0915,0,45,4,4,Suzhou,air pollution,pollution,3
+A20180120A0920,0,30,5,3,Suzhou,urbanization/economy,cause,3
+A20180120A0940,0,46,3,3,Suzhou,re. temperature,adaptation,1
+A20180120A0955,1,40,7,5,Suzhou,disease,health,3
+A20180120A1005,1,89,4,3,Suzhou,others,adaptation,1
+A20180120A1020,1,56,4,4,Suzhou,re. air pollution,adaptation,2
+A20180120A1055,0,75,4,2,Suzhou,others,adaptation,3
+A20180120A1120,1,53,7,5,Suzhou,air pollution,pollution,3
+A20180120A1125,1,24,4,5,Suzhou,air pollution,pollution,2
+A20180120A1130,0,28,4,3,Suzhou,vehicle/industrial exhaust,cause,3
+A20180120A1135,0,28,4,4,Suzhou,disease,health,3
+A20180120A1145,0,61,6,4,Suzhou,others,adaptation,3
+A20180121A0900,1,61,2,4,Suzhou,urbanization/economy,cause,2
+A20180121A0915,1,63,5,2,Suzhou,re. air pollution,adaptation,3
+A20180121A0925,0,48,4,3,Suzhou,re. air pollution,adaptation,2
+A20180121A0926,1,58,4,5,Suzhou,re. air pollution,adaptation,3
+A20180121A0935,0,30,6,4,Suzhou,re. air pollution,adaptation,2
+A20180121A0940,1,30,6,6,Suzhou,air pollution,pollution,3
+A20180121A0950,0,36,7,4,Suzhou,green house effect,scienific terms,3
+A20180121A1010,0,54,3,2,Suzhou,re. air pollution,adaptation,3
+A20180121A1015,0,77,6,3,Suzhou,others,adaptation,3
+A20180121A1025,1,77,3,3,Suzhou,re. air pollution,adaptation,3
+A20180121A1030,1,63,6,4,Suzhou,GHG/CO2 emission,cause,2
+A20180121A1035,0,74,4,4,Suzhou,re. air pollution,adaptation,2
+A20180121A1040,0,77,4,3,Suzhou,re. air pollution,adaptation,3
+A20180121A1050,0,68,3,4,Suzhou,re. air pollution,adaptation,3
+A20180121A1055,0,53,3,2,Suzhou,re. air pollution,adaptation,3
+A20180121A1105,1,76,4,4,Suzhou,air pollution,pollution,3
+A20180121A1110,1,52,4,4,Suzhou,re. air pollution,adaptation,3
+A20180121A1115,0,34,4,5,Suzhou,anomaly,temperature,2
+A20180121A1130,0,47,3,3,Suzhou,re. air pollution,adaptation,3
+B20180120A0916,0,25,7,5,Suzhou,air pollution,pollution,0
+B20180120A1056,0,17,3,5,Suzhou,green house effect,scienific terms,0
+B20180120A1057,0,26,7,5,Suzhou,bad weather,weather,3
+B20180120A1101,0,11,2,8,Suzhou,global warming,scienific terms,3
+B20180120A1130,0,22,6,6,Suzhou,air pollution,pollution,2
+B20180120A1131,1,36,6,5,Suzhou,El Nino/ozone hole,scienific terms,2
+B20180120A1129,0,16,3,3,Suzhou,green house effect,scienific terms,2
+B20180120P1233,1,36,7,7,Suzhou,capricious,temperature,1
+B20180120P1235,1,20,6,5,Suzhou,global warming,scienific terms,3
+B20180120P1417,0,25,7,4,Suzhou,hot,temperature,3
+B20180120P1418,1,20,4,5,Suzhou,protect environment,mitigation,3
+B20180120P1419,0,27,5,4,Suzhou,air pollution,pollution,3
+B20180120P1421,1,42,6,5,Suzhou,global warming,scienific terms,3
+B20180120P1426,1,24,6,5,Suzhou,capricious,temperature,3
+B20180120P1428,0,33,4,3,Suzhou,bad weather,weather,2
+B20180121A1000,0,24,3,7,Suzhou,air pollution,pollution,3
+B20180121A1001,1,22,6,4,Suzhou,physical discomfort,health,3
+B20180121A1003,0,18,4,3,Suzhou,capricious,temperature,3
+B20180121A1005,0,24,6,5,Suzhou,air pollution,pollution,2
+B20180121A1008,0,20,7,6,Suzhou,cold,temperature,3
+B20180121A1013,1,24,3,4,Suzhou,reduce emission,mitigation,3
+B20180121A1014,0,24,6,4,Suzhou,reduce emission,mitigation,2
+B20180121A1016,1,28,6,5,Suzhou,capricious,temperature,2
+B20180121A1019,1,31,6,5,Suzhou,vehicle/industrial exhaust,cause,3
+B20180121A1020,0,24,3,4,Suzhou,physical discomfort,health,1
+B20180121A1021,1,20,7,3,Suzhou,re. temperature,adaptation,1
+B20180121A1022,0,30,4,3,Suzhou,other pollution,pollution,3
+B20180121A1030,0,53,3,4,Suzhou,reduce emission,mitigation,3
+B20180121A1032,1,72,4,5,Suzhou,others,adaptation,3
+B20180121A1033,0,35,6,4,Suzhou,bad weather,weather,1
+C20180120A0900,0,29,5,6,Suzhou,air pollution,pollution,3
+C20180120A0905,0,29,6,4,Suzhou,disease,health,2
+C20180120A0910,0,33,7,5,Suzhou,air pollution,pollution,3
+C20180120A0915,0,28,5,3,Suzhou,air pollution,pollution,3
+C20180120A0925,0,27,7,4,Suzhou,urbanization/economy,cause,3
+C20180120A0935,0,25,7,4,Suzhou,air pollution,pollution,3
+C20180120A0950,0,28,6,5,Suzhou,bad weather,weather,3
+C20180120A0955,0,27,7,4,Suzhou,capricious,temperature,0
+C20180120A1000,0,27,7,5,Suzhou,melting ice,disaster,3
+C20180120A1001,0,23,4,6,Suzhou,cold,temperature,3
+C20180120A1003,1,31,7,5,Suzhou,air pollution,pollution,3
+C20180120A1006,0,22,6,3,Suzhou,air pollution,pollution,3
+C20180120A1022,0,25,4,5,Suzhou,bad weather,weather,2
+C20180120A1024,0,24,7,8,Suzhou,other pollution,pollution,0
+C20180120A1030,0,32,4,4,Suzhou,air pollution,pollution,3
+C20180120A1100,0,20,4,6,Suzhou,bad weather,weather,0
+C20180120A1103,0,22,7,4,Suzhou,green house effect,scienific terms,3
+C20180120A1111,0,25,6,4,Suzhou,global warming,scienific terms,3
+C20180120A1131,0,21,5,5,Suzhou,global warming,scienific terms,3
+C20180120A1134,0,34,3,8,Suzhou,other pollution,pollution,1
+C20180121A1000,1,21,6,6,Suzhou,global warming,scienific terms,1
+C20180121A1003,0,19,7,5,Suzhou,global warming,scienific terms,2
+C20180121A1004,0,20,4,5,Suzhou,global warming,scienific terms,3
+C20180121A1006,1,26,7,4,Suzhou,season,weather,3
+C20180121A1007,0,18,4,4,Suzhou,air pollution,pollution,2
+C20180121A1008,0,20,6,7,Suzhou,capricious,temperature,2
+C20180121A1010,0,23,6,3,Suzhou,disease,health,3
+C20180121A1011,1,24,6,3,Suzhou,air pollution,pollution,2
+C20180121A1013,0,23,6,3,Suzhou,capricious,temperature,3
+C20180121A1014,0,19,4,4,Suzhou,cold,temperature,3
+C20180121A1015,0,42,7,4,Suzhou,global warming,scienific terms,3
+C20180121A1017,0,26,7,4,Suzhou,air pollution,pollution,2
+C20180121A1018,1,29,5,3,Suzhou,air pollution,pollution,3
+C20180121A1019,1,34,4,4,Suzhou,cold,temperature,3
+C20180121A1020,1,23,7,5,Suzhou,air pollution,pollution,3
+C20180121A1021,0,25,5,3,Suzhou,capricious,temperature,3
+C20180121A1022,1,26,7,4,Suzhou,air pollution,pollution,2
+C20180121A1025,0,34,7,4,Suzhou,El Nino/ozone hole,scienific terms,2
+C20180121A1026,0,30,3,5,Suzhou,vehicle/industrial exhaust,cause,2
+C20180121A1027,1,61,3,5,Suzhou,vehicle/industrial exhaust,cause,2
+C20180121A1028,1,35,4,2,Suzhou,vehicle/industrial exhaust,cause,3
+C20180121A1029,0,30,6,6,Suzhou,air pollution,pollution,1
+C20180121A1030,0,20,3,5,Suzhou,disease,health,1
+A20180113A0903,1,72,4,3,Yangzhou,others,adaptation,0
+A20180113A0904,1,60,4,3,Yangzhou,anomaly,temperature,2
+A20180113A0908,0,62,3,2,Yangzhou,bad weather,weather,2
+A20180113A0911,1,66,3,2,Yangzhou,unhapiness,health,3
+A20180113A0912,1,29,7,4,Yangzhou,bad weather,weather,2
+A20180113A0913,0,66,6,3,Yangzhou,bad weather,weather,3
+A20180113A0914,0,63,5,2,Yangzhou,air pollution,pollution,3
+A20180113A0921,0,21,6,2,Yangzhou,air pollution,pollution,3
+A20180113A0922,1,19,6,4,Yangzhou,bad weather,weather,1
+A20180113A0925,1,20,6,5,Yangzhou,green house effect,scienific terms,2
+A20180113A0926,1,18,6,4,Yangzhou,bad weather,weather,1
+A20180113A0927,1,17,6,4,Yangzhou,bad weather,weather,1
+A20180113A0928,1,17,6,3,Yangzhou,bad weather,weather,1
+A20180113A0929,1,22,6,3,Yangzhou,bad weather,weather,3
+A20180113A0930,0,18,5,3,Yangzhou,global warming,scienific terms,3
+A20180113A0931,1,20,6,4,Yangzhou,green house effect,scienific terms,3
+A20180113A0932,1,19,6,3,Yangzhou,bad weather,weather,2
+A20180113A0933,1,19,4,3,Yangzhou,others,adaptation,1
+A20180114A0900,1,16,5,3,Yangzhou,bad weather,weather,3
+A20180114A0902,1,20,6,5,Yangzhou,bad weather,weather,2
+A20180114A0903,1,19,6,3,Yangzhou,bad weather,weather,3
+A20180114A0904,1,15,4,3,Yangzhou,bad weather,weather,2
+A20180114A0905,1,15,4,2,Yangzhou,bad weather,weather,0
+A20180114A0906,1,19,6,4,Yangzhou,bad weather,weather,3
+A20180114A0907,1,20,4,4,Yangzhou,bad weather,weather,3
+A20180114A0908,1,20,6,3,Yangzhou,bad weather,weather,2
+A20180114A0909,1,73,6,4,Yangzhou,others,adaptation,3
+A20180114A0910,0,56,3,5,Yangzhou,air pollution,pollution,3
+A20180114A0912,0,67,5,6,Yangzhou,proverb,weather,2
+A20180114A0913,1,68,7,5,Yangzhou,nice weather,weather,3
+A20180114A0914,1,65,3,4,Yangzhou,other pollution,pollution,2
+A20180114A0915,0,56,6,5,Yangzhou,air pollution,pollution,3
+A20180114A0917,0,50,4,3,Yangzhou,other pollution,pollution,2
+A20180114A0918,0,68,3,3,Yangzhou,air pollution,pollution,2
+A20180114A0919,0,55,6,4,Yangzhou,air pollution,pollution,3
+A20180114A0920,0,64,3,4,Yangzhou,air pollution,pollution,3
+A20180114A0921,0,73,2,4,Yangzhou,disease,health,3
+A20180114A0922,0,65,3,4,Yangzhou,air pollution,pollution,3
+A20180114A0923,0,59,4,4,Yangzhou,disease,health,3
+A20180114A0924,0,63,4,4,Yangzhou,air pollution,pollution,3
+A20180114A0925,0,60,5,3,Yangzhou,disease,health,2
+A20180114A0926,0,61,4,3,Yangzhou,re. air pollution,adaptation,3
+A20180114A0927,0,68,3,4,Yangzhou,air pollution,pollution,3
+A20180114A0928,0,58,4,3,Yangzhou,air pollution,pollution,2
+A20180114A0929,0,68,6,4,Yangzhou,air pollution,pollution,0
+A20180114A0931,0,59,4,4,Yangzhou,air pollution,pollution,3
+D20180113A0928,0,32,7,5,Yangzhou,green house effect,scienific terms,1
+D20180113A0935,0,56,3,3,Yangzhou,disease,health,3
+D20180113A0937,0,70,3,3,Yangzhou,anomaly,temperature,2
+D20180113A0938,0,41,5,3,Yangzhou,air pollution,pollution,2
+D20180113A0939,0,37,6,5,Yangzhou,air pollution,pollution,3
+D20180113A0940,0,40,6,4,Yangzhou,rising sea,disaster,3
+D20180113A0942,0,50,4,3,Yangzhou,nice weather,weather,3
+D20180113A0944,1,30,6,3,Yangzhou,bad weather,weather,3
+D20180113A0945,1,52,3,3,Yangzhou,rising sea,disaster,3
+D20180113A0947,1,60,3,4,Yangzhou,air pollution,pollution,2
+D20180113A0948,1,60,3,5,Yangzhou,global warming,scienific terms,0
+D20180113A0951,0,51,3,3,Yangzhou,disease,health,3
+D20180113A0952,1,62,3,3,Yangzhou,bad weather,weather,3
+D20180113A0953,0,62,3,4,Yangzhou,bad weather,weather,2
+D20180113A0954,0,71,5,4,Yangzhou,bad weather,weather,2
+D20180113A0955,1,64,3,3,Yangzhou,protect environment,mitigation,3
+D20180113A0956,0,65,3,5,Yangzhou,bad weather,weather,2
+D20180113A0958,0,71,1,3,Yangzhou,bad weather,weather,2
+D20180113A1000,0,29,6,4,Yangzhou,bad weather,weather,3
+D20180113A1020,0,39,6,4,Yangzhou,bad weather,weather,3
+D20180113A1130,0,31,7,3,Yangzhou,proverb,weather,3
+D20180113A1135,1,48,4,1,Yangzhou,bad weather,weather,3
+D20180114A0925,0,35,6,4,Yangzhou,air pollution,pollution,1
+D20180114A0926,1,65,4,5,Yangzhou,protect environment,mitigation,3
+D20180114A0927,1,65,4,3,Yangzhou,air pollution,pollution,2
+D20180114A0928,1,60,4,4,Yangzhou,bad weather,weather,2
+D20180114A0930,1,35,7,4,Yangzhou,hurricane,disaster,3
+D20180114A0932,1,24,7,4,Yangzhou,bad weather,weather,0
+D20180114A0933,1,34,7,4,Yangzhou,green house effect,scienific terms,2
+D20180114A0934,0,66,3,5,Yangzhou,cold,temperature,3
+D20180114A0935,1,68,3,5,Yangzhou,El Nino/ozone hole,scienific terms,3
+D20180114A0936,0,48,2,2,Yangzhou,bad weather,weather,1
+D20180114A0938,1,65,5,5,Yangzhou,cold,temperature,3
+D20180114A0939,1,50,6,4,Yangzhou,bad weather,weather,0
+D20180114A0940,0,30,6,4,Yangzhou,disease,health,3
+D20180114A0942,1,29,7,3,Yangzhou,cold,temperature,3
+D20180114A0944,0,24,4,8,Yangzhou,protect environment,mitigation,3
+D20180114A0946,0,26,6,4,Yangzhou,bad weather,weather,1
+D20180114A0947,0,68,3,4,Yangzhou,bad weather,weather,2
+D20180114A0949,1,72,6,4,Yangzhou,proverb,weather,2
+D20180114A1000,0,68,4,3,Yangzhou,global warming,scienific terms,2
+D20180114A1002,1,74,6,3,Yangzhou,air pollution,pollution,3
+D20180114A1003,1,70,3,3,Yangzhou,bad weather,weather,3
+D20180114A1004,1,72,3,3,Yangzhou,bad weather,weather,3
+D20180114A1006,1,69,3,3,Yangzhou,bad weather,weather,2
+D20180114A1007,1,60,4,2,Yangzhou,others,adaptation,1
+C20180113A1123,0,19,6,5,Yangzhou,air pollution,pollution,1
+C20180113A1121,0,24,5,5,Yangzhou,disease,health,3
+C20180113A1120,0,38,4,3,Yangzhou,anomaly,temperature,3
+C20180113A1119,0,41,4,3,Yangzhou,global warming,scienific terms,0
+C20180113A1000,1,80,3,4,Yangzhou,disease,health,1
+C20180113A0943,1,77,4,3,Yangzhou,nice weather,weather,0
+C20180113A0941,1,40,5,3,Yangzhou,air pollution,pollution,2
+C20180113A0939,1,30,8,3,Yangzhou,air pollution,pollution,2
+C20180113A0937,1,71,3,6,Yangzhou,re. temperature,adaptation,2
+C20180113A0936,0,31,7,3,Yangzhou,air pollution,pollution,3
+C20180113A0935,0,43,6,3,Yangzhou,air pollution,pollution,2
+C20180113A0934,1,63,4,3,Yangzhou,protect environment,mitigation,1
+C20180113A0933,0,34,6,2,Yangzhou,bad weather,weather,2
+C20180113A0931,0,40,6,3,Yangzhou,air pollution,pollution,2
+C20180113A0930,1,45,7,3,Yangzhou,air pollution,pollution,2
+C20180113A0928,1,75,4,5,Yangzhou,vehicle/industrial exhaust,cause,3
+C20180113A0927,0,43,4,2,Yangzhou,air pollution,pollution,2
+C20180113A0926,0,43,6,3,Yangzhou,air pollution,pollution,3
+C20180113A0925,0,25,6,5,Yangzhou,re. air pollution,adaptation,0
+C20180113A0924,0,24,6,4,Yangzhou,re. air pollution,adaptation,0
+C20180113A0923,1,30,7,3,Yangzhou,bad weather,weather,3
+C20180113A0922,1,50,7,4,Yangzhou,air pollution,pollution,3
+C20180114A1002,1,42,4,3,Yangzhou,season,weather,1
+C20180114A1008,0,43,3,2,Yangzhou,global warming,scienific terms,2
+C20180114A1010,0,38,4,8,Yangzhou,GHG/CO2 emission,cause,2
+C20180114A1011,0,45,4,3,Yangzhou,re. air pollution,adaptation,2
+C20180114A1015,0,43,4,3,Yangzhou,proverb,weather,2
+C20180114A1019,0,36,6,4,Yangzhou,capricious,temperature,3
+C20180114A1023,1,45,6,5,Yangzhou,air pollution,pollution,3
+C20180114A1026,0,42,6,4,Yangzhou,El Nino/ozone hole,scienific terms,2
+C20180114A1027,0,48,4,2,Yangzhou,season,weather,2
+B20180113A0905,0,62,3,5,Yangzhou,vehicle/industrial exhaust,cause,3
+B20180113A0907,1,64,5,4,Yangzhou,air pollution,pollution,3
+B20180113A0930,0,63,3,4,Yangzhou,air pollution,pollution,3
+B20180113A0931,0,64,4,3,Yangzhou,air pollution,pollution,3
+B20180113A0932,0,58,5,4,Yangzhou,unhapiness,health,3
+B20180113A0933,0,64,3,2,Yangzhou,others,adaptation,1
+B20180113A0935,0,64,2,3,Yangzhou,disease,health,3
+B20180113A1000,1,28,5,4,Yangzhou,reduce emission,mitigation,3
+B20180113A1001,0,42,7,3,Yangzhou,air pollution,pollution,3
+B20180113A1002,0,30,5,3,Yangzhou,bad weather,weather,1
+B20180113A1003,0,28,4,4,Yangzhou,air pollution,pollution,3
+B20180113A1004,0,30,5,3,Yangzhou,other pollution,pollution,2
+B20180113A1007,0,27,6,3,Yangzhou,bad weather,weather,1
+B20180113A1008,0,33,6,4,Yangzhou,bad weather,weather,3
+B20180113A1009,0,26,7,4,Yangzhou,hot,temperature,2
+B20180113A1012,1,32,5,4,Yangzhou,vehicle/industrial exhaust,cause,1
+B20180113A1013,0,53,3,3,Yangzhou,nice weather,weather,3
+B20180114A0900,0,25,6,4,Yangzhou,capricious,temperature,3
+B20180114A0905,0,33,4,5,Yangzhou,cold,temperature,2
+B20180114A0908,0,26,6,3,Yangzhou,disease,health,1
+B20180114A0909,1,48,4,4,Yangzhou,air pollution,pollution,3
+B20180114P1301,1,23,4,3,Yangzhou,melting ice,disaster,3
+B20180114P1302,0,80,5,3,Yangzhou,air pollution,pollution,2
+B20180114P1304,0,64,1,3,Yangzhou,air pollution,pollution,3
+B20180114P1306,1,60,6,3,Yangzhou,air pollution,pollution,2
+B20180114P1310,1,45,5,3,Yangzhou,air pollution,pollution,2
+B20180114P1311,1,55,7,4,Yangzhou,air pollution,pollution,3
+B20180114P1312,1,50,6,4,Yangzhou,El Nino/ozone hole,scienific terms,3
+B20180114P1401,1,70,4,2,Yangzhou,air pollution,pollution,3
+B20180114P1402,0,56,3,4,Yangzhou,nice weather,weather,2
+B20180114P1404,0,34,4,3,Yangzhou,cold,temperature,2
+B20180114P1405,0,39,4,5,Yangzhou,air pollution,pollution,3
+B20180114P1408,0,56,3,4,Yangzhou,anomaly,temperature,3
+B20180114P1409,0,72,5,3,Yangzhou,capricious,temperature,3
+A20170826A1045,0,37,4,3,Yangzhou,nice weather,weather,3
+A20170826A1041,1,38,4,4,Yangzhou,hot,temperature,2
+A20170826A1035,0,40,7,4,Yangzhou,socio-economic impact,socioeconomic_impact,3
+A20170826A1029,0,49,4,5,Yangzhou,anomaly,temperature,3
+A20170826A1023,1,63,3,3,Yangzhou,anomaly,temperature,1
+A20170826A1100,0,45,3,2,Yangzhou,others,adaptation,1
+A20170826A1038,1,38,7,5,Yangzhou,global warming,scienific terms,3
+A20170826A1046,1,30,4,4,Yangzhou,bad weather,weather,2
+A20170827A1048,1,55,4,2,Yangzhou,others,adaptation,3
+A20170827A1049,0,30,4,4,Yangzhou,bad weather,weather,2
+A20170827A1050,0,31,7,3,Yangzhou,green house effect,scienific terms,3
+A20170826A1109,0,59,4,4,Yangzhou,disease,health,3
+A20170826A1111,1,60,3,2,Yangzhou,bad weather,weather,3
+A20170826A1110,0,57,3,5,Yangzhou,disease,health,1
+A20170826A1059,0,68,2,3,Yangzhou,protect environment,mitigation,2
+A20170826A1058,1,59,4,3,Yangzhou,disease,health,3
+A20170826A1057,1,53,4,3,Yangzhou,disease,health,1
+A20170826A1056,0,42,6,4,Yangzhou,proverb,weather,3
+A20170826A1052,1,47,6,3,Yangzhou,green house effect,scienific terms,3
+A20170826A1051,0,44,4,4,Yangzhou,hurricane,disaster,2
+A20170827A1052,1,33,7,2,Yangzhou,flood,disaster,3
+A20170827A1051,1,61,3,3,Yangzhou,flood,disaster,2
+A20170827A1050,0,35,5,3,Yangzhou,air pollution,pollution,3
+A20170827A1049,0,50,4,3,Yangzhou,global warming,scienific terms,0
+A20170827A1048,0,73,5,2,Yangzhou,degradation,pollution,3
+A20170827A1045,0,73,3,4,Yangzhou,disease,health,1
+A20170827A1043,1,38,4,2,Yangzhou,flood,disaster,2
+A20170827A1042,0,64,6,4,Yangzhou,sandstorms,disaster,3
+A20170827A1041,1,24,7,2,Yangzhou,bad weather,weather,2
+A20170827A1039,1,37,6,4,Yangzhou,bad weather,weather,1
+A20170827A1038,1,69,7,4,Yangzhou,hot,temperature,3
+A20170827A1037,0,60,7,4,Yangzhou,cold,temperature,3
+A20170827A1033,1,36,6,3,Yangzhou,nice weather,weather,3
+A20170827A1031,1,70,5,5,Yangzhou,season,weather,3
+A20170827A1030,1,39,7,4,Yangzhou,disease,health,2
+A20170827A1029,0,35,4,4,Yangzhou,re. temperature,adaptation,3
+A20170827A1028,0,34,6,4,Yangzhou,re. temperature,adaptation,2
+A20170827A1027,0,37,4,4,Yangzhou,hot,temperature,3
+A20170827A1025,0,65,3,5,Yangzhou,capricious,temperature,2
+A20170827A1024,1,47,4,3,Yangzhou,other pollution,pollution,3
+A20170827A1023,0,35,5,5,Yangzhou,capricious,temperature,2
+A20170827A1016,0,37,6,3,Yangzhou,sandstorms,disaster,3
+A20170827A1015,1,42,6,3,Yangzhou,hurricane,disaster,2
+A20170827A1012,0,47,7,3,Yangzhou,capricious,temperature,3
+B0120170826a0801,1,65,3,3,Yangzhou,hurricane,disaster,3
+B0120170826a0802,1,63,3,3,Yangzhou,bad weather,weather,3
+B0120170826a0803,0,51,3,3,Yangzhou,hurricane,disaster,3
+B0120170826a0804,0,41,3,3,Yangzhou,hurricane,disaster,3
+B0120170826a0807,0,33,7,4,Yangzhou,green house effect,scienific terms,2
+B0120170826a0808,1,60,2,3,Yangzhou,air pollution,pollution,3
+B0120170826a0809,0,37,6,5,Yangzhou,bad weather,weather,3
+B0120170826a0810,0,70,5,5,Yangzhou,disease,health,3
+B0120170826a0811,0,38,6,4,Yangzhou,disease,health,3
+B0120170826a0812,1,29,6,3,Yangzhou,sandstorms,disaster,2
+B0120170826a0813,1,80,4,3,Yangzhou,bad weather,weather,3
+B0120170826a0816,0,67,3,3,Yangzhou,hurricane,disaster,3
+B0120170826a0817,0,56,3,3,Yangzhou,hurricane,disaster,3
+B0220170826a0801,0,52,6,4,Yangzhou,hot,temperature,3
+B0220170826a0802,0,40,6,4,Yangzhou,bad weather,weather,3
+B0220170826a0803,1,43,7,4,Yangzhou,hurricane,disaster,3
+B0220170826a0804,0,63,1,4,Yangzhou,others,adaptation,3
+B0220170826a0808,0,70,4,3,Yangzhou,others,adaptation,2
+B0220170826a0809,0,66,3,3,Yangzhou,hurricane,disaster,3
+B0220170826a0811,1,61,6,8,Yangzhou,re. temperature,adaptation,3
+B0220170826a0812,0,28,6,4,Yangzhou,bad weather,weather,3
+B0220170826a0814,0,50,4,4,Yangzhou,bad weather,weather,3
+B0220170827a0802,1,62,4,8,Yangzhou,others,adaptation,2
+B0220170827a0803,0,66,4,4,Yangzhou,anomaly,temperature,3
+B0220170827a0804,0,61,3,3,Yangzhou,global warming,scienific terms,0
+B0220170827a0806,1,75,5,4,Yangzhou,others,adaptation,3
+B0220170827a0807,0,30,6,3,Yangzhou,bad weather,weather,3
+B0220170827a0808,0,64,6,4,Yangzhou,vehicle/industrial exhaust,cause,3
+B0220170827a0811,0,67,2,3,Yangzhou,bad weather,weather,3
+B0120170827a0803,1,78,4,4,Yangzhou,protect environment,mitigation,3
+B0120170827a0806,1,25,8,4,Yangzhou,anomaly,temperature,3
+B0120170827a0810,1,65,5,5,Yangzhou,bad weather,weather,3
+B0120170827a0811,1,73,7,3,Yangzhou,nice weather,weather,3
+B0120170827a0813,1,68,3,3,Yangzhou,global warming,scienific terms,3
+B0120170827a0816,0,68,3,4,Yangzhou,urbanization/economy,cause,3
+B0120170827a0817,1,79,7,4,Yangzhou,others,adaptation,3
+C20170826A0810,1,21,7,5,Yangzhou,hot,temperature,3
+C20170826A0836,0,26,7,3,Yangzhou,green house effect,scienific terms,3
+C20170826A0841,1,30,7,4,Yangzhou,air pollution,pollution,3
+C20170826A0851,1,50,3,4,Yangzhou,green house effect,scienific terms,3
+C20170826A0852,1,67,4,4,Yangzhou,others,adaptation,2
+C20170826A0900,1,45,6,4,Yangzhou,hot,temperature,3
+C20170826A0907,0,44,6,4,Yangzhou,air pollution,pollution,3
+C20170826A0915,0,41,7,5,Yangzhou,global warming,scienific terms,3
+C20170826A1017,1,60,2,3,Yangzhou,air pollution,pollution,3
+C20170826A1018,1,71,2,4,Yangzhou,hot,temperature,1
+C20170826A1101,0,67,6,4,Yangzhou,global warming,scienific terms,3
+C20170826P1228,0,23,7,3,Yangzhou,bad weather,weather,2
+C20170827A0815,0,44,7,6,Yangzhou,nice weather,weather,2
+C20170827A0840,1,45,6,5,Yangzhou,hurricane,disaster,2
+C20170827A0843,0,28,7,3,Yangzhou,melting ice,disaster,1
+C20170827A0845,0,32,3,5,Yangzhou,disease,health,1
+C20170827A0853,0,28,6,3,Yangzhou,reduce emission,mitigation,3
+C20170827A0857,0,29,6,3,Yangzhou,reduce emission,mitigation,3
+C20170827A0903,1,53,4,6,Yangzhou,air pollution,pollution,3
+C20170827A0910,1,34,6,5,Yangzhou,air pollution,pollution,2
+C20170827A0942,1,50,7,4,Yangzhou,hot,temperature,3
+C20170827A0945,0,47,4,4,Yangzhou,bad weather,weather,2
+C20170827A0953,0,41,3,3,Yangzhou,vehicle/industrial exhaust,cause,3
+C20170827A1023,0,29,7,2,Yangzhou,others,adaptation,2
+D20170827A1235,0,48,3,3,Yangzhou,re. temperature,adaptation,3
+D20170827A1250,0,39,6,4,Yangzhou,bad weather,weather,2
+D20170827A1240,0,37,6,3,Yangzhou,vehicle/industrial exhaust,cause,3
+D20170827P1315,0,32,7,3,Yangzhou,other pollution,pollution,2
+D20170827P1330,0,38,7,4,Yangzhou,hurricane,disaster,3
+D20170827P1320,0,35,7,4,Yangzhou,capricious,temperature,3
+D20170827A1030,0,30,6,3,Yangzhou,nice weather,weather,3
+D20170827A1030,0,30,6,4,Yangzhou,air pollution,pollution,3
+D20170827A1214,0,54,3,4,Yangzhou,air pollution,pollution,3
+D20170827A1212,0,50,3,2,Yangzhou,hot,temperature,2
+D20170827A0911,0,38,6,5,Yangzhou,bad weather,weather,3
+D20170827A1020,1,32,7,4,Yangzhou,air pollution,pollution,3
+D20170827A1030,1,32,4,5,Yangzhou,hail,disaster,3
+D20170827A1130,1,28,7,4,Yangzhou,hurricane,disaster,2
+D20170827A1150,1,45,2,3,Yangzhou,air pollution,pollution,3
+D20170827A1150,1,41,5,4,Yangzhou,bad weather,weather,2
+D20170827A1205,1,34,7,3,Yangzhou,sandstorms,disaster,2
+D20170827A1210,1,53,4,3,Yangzhou,bad weather,weather,2
+D20170827A1222,1,37,6,4,Yangzhou,capricious,temperature,3
+D20170827A1230,1,35,7,2,Yangzhou,other pollution,pollution,0
+D20170827P1312,1,54,3,3,Yangzhou,vehicle/industrial exhaust,cause,3
+D20170827A0902,0,30,6,3,Yangzhou,capricious,temperature,3
+D20170827A0930,0,26,6,3,Yangzhou,urbanization/economy,cause,3
+D20170827A0930,0,36,7,4,Yangzhou,El Nino/ozone hole,scienific terms,3
+D20170827A1045,1,52,8,2,Yangzhou,earthquake,disaster,2
+D20170827A1050,0,51,3,3,Yangzhou,bad weather,weather,2
+D20170826A1112,0,38,6,5,Yangzhou,urbanization/economy,cause,3
+D20170826A1001,0,41,7,4,Yangzhou,air pollution,pollution,3
+D20170826A0908,0,46,3,4,Yangzhou,proverb,weather,3
+D20170826A0900,0,56,3,2,Yangzhou,disease,health,2
+D20170826A0900,0,51,3,4,Yangzhou,capricious,temperature,3
+D20170826A1100,0,53,3,2,Yangzhou,disease,health,2
+D20170826P1838,0,38,7,3,Yangzhou,bad weather,weather,3
+D20170826P1810,0,31,7,4,Yangzhou,hot,temperature,3
+D20170826P1825,0,36,7,4,Yangzhou,disease,health,2
+D20170826P1715,0,24,7,5,Yangzhou,bad weather,weather,3
+D20170826A1008,0,29,7,4,Yangzhou,bad weather,weather,3
+D20170826A0945,1,58,4,3,Yangzhou,global warming,scienific terms,1
+D20170826A0946,1,56,3,3,Yangzhou,hot,temperature,3
+D20170826A0951,1,42,7,5,Yangzhou,hot,temperature,3
+D20170826A0956,1,30,8,3,Yangzhou,El Nino/ozone hole,scienific terms,3
+D20170826A0958,1,25,7,5,Yangzhou,green house effect,scienific terms,3
+D20170826A1005,1,41,5,2,Yangzhou,air pollution,pollution,1
+D20170826A1046,1,52,3,1,Yangzhou,El Nino/ozone hole,scienific terms,3
+D20170826A1058,1,34,7,4,Yangzhou,bad weather,weather,3
+D20170826A1110,1,22,7,3,Yangzhou,nice weather,weather,3
+D20170826A1000,1,55,4,3,Yangzhou,disease,health,2
+D20170826A0930,1,58,4,2,Yangzhou,disease,health,1
+D20170826A1030,1,39,7,4,Yangzhou,hot,temperature,2
+D20170826P1820,1,30,7,3,Yangzhou,other pollution,pollution,3
+D20170826P1800,1,30,6,4,Yangzhou,hot,temperature,1
+A20180120A0830,0,42,2,2,Yancheng,hurricane,disaster,3
+A20180120A0831,0,42,3,4,Yancheng,global warming,scienific terms,1
+A20180120A0832,1,16,3,4,Yancheng,global warming,scienific terms,3
+A20180120A0833,0,39,3,3,Yancheng,bad weather,weather,3
+A20180120A0835,0,47,4,3,Yancheng,air pollution,pollution,3
+A20180120A0837,0,51,2,2,Yancheng,hurricane,disaster,3
+A20180120A0840,1,55,2,3,Yancheng,season,weather,3
+A20180120A0841,0,51,3,2,Yancheng,bad weather,weather,3
+A20180120A0842,1,54,3,3,Yancheng,other pollution,pollution,0
+A20180120A0843,1,40,7,4,Yancheng,anomaly,temperature,3
+A20180120A0844,0,45,3,4,Yancheng,others,adaptation,1
+A20180120A0900,0,36,7,5,Yancheng,green house effect,scienific terms,3
+A20180120A0902,0,23,7,5,Yancheng,global warming,scienific terms,3
+A20180120A0905,0,54,4,2,Yancheng,hurricane,disaster,3
+A20180120A0906,0,19,4,4,Yancheng,disease,health,3
+A20180120A0907,1,17,4,5,Yancheng,green house effect,scienific terms,3
+A20180120A0908,0,33,7,6,Yancheng,air pollution,pollution,2
+A20180120A0909,1,52,3,3,Yancheng,air pollution,pollution,3
+A20180120A0910,0,24,6,4,Yancheng,disease,health,0
+A20180120A0911,0,20,6,4,Yancheng,unhapiness,health,2
+A20180120A0913,0,43,3,4,Yancheng,socio-economic impact,socioeconomic_impact,1
+A20180120A0915,1,48,6,5,Yancheng,global warming,scienific terms,3
+A20180120A0916,0,27,3,3,Yancheng,re. weather change,adaptation,2
+A20180121A0831,1,30,7,5,Yancheng,bad weather,weather,3
+A20180121A0832,0,20,7,3,Yancheng,bad weather,weather,1
+A20180121A0833,0,52,3,3,Yancheng,earthquake,disaster,3
+A20180121A0834,1,52,4,4,Yancheng,hail,disaster,3
+A20180121A0836,1,20,3,3,Yancheng,earthquake,disaster,2
+A20180121A0839,0,41,3,4,Yancheng,air pollution,pollution,3
+A20180121A0840,0,47,3,5,Yancheng,bad weather,weather,3
+A20180121A0841,1,21,5,3,Yancheng,cold,temperature,2
+A20180121A0842,0,42,7,4,Yancheng,bad weather,weather,2
+A20180121A0843,0,39,3,3,Yancheng,hurricane,disaster,3
+A20180121A0845,0,36,3,8,Yancheng,disease,health,3
+A20180121A0846,0,52,3,3,Yancheng,bad weather,weather,3
+A20180121A0847,1,35,3,3,Yancheng,disease,health,1
+A20180121A0848,0,46,3,3,Yancheng,hurricane,disaster,1
+A20180121A0849,0,45,3,2,Yancheng,bad weather,weather,3
+A20180121A0852,0,44,3,3,Yancheng,bad weather,weather,3
+A20180121A0853,0,51,3,2,Yancheng,bad weather,weather,3
+A20180121A0854,0,52,3,2,Yancheng,bad weather,weather,3
+A20180121A0855,0,36,4,2,Yancheng,nice weather,weather,1
+A20180121A0856,1,28,7,8,Yancheng,air pollution,pollution,1
+A20180121A0859,0,34,3,3,Yancheng,bad weather,weather,1
+B20180121A0910,1,29,3,3,Yancheng,global warming,scienific terms,3
+B20180121A0912,0,49,3,3,Yancheng,air pollution,pollution,2
+B20180121A0918,0,40,3,3,Yancheng,bad weather,weather,3
+B20180121A0920,0,61,3,2,Yancheng,bad weather,weather,1
+B20180121A0922,0,14,3,3,Yancheng,bad weather,weather,2
+B20180121A0931,0,42,2,2,Yancheng,air pollution,pollution,3
+B20180121A0935,0,69,3,2,Yancheng,bad weather,weather,3
+B20180120A0900,0,29,6,3,Yancheng,bad weather,weather,3
+B20180120A0903,0,52,4,4,Yancheng,air pollution,pollution,3
+B20180120A0905,0,42,6,5,Yancheng,air pollution,pollution,2
+B20180120A0909,0,37,6,4,Yancheng,bad weather,weather,2
+B20180120A0910,0,29,6,5,Yancheng,disease,health,3
+B20180120A0912,1,45,6,3,Yancheng,anomaly,temperature,0
+B20180120A0915,0,65,4,3,Yancheng,cold,temperature,1
+B20180120A0916,0,27,7,5,Yancheng,global warming,scienific terms,2
+B20180120A0917,0,28,7,3,Yancheng,air pollution,pollution,1
+B20180120A0921,0,35,7,5,Yancheng,green house effect,scienific terms,3
+B20180120A0927,1,38,7,3,Yancheng,air pollution,pollution,2
+B20180120A0929,1,54,5,3,Yancheng,other pollution,pollution,3
+C20180120A1059,1,39,3,2,Yancheng,other pollution,pollution,1
+C20180120A1103,0,40,3,4,Yancheng,other pollution,pollution,3
+C20180120A1105,0,37,7,4,Yancheng,air pollution,pollution,3
+C20180120A1109,0,30,4,2,Yancheng,bad weather,weather,3
+C20180120A1110,1,46,4,4,Yancheng,air pollution,pollution,3
+C20180120A1111,1,35,7,3,Yancheng,protect environment,mitigation,1
+C20180120A1113,1,30,4,4,Yancheng,other pollution,pollution,3
+C20180120A1114,0,75,3,4,Yancheng,other pollution,pollution,3
+C20180120A1116,1,35,7,4,Yancheng,air pollution,pollution,3
+C20180120A1118,0,49,3,4,Yancheng,air pollution,pollution,1
+C20180120A1120,0,38,4,4,Yancheng,cold,temperature,1
+C20180120A1130,1,34,3,1,Yancheng,global warming,scienific terms,3
+C20180121A1002,0,27,6,3,Yancheng,capricious,temperature,2
+C20180121A1003,0,24,7,5,Yancheng,air pollution,pollution,3
+C20180121A1004,0,47,5,4,Yancheng,air pollution,pollution,3
+C20180121A1006,1,42,7,4,Yancheng,vehicle/industrial exhaust,cause,2
+C20180121A1007,0,51,4,3,Yancheng,air pollution,pollution,2
+C20180121A1008,0,53,4,4,Yancheng,other pollution,pollution,2
+C20180121A1009,0,49,4,5,Yancheng,cold,temperature,3
+C20180121A1013,0,27,6,4,Yancheng,bad weather,weather,3
+C20180121A1021,0,53,4,4,Yancheng,air pollution,pollution,3
+C20180121A1022,1,29,7,4,Yancheng,other pollution,pollution,2
+C20180121P1442,1,25,7,4,Yancheng,proverb,weather,0
+C20180121P1444,0,56,2,2,Yancheng,world endings,disaster,3
+C20180121P1445,0,30,6,2,Yancheng,air pollution,pollution,2
+C20180121P1447,0,30,6,3,Yancheng,season,weather,3
+C20180121P1452,0,45,3,2,Yancheng,disease,health,1
+C120170806A1101,1,56,4,2,Yancheng,capricious,temperature,2
+C220170806A1104,0,30,8,6,Yancheng,green house effect,scienific terms,3
+C220170806A1106,1,52,7,4,Yancheng,global warming,scienific terms,3
+C220170806A1107,0,54,6,5,Yancheng,global warming,scienific terms,3
+C220170805A0900,0,27,7,3,Yancheng,global warming,scienific terms,3
+C220170805A0905,1,42,6,4,Yancheng,other pollution,pollution,0
+C220170805A0907,0,26,7,3,Yancheng,world endings,disaster,3
+C220170805A0911,0,37,7,4,Yancheng,green house effect,scienific terms,3
+C220170805A0912,0,28,7,4,Yancheng,air pollution,pollution,3
+C220170805A0913,0,30,7,5,Yancheng,global warming,scienific terms,3
+C220170805A0915,0,29,7,4,Yancheng,bad weather,weather,3
+C220170805A0920,0,49,3,3,Yancheng,anomaly,temperature,3
+C220170805A1010,1,63,4,2,Yancheng,season,weather,2
+C120170805A1015,1,33,2,5,Yancheng,hot,temperature,3
+C120170805A1016,1,55,3,2,Yancheng,cold,temperature,3
+C120170805A1017,1,53,7,5,Yancheng,air pollution,pollution,3
+C120170805A1021,0,63,6,4,Yancheng,re. temperature,adaptation,3
+C120170805A1035,1,52,4,3,Yancheng,disease,health,3
+C120170805A1041,1,20,6,4,Yancheng,bad weather,weather,0
+C120170805A1042,0,17,3,2,Yancheng,wild fire,disaster,1
+C120170805A1043,1,55,4,3,Yancheng,drought,disaster,2
+C120170805A1044,0,46,4,6,Yancheng,drought,disaster,2
+C120170805A1046,1,26,7,3,Yancheng,global warming,scienific terms,2
+C120170805A1050,1,18,5,4,Yancheng,bad weather,weather,2
+C120170805A1051,1,19,7,3,Yancheng,green house effect,scienific terms,3
+C220170806A0952,1,31,6,4,Yancheng,hot,temperature,0
+B20170806A0846,1,21,7,5,Yancheng,green house effect,scienific terms,2
+B20170806A0850,1,29,6,3,Yancheng,air pollution,pollution,2
+B20170806A0943,0,58,3,3,Yancheng,hot,temperature,0
+B20170806A0945,0,33,5,3,Yancheng,hot,temperature,0
+B20170806A0950,1,19,6,2,Yancheng,cold,temperature,3
+B20170806A0953,0,34,6,4,Yancheng,hot,temperature,3
+B20170806A1001,0,34,3,4,Yancheng,reduce emission,mitigation,1
+B20170806A1022,0,30,3,3,Yancheng,global warming,scienific terms,2
+B20170806A1031,0,45,4,3,Yancheng,hot,temperature,2
+B20170805A0849,0,27,7,4,Yancheng,air pollution,pollution,2
+B20170805A0856,0,46,6,5,Yancheng,air pollution,pollution,3
+B20170805A0859,0,37,7,3,Yancheng,hot,temperature,3
+B20170805A0904,1,54,4,2,Yancheng,hot,temperature,2
+B20170805A0907,1,18,6,5,Yancheng,green house effect,scienific terms,3
+B20170805A0911,0,40,5,4,Yancheng,hurricane,disaster,2
+B20170805A0915,0,43,6,3,Yancheng,air pollution,pollution,2
+B20170805A0916,1,51,4,2,Yancheng,hot,temperature,1
+B20170805A0950,1,67,4,3,Yancheng,anomaly,temperature,1
+B20170805A0952,1,35,7,5,Yancheng,air pollution,pollution,3
+B20170805A0955,1,35,7,5,Yancheng,disease,health,3
+B20170805A0958,0,67,3,3,Yancheng,season,weather,2
+B20170805A1019,0,29,6,4,Yancheng,reduce emission,mitigation,3
+B20170805A1020,1,43,6,6,Yancheng,bad weather,weather,3
+B20170805A1026,0,41,3,3,Yancheng,hurricane,disaster,2
+B20170805A1035,0,43,4,2,Yancheng,hurricane,disaster,1
+B20170805A1044,0,64,4,3,Yancheng,anomaly,temperature,1
+B20170805A1045,0,36,4,4,Yancheng,disease,health,3
+A120170806A0704,0,35,4,4,Yancheng,bad weather,weather,2
+A120170806A0705,1,21,6,4,Yancheng,hail,disaster,3
+A120170806A0706,1,32,4,3,Yancheng,hurricane,disaster,3
+A120170806A0707,1,39,3,3,Yancheng,hurricane,disaster,3
+A120170806A0708,0,52,4,4,Yancheng,hurricane,disaster,1
+A120170806A0709,1,65,3,3,Yancheng,cold,temperature,1
+A120170806A0710,1,40,3,4,Yancheng,flood,disaster,3
+A120170806A0711,0,20,5,3,Yancheng,hot,temperature,1
+A120170806A0712,0,41,3,3,Yancheng,bad weather,weather,1
+A120170806A0713,1,31,3,2,Yancheng,bad weather,weather,0
+A120170806A0714,0,29,4,3,Yancheng,hurricane,disaster,3
+A120170806A0716,1,60,3,2,Yancheng,bad weather,weather,3
+A120170806A0718,1,77,2,3,Yancheng,hot,temperature,2
+A120170806A0719,1,75,2,3,Yancheng,physical discomfort,health,3
+A120170806A0720,1,61,2,4,Yancheng,hot,temperature,3
+A120170806A0721,0,45,3,6,Yancheng,bad weather,weather,1
+A120170806A0901,1,36,4,4,Yancheng,hot,temperature,3
+A120170806A0903,0,35,4,4,Yancheng,hot,temperature,3
+A120170806A0904,1,61,2,5,Yancheng,bad weather,weather,2
+A120170806A0933,0,34,2,3,Yancheng,hurricane,disaster,2
+A120170805P0401,1,65,4,4,Yancheng,bad weather,weather,0
+A120170805P0402,1,42,7,4,Yancheng,hurricane,disaster,3
+A120170805P0404,0,76,5,3,Yancheng,air pollution,pollution,3
+A120170805P0405,0,30,7,3,Yancheng,hot,temperature,2
+A120170805P0406,1,53,3,3,Yancheng,bad weather,weather,2
+A120170805P0407,0,32,7,4,Yancheng,global warming,scienific terms,3
+A120170805P0408,0,59,4,4,Yancheng,bad weather,weather,2
+A120170805P0410,0,70,3,3,Yancheng,unhapiness,health,3
+A120170805P0412,0,51,3,3,Yancheng,bad weather,weather,1
+A220170805P0401,0,41,3,3,Yancheng,bad weather,weather,1
+A220170805P0455,0,41,4,4,Yancheng,hot,temperature,0
+A220170805P0510,0,36,3,4,Yancheng,hot,temperature,0
+A220170805P0541,1,55,7,4,Yancheng,bad weather,weather,3
+A220170805P0553,1,36,6,3,Yancheng,reduce emission,mitigation,2
+A220170805P0554,0,57,6,3,Yancheng,hurricane,disaster,1
+A220170805P0555,0,35,7,2,Yancheng,disease,health,3
+A220170805P0602,1,60,4,4,Yancheng,air pollution,pollution,2
+A220170805P0603,0,36,4,3,Yancheng,season,weather,3
+A220170805P0605,0,36,4,3,Yancheng,hurricane,disaster,3
+A220170805P0607,1,38,6,4,Yancheng,hot,temperature,3
+HZ-20190827-01-01-01,1,23,7,4,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-01-02,1,18,7,4,Hangzhou,green house effect,scienific terms,3
+HZ-20190827-01-01-03,1,42,7,7,Hangzhou,hot,temperature,3
+HZ-20190828-01-01-05,0,22,3,3,Hangzhou,capricious,temperature,1
+HZ-20190828-01-01-06,1,28,7,5,Hangzhou,hot,temperature,3
+HZ-20190828-01-01-07,1,32,7,6,Hangzhou,hot,temperature,3
+HZ-20190828-01-01-08,0,19,7,5,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-01-09,1,40,3,4,Hangzhou,hot,temperature,1
+HZ-20190828-01-01-10,0,38,5,4,Hangzhou,hot,temperature,3
+HZ-20190828-01-01-11,0,38,7,7,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-01-12,1,19,7,6,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-01-13,1,27,6,4,Hangzhou,bad weather,weather,3
+HZ-20190828-01-01-14,0,24,7,4,Hangzhou,hot,temperature,2
+HZ-20190828-01-01-15,0,45,4,6,Hangzhou,hot,temperature,3
+HZ-20190828-01-01-16,1,45,8,7,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-02-01,0,30,6,5,Hangzhou,nice weather,weather,2
+HZ-20190827-01-02-02,0,28,6,8,Hangzhou,disease,health,3
+HZ-20190827-01-02-03,1,34,6,6,Hangzhou,hot,temperature,0
+HZ-20190827-01-02-04,0,25,8,4,Hangzhou,nice weather,weather,3
+HZ-20190828-01-02-05,1,40,7,5,Hangzhou,proverb,weather,3
+HZ-20190828-01-02-06,0,24,8,6,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-02-07,1,32,8,5,Hangzhou,hot,temperature,3
+HZ-20190828-01-02-08,1,19,7,6,Hangzhou,hot,temperature,2
+HZ-20190828-01-02-09,1,24,6,4,Hangzhou,bad weather,weather,3
+HZ-20190828-01-02-10,1,45,7,5,Hangzhou,hot,temperature,0
+HZ-20190828-01-02-11,0,36,7,5,Hangzhou,capricious,temperature,3
+HZ-20190828-01-02-12,0,36,7,5,Hangzhou,anomaly,temperature,3
+HZ-20190828-01-02-13,0,35,6,4,Hangzhou,GHG/CO2 emission,cause,3
+HZ-20190828-01-02-14,1,44,6,3,Hangzhou,El Nino/ozone hole,scienific terms,2
+HZ-20190828-01-02-15,1,37,4,5,Hangzhou,El Nino/ozone hole,scienific terms,2
+HZ-20190828-01-02-16,0,46,7,7,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-02-17,1,46,4,4,Hangzhou,global warming,scienific terms,2
+HZ-20190828-01-02-18,1,20,7,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_01_03_01,0,23,6,5,Hangzhou,re. temperature,adaptation,3
+HZ_20190827_01_03_02,1,18,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_01_03_03,0,20,6,3,Hangzhou,hot,temperature,2
+HZ_20190827_01_03_04,0,24,7,6,Hangzhou,air pollution,pollution,3
+HZ_20190828_01_03_05,1,27,7,3,Hangzhou,hurricane,disaster,2
+HZ_20190828_01_03_06,1,32,4,4,Hangzhou,hurricane,disaster,3
+HZ_20190828_01_03_07,1,61,8,4,Hangzhou,hot,temperature,1
+HZ_20190828_01_03_08,1,48,8,4,Hangzhou,hot,temperature,1
+HZ_20190828_01_03_09,1,36,8,5,Hangzhou,bad weather,weather,2
+HZ_20190828_01_03_10,1,38,4,4,Hangzhou,socio-economic impact,socioeconomic_impact,3
+HZ_20190828_01_03_11,1,17,4,4,Hangzhou,bad weather,weather,1
+HZ_20190828_01_03_12,0,41,3,3,Hangzhou,bad weather,weather,2
+HZ_20190828_01_03_13,1,24,7,4,Hangzhou,hurricane,disaster,3
+HZ-20190827-01-04-01,0,24,8,6,Hangzhou,season,weather,3
+HZ-20190827-01-04-02,0,24,7,5,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-04-03,0,30,6,7,Hangzhou,hot,temperature,3
+HZ-20190827-01-04-04,0,25,6,7,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-04-05,0,25,8,7,Hangzhou,global warming,scienific terms,1
+HZ-20190827-01-04-06,1,35,4,4,Hangzhou,hot,temperature,2
+HZ-20190828-01-04-07,1,32,7,7,Hangzhou,degradation,pollution,2
+HZ-20190828-01-04-08,0,40,7,8,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-04-09,1,32,6,3,Hangzhou,hot,temperature,2
+HZ-20190828-01-04-10,0,28,7,6,Hangzhou,hot,temperature,2
+HZ-20190828-01-04-11,1,33,6,6,Hangzhou,disease,health,3
+HZ-20190828-01-04-12,0,30,7,5,Hangzhou,hot,temperature,2
+HZ-20190828-01-04-13,1,36,7,5,Hangzhou,sandstorms,disaster,3
+HZ-20190828-01-04-14,0,34,7,6,Hangzhou,bad weather,weather,3
+HZ-20190828-01-04-15,0,22,8,3,Hangzhou,bad weather,weather,3
+HZ-20190828-01-04-16,1,22,4,7,Hangzhou,disease,health,3
+HZ-20190828-01-04-17,0,23,8,6,Hangzhou,bad weather,weather,3
+HZ-20190828-01-04-18,0,36,5,8,Hangzhou,degradation,pollution,3
+HZ-20190828-01-04-19,1,24,7,4,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ-20190828-01-04-20,0,30,6,6,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-05-01,0,31,6,4,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-05-02,1,24,7,6,Hangzhou,hurricane,disaster,2
+HZ-20190827-01-05-03,0,23,7,6,Hangzhou,air pollution,pollution,3
+HZ-20190827-01-05-04,0,23,7,4,Hangzhou,hurricane,disaster,2
+HZ-20190827-01-05-05,0,35,6,4,Hangzhou,hot,temperature,3
+HZ-20190827-01-05-06,0,30,7,1,Hangzhou,El Nino/ozone hole,scienific terms,2
+HZ-20190827-01-05-07,1,40,8,5,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-08,0,24,7,1,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-09,0,24,7,1,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-10,0,28,7,5,Hangzhou,hot,temperature,3
+HZ-20190828-01-05-11,0,28,7,7,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-12,1,45,8,7,Hangzhou,air pollution,pollution,1
+HZ-20190828-01-05-13,0,38,7,3,Hangzhou,bad weather,weather,1
+HZ-20190828-01-05-14,0,27,7,5,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-15,0,40,7,5,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-16,0,11,2,4,Hangzhou,air pollution,pollution,1
+HZ-20190828-01-05-17,0,23,7,1,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-05-18,0,23,7,5,Hangzhou,melting ice,disaster,2
+HZ-20190828-01-05-19,0,24,7,8,Hangzhou,bad weather,weather,3
+HZ-20190828-01-05-20,0,31,7,4,Hangzhou,air pollution,pollution,3
+HZ_2019028__02__06_01,1,17,4,6,Hangzhou,global warming,scienific terms,3
+HZ_2019028__02__06_02,0,32,7,7,Hangzhou,physical discomfort,health,2
+HZ_2019028__02__06_03,0,18,4,4,Hangzhou,hot,temperature,2
+HZ_2019028__02__06_04,0,34,7,3,Hangzhou,bad weather,weather,3
+HZ_2019028__02__06_05,1,22,7,6,Hangzhou,global warming,scienific terms,1
+HZ_2019028__02__06_06,1,14,3,6,Hangzhou,hot,temperature,2
+HZ_2019028__02__06_07,0,66,3,3,Hangzhou,hot,temperature,3
+HZ_2019028__02__06_09,1,24,7,3,Hangzhou,GHG/CO2 emission,cause,3
+HZ_2019028__02__06_11,1,25,7,4,Hangzhou,hot,temperature,3
+HZ_2019027__02__06_12,0,41,6,7,Hangzhou,hot,temperature,3
+HZ_2019028__02__06_13,1,12,2,3,Hangzhou,hot,temperature,3
+HZ_2019027__02__06_14,1,51,7,8,Hangzhou,hot,temperature,2
+HZ_2019028__02__06_15,0,23,6,4,Hangzhou,capricious,temperature,3
+HZ_2019028__02__06_16,1,10,2,4,Hangzhou,global warming,scienific terms,3
+HZ_2019028__02__06_17,0,21,7,7,Hangzhou,capricious,temperature,3
+HZ_2019028__02__06_18,1,55,3,2,Hangzhou,hot,temperature,3
+HZ_2019028__02__06_19,1,24,7,5,Hangzhou,bad weather,weather,3
+HZ_2019028__02__06_20,1,30,7,4,Hangzhou,air pollution,pollution,2
+HZ_2019028__02__06_21,0,32,7,4,Hangzhou,GHG/CO2 emission,cause,1
+HZ_2019028__02__06_22,0,17,4,6,Hangzhou,hot,temperature,3
+HZ_20190828__02__07_01,0,16,4,5,Hangzhou,capricious,temperature,1
+HZ_20190828__02__07_04,0,44,7,3,Hangzhou,hot,temperature,2
+HZ_20190828__02__07_06,0,19,4,4,Hangzhou,green house effect,scienific terms,2
+HZ_20190828__02__07_07,0,20,7,4,Hangzhou,global warming,scienific terms,3
+HZ_20190828__02__07_08,0,20,7,4,Hangzhou,global warming,scienific terms,3
+HZ_20190828__02__07_09,0,17,4,5,Hangzhou,hot,temperature,2
+HZ_20190828__02__07_10,0,18,4,4,Hangzhou,capricious,temperature,3
+HZ_20190828__02__07_11,0,16,4,5,Hangzhou,global warming,scienific terms,2
+HZ_20190828__02__07_12,0,17,4,4,Hangzhou,global warming,scienific terms,1
+HZ_20190828__02__07_13,1,32,7,3,Hangzhou,GHG/CO2 emission,cause,1
+HZ_20190827__02__07_14,1,31,6,8,Hangzhou,physical discomfort,health,2
+HZ_20190827__02__07_17,0,23,7,4,Hangzhou,hot,temperature,3
+HZ_20190827__02__07_18,0,24,7,4,Hangzhou,hot,temperature,3
+HZ_20190827__02__07_21,0,22,7,4,Hangzhou,others,disaster,3
+HZ_20190827__02__07_22,0,21,7,4,Hangzhou,global warming,scienific terms,3
+HZ_20190827__02__07_23,0,29,8,7,Hangzhou,hot,temperature,3
+HZ-20190827-02-08-01,0,25,7,3,Hangzhou,global warming,scienific terms,3
+HZ-20190827-02-08-02,1,55,4,5,Hangzhou,anomaly,temperature,3
+HZ-20190828-02-08-03,1,18,4,4,Hangzhou,hurricane,disaster,3
+HZ-20190828-02-08-04,0,30,8,5,Hangzhou,green house effect,scienific terms,3
+HZ-20190828-02-08-05,1,60,7,5,Hangzhou,GHG/CO2 emission,cause,2
+HZ-20190828-02-08-06,1,17,4,5,Hangzhou,hot,temperature,3
+HZ-20190828-02-08-07,1,16,4,4,Hangzhou,reduce emission,mitigation,2
+HZ-20190828-02-08-08,0,40,6,5,Hangzhou,hot,temperature,1
+HZ-20190828-02-08-09,0,36,6,4,Hangzhou,green house effect,scienific terms,3
+HZ-20190828-02-08-10,0,19,6,5,Hangzhou,hot,temperature,1
+HZ-20190828-02-08-11,1,20,7,7,Hangzhou,hot,temperature,3
+HZ_20190827_02_09_01,1,18,4,7,Hangzhou,season,weather,3
+HZ_20190827_02_09_02,1,27,6,3,Hangzhou,global warming,scienific terms,3
+HZ_20190827_02_09_03,0,52,7,4,Hangzhou,season,weather,3
+HZ_20190827_02_09_04,0,18,7,8,Hangzhou,rising sea,disaster,3
+HZ_20190827_02_09_05,1,35,8,5,Hangzhou,El Nino/ozone hole,scienific terms,0
+HZ_20190828_02_09_06,1,83,7,4,Hangzhou,global warming,scienific terms,3
+HZ_20190828_02_09_07,1,19,4,4,Hangzhou,hot,temperature,3
+HZ_20190828_02_09_08,0,19,4,4,Hangzhou,air pollution,pollution,3
+HZ_20190828_02_09_09,0,28,8,4,Hangzhou,hot,temperature,3
+HZ_20190828_02_09_10,1,15,4,5,Hangzhou,hurricane,disaster,3
+HZ_20190828_02_09_11,1,71,7,5,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190828_02_09_12,0,39,6,4,Hangzhou,hot,temperature,1
+HZ_20190828_02_09_13,0,50,3,5,Hangzhou,hot,temperature,2
+HZ_20190828_02_09_14,0,40,7,4,Hangzhou,air pollution,pollution,2
+HZ20190827031001,1,20,7,5,Hangzhou,global warming,scienific terms,2
+HZ20190827031003,1,23,6,2,Hangzhou,air pollution,pollution,2
+HZ20190827031004,0,25,3,3,Hangzhou,nice weather,weather,3
+HZ20190827031005,1,26,7,5,Hangzhou,hot,temperature,2
+HZ20190827031006,0,28,8,6,Hangzhou,nice weather,weather,2
+HZ20190827031007,1,22,6,4,Hangzhou,cold,temperature,3
+HZ20190827031008,1,22,7,4,Hangzhou,global warming,scienific terms,2
+HZ20190827031009,1,18,6,6,Hangzhou,bad weather,weather,1
+HZ20190827031010,0,24,6,3,Hangzhou,unhapiness,health,3
+HZ20190827031011,0,30,8,4,Hangzhou,air pollution,pollution,3
+HZ20190827031012,0,40,6,2,Hangzhou,hot,temperature,2
+HZ20190827031013,1,15,4,5,Hangzhou,global warming,scienific terms,2
+HZ20190827031014,1,16,4,5,Hangzhou,hot,temperature,3
+HZ20190827031015,1,38,7,8,Hangzhou,global warming,scienific terms,3
+HZ20190827031016,1,22,7,4,Hangzhou,global warming,scienific terms,3
+HZ20190827031017,1,23,7,4,Hangzhou,air pollution,pollution,2
+HZ20190827031018,1,18,7,6,Hangzhou,hot,temperature,3
+HZ20190827031019,0,48,7,4,Hangzhou,hot,temperature,2
+HZ20190827031020,0,24,6,4,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_01,0,30,7,6,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_02,0,28,7,5,Hangzhou,capricious,temperature,3
+HZ_20190827_03_11_03,1,30,8,5,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_11_04,1,28,8,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_05,1,20,7,5,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190827_03_11_06,1,46,7,6,Hangzhou,green house effect,scienific terms,2
+HZ_20190827_03_11_07,1,28,5,4,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_08,0,25,7,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_09,0,28,8,4,Hangzhou,bad weather,weather,1
+HZ_20190827_03_11_10,1,20,7,6,Hangzhou,air pollution,pollution,1
+HZ_20190827_03_11_11,1,38,5,4,Hangzhou,hurricane,disaster,1
+HZ_20190827_03_11_12,1,55,4,3,Hangzhou,bad weather,weather,3
+HZ_20190827_03_11_13,0,18,4,5,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_14,1,36,5,4,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_15,0,25,7,5,Hangzhou,green house effect,scienific terms,3
+HZ_20190827_03_11_16,0,32,6,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_17,1,29,7,4,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_18,0,26,7,4,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_11_19,0,30,8,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_12_01,0,28,7,4,Hangzhou,anomaly,temperature,3
+HZ_20190827_03_12_02,0,30,7,4,Hangzhou,sandstorms,disaster,3
+HZ_20190827_03_12_05,0,32,7,5,Hangzhou,melting ice,disaster,3
+HZ_20190827_03_12_07,1,25,7,4,Hangzhou,capricious,temperature,3
+HZ_20190827_03_12_08,0,36,6,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_12_09,0,37,7,3,Hangzhou,hot,temperature,3
+HZ_20190827_03_12_10,0,16,4,7,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_12_11,1,21,7,3,Hangzhou,urbanization/economy,cause,3
+HZ_20190827_03_12_12,1,42,4,4,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_12_13,1,41,2,4,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_12_14,1,15,3,2,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_12_17,1,19,4,5,Hangzhou,nice weather,weather,3
+HZ_20190827_03_12_18,1,33,3,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_12_20,1,18,4,5,Hangzhou,hot,temperature,2
+HZ_20190827_03_12_21,1,37,7,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_12_22,1,46,5,5,Hangzhou,green house effect,scienific terms,3
+HZ_20190827_03_12_23,1,41,4,6,Hangzhou,hot,temperature,3
+HZ_20190827-03-13-01,1,26,7,4,Hangzhou,air pollution,pollution,3
+HZ_20190827-03-13-02,1,19,7,4,Hangzhou,rising sea,disaster,3
+HZ_20190827-03-13-03,1,20,7,5,Hangzhou,season,weather,3
+HZ_20190827-03-13-04,0,19,7,5,Hangzhou,melting ice,disaster,3
+HZ_20190828-03-13-05,1,18,7,6,Hangzhou,other pollution,pollution,3
+HZ_20190828-03-13-06,1,26,8,4,Hangzhou,bad weather,weather,2
+HZ_20190828-03-13-07,0,19,7,4,Hangzhou,green house effect,scienific terms,3
+LD_190321_1230_NO1_01_G1,1,40,3,2,Longde,global warming,scienific terms,3
+LD_190321_1745_NO1_02_G2,0,28,7,3,Longde,nice weather,weather,1
+LD_190321_1930_NO1_03_G3,1,41,3,3,Longde,capricious,temperature,3
+LD_190322_1230_NO1_04_G4,0,39,3,1,Longde,global warming,scienific terms,3
+LD_190322_1745_NO1_05_G5,1,14,3,2,Longde,bad weather,weather,3
+LD_190322_1930_NO1_06_G6,1,41,7,4,Longde,green house effect,scienific terms,3
+LD_190323_0730_NO1_07_G7,0,44,4,3,Longde,degradation,pollution,3
+LD_190323_0900_NO1_08_G1,0,46,4,3,Longde,capricious,temperature,3
+LD_190323_1030_NO1_09_G2,0,36,2,6,Longde,air pollution,pollution,3
+LD_190323_1230_NO1_10_G3,0,38,3,3,Longde,bad weather,weather,3
+LD_190323_1400_NO1_11_G4,0,41,7,3,Longde,air pollution,pollution,3
+LD_190323_1530_NO1_12_G5,0,40,7,3,Longde,air pollution,pollution,3
+LD_190323_1800_NO1_13_G6,0,38,3,3,Longde,hail,disaster,3
+LD_190323_1930_NO1_14_G7,1,48,4,3,Longde,air pollution,pollution,3
+LD_190324_0730_NO1_15_G1,1,18,4,4,Longde,protect environment,mitigation,3
+LD_190324_0900_NO1_16_G2,0,44,4,2,Longde,others,disaster,2
+LD_190324_1030_NO1_17_G3,1,41,7,4,Longde,anomaly,temperature,3
+LD_190324_1230_NO1_18_G4,1,40,7,3,Longde,hot,temperature,3
+LD_190324_1530_NO1_20_G6,1,42,7,4,Longde,global warming,scienific terms,3
+LD_190324_1800_NO1_21_G7,0,36,5,3,Longde,hot,temperature,3
+LD_190325_1230_NO1_22_G1,0,36,7,4,Longde,cold,temperature,3
+LD_190325_1745_NO1_23_G2,0,37,4,3,Longde,hot,temperature,3
+LD_190326_1745_NO1_24_G3,1,36,7,4,Longde,nice weather,weather,3
+LD_190326_1930_NO1_25_G4,1,45,3,2,Longde,hot,temperature,3
+LD_190327_1930_NO1_26_G5,0,40,3,3,Longde,anomaly,temperature,3
+LD_190328_1230_NO1_27_G6,0,14,3,3,Longde,re. weather change,adaptation,3
+LD_190328_1930_NO1_28_G7,0,42,2,3,Longde,cold,temperature,1
+LD_190329_1230_NO1_29_G1,1,45,7,4,Longde,cold,temperature,1
+LD_190329_1745_NO1_30_G2,0,43,6,4,Longde,bad weather,weather,2
+LD_190329_1930_NO1_31_G3,0,43,7,4,Longde,global warming,scienific terms,3
+LD_190330_0730_NO1_32_G4,1,45,3,3,Longde,re. temperature,adaptation,3
+LD_190330_1230_NO1_33_G5,1,51,4,3,Longde,bad weather,weather,3
+LD_190330_1400_NO1_34_G6,0,36,3,2,Longde,air pollution,pollution,3
+LD_190330_1800_NO1_35_G7,1,42,2,3,Longde,drought,disaster,3
+LD_190331_0730_NO1_36_G1,1,18,4,3,Longde,drought,disaster,1
+LD_190331_0900_NO1_37_G2,1,37,2,1,Longde,drought,disaster,3
+LD_190331_1030_NO1_38_G3,0,44,4,2,Longde,air pollution,pollution,3
+LD_190331_1530_NO1_40_G5,0,35,3,3,Longde,sandstorms,disaster,2
+LD_190331_1800_NO1_41_G6,1,24,6,3,Longde,proverb,weather,1
+LD_190401_1230_NO1_42_G7,1,36,3,4,Longde,hot,temperature,3
+LD_190321_1230_NO2_01_G1,1,38,7,4,Longde,world endings,disaster,3
+LD_190321_1745_NO2_02_G2,0,35,2,2,Longde,bad weather,weather,3
+LD_190321_1230_NO2_03_G3,0,37,3,3,Longde,bad weather,weather,3
+LD_190322_1745_NO2_04_G4,1,15,3,1,Longde,capricious,temperature,3
+LD_190322_1930_NO2_05_G5,1,36,3,3,Longde,air pollution,pollution,3
+LD_190323_0730_NO2_06_G6,0,42,4,3,Longde,bad weather,weather,3
+LD_190323_0900_NO2_07_G7,1,48,4,7,Longde,anomaly,temperature,3
+LD_190323_1030_NO2_08_G1,0,13,3,3,Longde,air pollution,pollution,2
+LD_190323_1230_NO2_09_G2,1,39,7,4,Longde,air pollution,pollution,3
+LD_190323_1400_NO2_10_G3,1,41,7,4,Longde,melting ice,disaster,3
+LD_190323_1530_NO2_11_G4,0,45,4,3,Longde,bad weather,weather,3
+LD_190323_1800_NO2_12_G5,0,40,7,4,Longde,bad weather,weather,2
+LD_190323_1930_NO2_13_G6,0,44,5,3,Longde,air pollution,pollution,3
+LD_190324_0730_NO2_14_G7,1,18,4,2,Longde,global warming,scienific terms,3
+LD_190324_0900_NO2_15_G1,1,43,3,3,Longde,air pollution,pollution,3
+LD_190324_1030_NO2_16_G2,0,40,7,4,Longde,nice weather,weather,2
+LD_190324_1230_NO2_17_G3,0,44,4,3,Longde,other pollution,pollution,3
+LD_190324_1400_NO2_18_G4,1,15,3,3,Longde,hurricane,disaster,3
+LD_190324_1530_NO2_19_G5,0,42,7,4,Longde,disease,health,3
+LD_190325_1230_NO2_20_G6,1,43,4,2,Longde,others,adaptation,2
+LD_190325_1745_NO2_21_G7,0,43,3,3,Longde,proverb,weather,3
+LD_190326_1230_NO2_22_G1,0,38,2,2,Longde,hot,temperature,3
+LD_190326_1745_NO2_23_G2,1,55,6,4,Longde,unhapiness,health,3
+LD_190326_1930_NO2_24_G3,0,44,3,2,Longde,bad weather,weather,2
+LD_190327_1745_NO2_25_G4,0,42,7,4,Longde,nice weather,weather,3
+LD_190327_1930_NO2_26_G5,1,49,4,3,Longde,air pollution,pollution,3
+LD_190328_1230_NO2_27_G6,1,49,7,4,Longde,hot,temperature,2
+LD_190328_1745_NO2_28_G7,0,36,7,4,Longde,sandstorms,disaster,0
+LD_190328_1930_NO2_29_G1,0,38,2,3,Longde,cold,temperature,3
+LD_190329_1230_NO2_30_G2,0,44,7,4,Longde,bad weather,weather,3
+LD_190329_1745_NO2_31_G3,0,36,6,3,Longde,sandstorms,disaster,3
+LD_190329_1930_NO2_32_G4,1,45,4,3,Longde,nice weather,weather,3
+LD_190330_0900_NO2_33_G5,1,18,4,2,Longde,air pollution,pollution,3
+LD_190330_1230_NO2_34_G6,1,50,4,3,Longde,melting ice,disaster,3
+LD_190330_1530_NO2_35_G7,0,40,3,3,Longde,global warming,scienific terms,3
+LD_190330_1930_NO2_36_G1,0,39,3,3,Longde,unhapiness,health,2
+LD_190331_1030_NO2_37_G2,1,18,4,3,Longde,green house effect,scienific terms,3
+LD_190331_1400_NO2_38_G3,0,38,3,2,Longde,anomaly,temperature,3
+LD_190401_1230_NO2_39_G4,1,32,6,4,Longde,sandstorms,disaster,3
+LD_190401_1745_NO2_40_G5,0,23,6,2,Longde,bad weather,weather,3
+LD_190401_1930_NO2_41_G6,1,45,2,2,Longde,bad weather,weather,3
+LD_190402_1230_NO2_42_G7,1,37,3,3,Longde,proverb,weather,1
+LD_190402_1745_NO2_43_G1,0,40,3,3,Longde,season,weather,3
+LD_190402_1930_NO2_44_G2,1,54,4,3,Longde,season,weather,3
+LD_190403_1230_NO2_45_G3,1,40,3,3,Longde,nice weather,weather,1
+LD_190403_1900_NO2_46_G4,1,39,3,3,Longde,hot,temperature,3
+LD_190404_1230_NO2_47_G5,1,35,3,2,Longde,nice weather,weather,3
+LD_190404_1745_NO2_48_G6,1,32,3,2,Longde,nice weather,weather,3
+LD_190404_1930_NO2_49_G7,1,53,7,3,Longde,sandstorms,disaster,3
+LD_190405_0900_NO2_50_G1,1,42,3,3,Longde,drought,disaster,3
+LD_190405_1530_NO2_51_G2,0,25,7,3,Longde,sandstorms,disaster,3
+LD_190406_1030_NO2_52_G3,1,48,4,2,Longde,hot,temperature,3
+LD_190407_0900_NO2_53_G4,1,44,5,4,Longde,global warming,scienific terms,3
+LD_190407_1030_NO2_54_G5,1,36,4,4,Longde,bad weather,weather,3
+LD_190407_1800_NO2_55_G6,1,48,3,3,Longde,hot,temperature,3
+LD_190408_1030_NO2_56_G7,1,34,7,3,Longde,capricious,temperature,3
+LD_190402_1745_NO3_40_G5,0,35,3,3,Longde,bad weather,weather,2
+LD_190321_1745_NO3_02_G2,0,35,7,3,Longde,global warming,scienific terms,3
+LD_190321_1930_NO3_03_G3,1,49,4,3,Longde,global warming,scienific terms,3
+LD_190322_1230_NO3_04_G4,0,41,6,3,Longde,sandstorms,disaster,3
+LD_190322_1745_NO3_05_G5,0,50,3,3,Longde,hot,temperature,3
+LD_190322_1930_NO3_06_G6,1,42,3,3,Longde,hot,temperature,3
+LD_190323_0730_NO3_07_G7,0,43,3,2,Longde,others,adaptation,3
+LD_190323_0900_NO3_08_G1,0,13,3,2,Longde,air pollution,pollution,2
+LD_190323_1230_NO3_09_G2,1,39,6,7,Longde,global warming,scienific terms,1
+LD_190323_1400_NO3_10_G3,0,45,7,4,Longde,green house effect,scienific terms,3
+LD_190324_0900_NO3_11_G4,0,19,4,3,Longde,global warming,scienific terms,3
+LD_190324_1030_NO3_12_G5,0,14,3,4,Longde,El Nino/ozone hole,scienific terms,1
+LD_190324_1230_NO3_13_G6,0,39,4,3,Longde,air pollution,pollution,3
+LD_190325_1230_NO3_14_G7,0,39,2,3,Longde,unhapiness,health,2
+LD_190325_1745_NO3_15_G1,0,38,2,3,Longde,anomaly,temperature,2
+LD_190325_1930_NO3_16_G2,1,44,7,4,Longde,El Nino/ozone hole,scienific terms,3
+LD_190326_1230_NO3_17_G3,0,46,4,2,Longde,hot,temperature,3
+LD_190326_1745_NO3_18_G4,0,38,7,4,Longde,air pollution,pollution,1
+LD_190327_1745_NO3_19_G5,0,41,2,2,Longde,anomaly,temperature,3
+LD_190327_1930_NO3_20_G6,0,50,3,2,Longde,hot,temperature,3
+LD_190328_1230_NO3_21_G7,1,42,3,3,Longde,air pollution,pollution,3
+LD_190328_1745_NO3_22_G1,1,49,7,4,Longde,cold,temperature,3
+LD_190328_1930_NO3_23_G2,1,45,3,3,Longde,hot,temperature,3
+LD_190329_1745_NO3_24_G3,0,40,3,3,Longde,hot,temperature,2
+LD_190329_1930_NO3_25_G4,0,41,6,4,Longde,sandstorms,disaster,3
+LD_190330_0730_NO3_26_G5,1,37,7,3,Longde,protect environment,mitigation,3
+LD_190330_1400_NO3_27_G6,0,46,3,3,Longde,air pollution,pollution,3
+LD_190330_1800_NO3_28_G7,0,42,3,3,Longde,anomaly,temperature,1
+LD_190330_1930_NO3_29_G1,1,48,3,2,Longde,sandstorms,disaster,3
+LD_190331_0730_NO3_30_G2,0,43,3,3,Longde,global warming,scienific terms,3
+LD_190331_0900_NO3_31_G3,1,19,4,3,Longde,melting ice,disaster,2
+LD_190331_1030_NO3_32_G4,1,18,4,3,Longde,nice weather,weather,2
+LD_190331_1400_NO4_33_G5,1,18,4,3,Longde,global warming,scienific terms,3
+LD_190331_1530_NO4_34_G6,0,45,4,2,Longde,cold,temperature,3
+LD_190331_1800_NO4_35_G7,0,41,2,2,Longde,anomaly,temperature,2
+LD_190401_1230_NO3_36_G1,0,42,3,3,Longde,hot,temperature,2
+LD_190401_1745_NO3_37_G2,0,24,7,4,Longde,hot,temperature,3
+LD_190401_1930_NO3_38_G3,0,34,2,2,Longde,proverb,weather,2
+LD_190402_1230_NO3_39_G4,1,28,4,3,Longde,sandstorms,disaster,3
+LD_190402_1745_NO3_40_G5,0,29,6,3,Longde,capricious,temperature,3
+LD_190402_1930_NO3_41_G6,1,27,7,3,Longde,air pollution,pollution,3
+LD_190403_1230_NO3_42_G7,1,34,3,3,Longde,capricious,temperature,3
+LD_190403_1900_NO3_43_G1,1,21,4,3,Longde,bad weather,weather,3
+LD_190404_1230_NO3_44_G2,1,33,4,4,Longde,socio-economic impact,socioeconomic_impact,2
+LD_190404_1745_NO3_45_G3,1,35,7,3,Longde,disease,health,3
+LD_190404_1930_NO3_46_G4,1,36,3,3,Longde,capricious,temperature,3
+LD_190405_0900_NO3_47_G5,0,41,3,3,Longde,air pollution,pollution,3
+LD_190405_1030_NO3_48_G6,1,52,7,4,Longde,anomaly,temperature,3
+LD_190405_1400_NO3_48_G7,0,46,2,2,Longde,sandstorms,disaster,2
+LD_190406_1030_NO3_50_G1,1,50,4,2,Longde,anomaly,temperature,3
+LD_190407_0900_NO3_51_G2,1,43,7,3,Longde,hot,temperature,3
+LD_190407_1030_NO3_52_G3,1,32,4,4,Longde,capricious,temperature,3
+A20171209B1321,1,23,7,4,Dongguan,rising sea,disaster,2
+A20171209B1319,0,42,5,5,Dongguan,other pollution,pollution,3
+A20171209B1317,1,51,5,3,Dongguan,nice weather,weather,3
+A20171209A1050,1,33,7,6,Dongguan,global warming,scienific terms,3
+A20171209A1001,0,16,3,3,Dongguan,capricious,temperature,3
+A20171209A0925,0,23,3,4,Dongguan,capricious,temperature,0
+A20171209A0922,0,30,3,2,Dongguan,capricious,temperature,3
+A20171209A0920,0,29,6,5,Dongguan,capricious,temperature,1
+A20171209B1312,1,50,5,3,Dongguan,other pollution,pollution,3
+A20171209A0914,0,17,3,5,Dongguan,bad weather,weather,0
+A20171209B1305,1,41,2,3,Dongguan,vehicle/industrial exhaust,cause,3
+A20171209A0911,1,12,3,2,Dongguan,other pollution,pollution,2
+A20171209A0910,1,61,4,5,Dongguan,hot,temperature,3
+A20171209A0909,0,32,4,2,Dongguan,global warming,scienific terms,3
+A20171209A0908,0,23,4,4,Dongguan,other pollution,pollution,2
+A20171209A0904,1,21,3,4,Dongguan,degradation,pollution,3
+A20171209A0902,0,39,3,2,Dongguan,earthquake,disaster,3
+A20171209A0900,1,41,3,2,Dongguan,hurricane,disaster,3
+B20171209A0909,1,27,8,5,Dongguan,global warming,scienific terms,2
+B20171209A0945,0,28,4,4,Dongguan,bad weather,weather,3
+B20171209A1013,1,16,3,3,Dongguan,other pollution,pollution,0
+B20171209A1045,1,22,4,5,Dongguan,air pollution,pollution,2
+B20171209A1059,0,34,5,5,Dongguan,sandstorms,disaster,2
+B20171209A1101,0,27,4,5,Dongguan,capricious,temperature,1
+B20171209A1103,0,31,4,5,Dongguan,air pollution,pollution,3
+B20171209A1115,1,23,4,4,Dongguan,reduce emission,mitigation,3
+B20171209A1128,1,34,4,3,Dongguan,capricious,temperature,2
+B20171209A1132,0,31,5,4,Dongguan,disease,health,2
+B20171209A1139,0,30,5,3,Dongguan,cold,temperature,3
+B20171209A1200,1,27,5,4,Dongguan,hot,temperature,1
+B20171209B1533,0,15,3,7,Dongguan,anomaly,temperature,3
+B20171209B1512,0,23,6,4,Dongguan,socio-economic impact,socioeconomic_impact,3
+B20171209B1429,0,28,7,3,Dongguan,physical discomfort,health,1
+B20171209B1430,0,30,4,4,Dongguan,physical discomfort,health,2
+B20171209B1424,1,23,7,5,Dongguan,nice weather,weather,3
+B20171209B1503,1,34,4,3,Dongguan,physical discomfort,health,1
+B20171209A1203,1,33,4,4,Dongguan,air pollution,pollution,2
+B20171209B1529,0,15,3,1,Dongguan,re. temperature,adaptation,3
+C20171209A1035,1,26,4,2,Dongguan,nice weather,weather,3
+C20171209A1040,0,40,2,3,Dongguan,physical discomfort,health,3
+C20171209A1036,0,26,7,4,Dongguan,green house effect,scienific terms,2
+C20171209A1041,1,44,4,4,Dongguan,vehicle/industrial exhaust,cause,3
+C20171209A1045,1,55,3,1,Dongguan,other pollution,pollution,3
+C20171209A1042,1,53,3,4,Dongguan,global warming,scienific terms,3
+C20171209A1037,1,45,3,3,Dongguan,capricious,temperature,1
+C20171209A1038,0,20,6,1,Dongguan,re. temperature,adaptation,2
+C20171209A1030,0,38,7,4,Dongguan,disease,health,3
+C20171209A1031,1,33,6,4,Dongguan,re. weather change,adaptation,2
+C20171209A1032,0,43,4,4,Dongguan,vehicle/industrial exhaust,cause,3
+C20171209A1039,0,21,7,2,Dongguan,air pollution,pollution,3
+C20171209A1033,0,23,4,1,Dongguan,re. temperature,adaptation,3
+C20171209A1025,0,30,3,3,Dongguan,physical discomfort,health,3
+C20171209A1026,1,23,6,4,Dongguan,nice weather,weather,2
+C20171209A1020,0,29,7,4,Dongguan,air pollution,pollution,3
+C20171209A1021,0,40,3,3,Dongguan,nice weather,weather,3
+C20171209A1005,1,32,6,4,Dongguan,bad weather,weather,2
+C20171209A1006,1,38,7,5,Dongguan,socio-economic impact,socioeconomic_impact,3
+C20171209A1007,1,30,6,4,Dongguan,bad weather,weather,3
+C20171209A1000,0,26,7,3,Dongguan,nice weather,weather,3
+C20171209A1001,1,70,2,2,Dongguan,nice weather,weather,3
+C20171209A0955,1,28,7,4,Dongguan,hurricane,disaster,3
+C20171209A0950,0,45,4,3,Dongguan,hot,temperature,2
+C20171209A0915,0,54,2,3,Dongguan,nice weather,weather,3
+C20171209A0920,0,40,6,4,Dongguan,hot,temperature,3
+C20171209A0935,1,13,3,2,Dongguan,nice weather,weather,0
+C20171209A0930,1,43,4,4,Dongguan,nice weather,weather,2
+C20171209A0936,0,15,3,2,Dongguan,cold,temperature,3
+C20171209A0940,0,35,7,3,Dongguan,disease,health,3
+C20171209A0941,1,53,3,2,Dongguan,capricious,temperature,3
+C20171209A1051,0,38,4,4,Dongguan,nice weather,weather,0
+C20171209A1100,0,15,4,4,Dongguan,disease,health,3
+C20171209A1200,0,16,4,3,Dongguan,bad weather,weather,1
+C20171209A1141,0,22,7,4,Dongguan,reduce emission,mitigation,2
+C20171209A1125,0,28,6,4,Dongguan,nice weather,weather,3
+C20171209A1116,1,15,4,3,Dongguan,air pollution,pollution,2
+C20171209A1110,0,21,7,3,Dongguan,unhapiness,health,3
+C20171209A1111,0,15,4,5,Dongguan,hot,temperature,3
+C20171209A1112,1,15,4,2,Dongguan,bad weather,weather,1
+C20171209A1105,0,40,3,3,Dongguan,nice weather,weather,2
+C20171209A1200,0,16,4,2,Dongguan,bad weather,weather,0
+C20171209A1201,0,21,5,1,Dongguan,protect environment,mitigation,1
+C20171209A1155,1,40,3,2,Dongguan,nice weather,weather,0
+C20171209A1156,0,36,3,2,Dongguan,nice weather,weather,0
+C20171209A1151,0,42,7,4,Dongguan,air pollution,pollution,0
+C20171209A1152,0,40,4,3,Dongguan,nice weather,weather,1
+C20171209A1153,0,35,3,2,Dongguan,hot,temperature,3
+C20171209A1154,0,28,6,3,Dongguan,nice weather,weather,2
+C20171209A1158,1,50,7,3,Dongguan,hot,temperature,2
+A20170903A1005,1,49,4,2,Dongguan,hot,temperature,3
+A20170903A1006,1,40,7,4,Dongguan,other pollution,pollution,1
+A20170903A1007,1,38,7,3,Dongguan,vehicle/industrial exhaust,cause,2
+A20170903A1009,0,36,5,3,Dongguan,re. weather change,adaptation,3
+A20170903A1010,0,43,4,4,Dongguan,hot,temperature,2
+A20170903A1015,0,32,6,3,Dongguan,hot,temperature,2
+A20170903A1022,0,45,2,2,Dongguan,capricious,temperature,3
+A20170903A1023,1,44,3,3,Dongguan,anomaly,temperature,3
+A20170903A1024,1,48,4,3,Dongguan,disease,health,1
+A20170902P1203,1,29,4,3,Dongguan,other pollution,pollution,2
+A20170902P1204,0,45,2,3,Dongguan,other pollution,pollution,0
+A20170902P1202,0,18,5,4,Dongguan,green house effect,scienific terms,3
+A20170902P1203,0,18,4,5,Dongguan,green house effect,scienific terms,3
+A20170902A1121,1,41,4,4,Dongguan,vehicle/industrial exhaust,cause,0
+A20170902A1122,1,45,3,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1123,1,43,3,3,Dongguan,other pollution,pollution,0
+A20170902A1124,1,39,3,3,Dongguan,other pollution,pollution,1
+A20170902A1125,1,33,3,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1126,1,42,3,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1013,0,43,4,3,Dongguan,vehicle/industrial exhaust,cause,1
+A20170902A1117,0,37,7,6,Dongguan,sandstorms,disaster,2
+A20170902A1120,0,33,7,5,Dongguan,other pollution,pollution,3
+A20170903A0945,1,31,6,1,Dongguan,hurricane,disaster,3
+A20170903A0957,1,25,4,4,Dongguan,hot,temperature,2
+A20170903A0958,1,30,6,3,Dongguan,hot,temperature,2
+A20170903A0959,1,35,6,4,Dongguan,anomaly,temperature,3
+A20170903A1001,1,16,4,3,Dongguan,other pollution,pollution,2
+A20170903A1002,1,30,6,5,Dongguan,bad weather,weather,1
+A20170903A1004,1,24,4,3,Dongguan,protect environment,mitigation,3
+A20170903A1040,1,52,3,4,Dongguan,hot,temperature,2
+C20170902A0915,0,20,4,4,Dongguan,flood,disaster,3
+C20170902A0920,0,43,5,3,Dongguan,bad weather,weather,2
+C20170902A0925,0,26,6,3,Dongguan,bad weather,weather,2
+C20170902A0935,0,30,7,4,Dongguan,flood,disaster,1
+C20170902A0946,0,18,8,1,Dongguan,socio-economic impact,socioeconomic_impact,3
+C20170902A0947,0,30,4,4,Dongguan,flood,disaster,1
+C20170902A0949,0,22,7,4,Dongguan,El Nino/ozone hole,scienific terms,3
+C20170902A0951,0,29,4,2,Dongguan,capricious,temperature,2
+C20170902A0954,0,21,7,4,Dongguan,El Nino/ozone hole,scienific terms,2
+C20170902A0955,1,40,7,5,Dongguan,bad weather,weather,1
+C20170902A0956,1,33,6,4,Dongguan,others,adaptation,2
+C20170902A0957,0,58,3,1,Dongguan,re. weather change,adaptation,2
+C20170902A0958,0,22,7,5,Dongguan,El Nino/ozone hole,scienific terms,3
+C20170902A0959,1,53,4,1,Dongguan,hot,temperature,2
+C20170902A1000,0,18,7,5,Dongguan,vehicle/industrial exhaust,cause,2
+C20170902A1045,0,64,2,1,Dongguan,re. temperature,adaptation,1
+C20170902A1050,1,36,6,5,Dongguan,bad weather,weather,2
+B20170903A0930,1,42,6,3,Dongguan,earthquake,disaster,1
+B20170903A0931,0,24,7,4,Dongguan,hot,temperature,3
+B20170903A0932,0,28,6,3,Dongguan,melting ice,disaster,3
+B20170903A0933,1,25,6,4,Dongguan,earthquake,disaster,3
+B20170903A0934,0,23,7,3,Dongguan,re. weather change,adaptation,3
+B20170903A0935,1,40,6,3,Dongguan,hot,temperature,3
+B20170903A0937,1,23,6,4,Dongguan,rising sea,disaster,3
+B20170903A0940,1,48,6,1,Dongguan,earthquake,disaster,2
+B20170903A0939,1,38,6,2,Dongguan,earthquake,disaster,3
+B20170903A0942,1,49,4,4,Dongguan,anomaly,temperature,3
+B20170903A0943,1,27,6,4,Dongguan,vehicle/industrial exhaust,cause,3
+B20170903A0944,0,26,6,2,Dongguan,re. temperature,adaptation,0
+B20170903A0945,0,33,4,2,Dongguan,re. temperature,adaptation,3
+B20170903A0947,0,19,5,3,Dongguan,re. weather change,adaptation,3
+B20170903A0948,1,53,3,7,Dongguan,vehicle/industrial exhaust,cause,3
+B20170903A0949,0,20,6,3,Dongguan,re. weather change,adaptation,3
+B20170903A0950,0,18,6,3,Dongguan,re. temperature,adaptation,3
+B20170903A0951,0,18,6,3,Dongguan,hot,temperature,2
+B20170903A0952,0,22,7,2,Dongguan,re. weather change,adaptation,3
+B20170903A0953,1,22,3,3,Dongguan,re. weather change,adaptation,2
+B20170903A0954,1,25,6,3,Dongguan,anomaly,temperature,1
+B20170903A0955,1,38,4,3,Dongguan,other pollution,pollution,3
+B20170903A0957,0,21,6,3,Dongguan,others,adaptation,3
+B20170903A0958,0,20,6,3,Dongguan,hot,temperature,2
+B20170903A0959,0,21,6,3,Dongguan,bad weather,weather,2
+B20170903A0960,1,51,3,3,Dongguan,others,adaptation,1
+B20170902A0930,1,26,4,2,Dongguan,hurricane,disaster,3
+B20170902A0932,0,49,3,3,Dongguan,disease,health,1
+B20170902A0936,0,38,3,3,Dongguan,disease,health,3
+B20170902A0940,0,34,4,3,Dongguan,disease,health,2
+B20170902A0948,1,39,3,3,Dongguan,nice weather,weather,1
+B20170902A0951,1,22,4,3,Dongguan,hot,temperature,2
+B20170902A0952,1,44,7,4,Dongguan,physical discomfort,health,3
+B20170902A0955,1,39,3,3,Dongguan,bad weather,weather,3
+B20170902A0957,1,32,6,2,Dongguan,hurricane,disaster,3
+C20170903A1039,1,38,6,4,Dongguan,flood,disaster,3
+C20170903A1120,0,35,6,3,Dongguan,others,adaptation,1
+C20170903A1110,1,26,6,3,Dongguan,vehicle/industrial exhaust,cause,1
+C20170903A1111,1,30,6,3,Dongguan,reduce emission,mitigation,2
+C20170903A1130,1,27,3,2,Dongguan,capricious,temperature,3
+C20170903A1115,1,24,7,8,Dongguan,bad weather,weather,2
+C20170903A1100,1,34,7,4,Dongguan,re. weather change,adaptation,3
+C20170903A1040,0,35,6,3,Dongguan,re. weather change,adaptation,3
+C20170903A1036,0,50,7,4,Dongguan,re. weather change,adaptation,3
+C20170903A1041,0,40,7,5,Dongguan,re. weather change,adaptation,3
+C20170903A1031,1,28,6,5,Dongguan,bad weather,weather,3
+C20170903A1025,0,25,5,4,Dongguan,cold,temperature,3
+C20170903A1021,0,36,6,5,Dongguan,capricious,temperature,3
+C20170903A1016,0,36,3,3,Dongguan,nice weather,weather,2
+C20170903A1010,0,16,4,3,Dongguan,bad weather,weather,1
+C20170903A1005,1,27,7,5,Dongguan,hot,temperature,3
+C20170903A1000,1,30,6,3,Dongguan,hot,temperature,2
+C20170903A0945,0,36,5,3,Dongguan,re. weather change,adaptation,3
+C20170903A0925,0,22,7,4,Dongguan,green house effect,scienific terms,3
+C20170903A0935,0,26,7,3,Dongguan,urbanization/economy,cause,3
+C20170903A0926,1,35,5,3,Dongguan,bad weather,weather,0
+C20170903A0920,0,75,2,2,Dongguan,reduce emission,mitigation,3
+C20170903A0915,0,33,7,2,Dongguan,others,disaster,3
+C20170903A1037,1,33,7,3,Dongguan,re. temperature,adaptation,3
+C20170903A1031,0,37,6,4,Dongguan,hurricane,disaster,2
+A20180120A0920,0,30,5,3,Suzhou,urbanization/economy,cause,3
+A20180120A0940,0,46,3,3,Suzhou,others,adaptation,1
+A20180120A0955,1,40,7,5,Suzhou,air pollution,pollution,3
+A20180120A1120,1,53,7,5,Suzhou,disease,health,3
+A20180120A1125,1,24,4,5,Suzhou,vehicle/industrial exhaust,cause,2
+A20180120A1130,0,28,4,3,Suzhou,air pollution,pollution,3
+A20180120A1135,0,28,4,4,Suzhou,re. temperature,adaptation,3
+A20180121A0900,1,61,2,4,Suzhou,urbanization/economy,cause,2
+A20180121A0935,0,30,6,4,Suzhou,air pollution,pollution,2
+A20180121A0940,1,30,6,6,Suzhou,air pollution,pollution,3
+A20180121A0950,0,36,7,4,Suzhou,cold,temperature,3
+A20180121A1105,1,76,4,4,Suzhou,vehicle/industrial exhaust,cause,3
+A20180121A1115,0,34,4,5,Suzhou,air pollution,pollution,2
+B20180120A0916,0,25,7,5,Suzhou,air pollution,pollution,0
+B20180120A1056,0,17,3,5,Suzhou,global warming,scienific terms,0
+B20180120A1057,0,26,7,5,Suzhou,bad weather,weather,3
+B20180120A1101,0,11,2,8,Suzhou,rising sea,disaster,3
+B20180120A1130,0,22,6,6,Suzhou,disease,health,2
+B20180120A1131,1,36,6,5,Suzhou,air pollution,pollution,2
+B20180120A1129,0,16,3,3,Suzhou,vehicle/industrial exhaust,cause,2
+B20180120P1233,1,36,7,7,Suzhou,hurricane,disaster,1
+B20180120P1417,0,25,7,5,Suzhou,air pollution,pollution,3
+B20180120P1418,1,20,4,5,Suzhou,bad weather,weather,3
+B20180120P1421,1,42,6,4,Suzhou,air pollution,pollution,3
+B20180120P1426,1,24,6,5,Suzhou,cold,temperature,3
+B20180120P1428,0,33,4,3,Suzhou,air pollution,pollution,2
+B20180121A1000,0,24,3,7,Suzhou,physical discomfort,health,3
+B20180121A1003,0,18,4,3,Suzhou,capricious,temperature,3
+B20180121A1008,0,20,7,6,Suzhou,bad weather,weather,3
+B20180121A1013,1,24,3,4,Suzhou,reduce emission,mitigation,3
+B20180121A1014,0,24,6,4,Suzhou,reduce emission,mitigation,2
+B20180121A1016,1,28,6,5,Suzhou,re. temperature,adaptation,2
+B20180121A1019,1,31,6,5,Suzhou,rising sea,disaster,3
+B20180121A1020,0,24,3,4,Suzhou,disease,health,1
+B20180121A1021,1,20,7,3,Suzhou,others,adaptation,1
+B20180121A1022,0,30,4,3,Suzhou,vehicle/industrial exhaust,cause,3
+B20180121A1030,0,53,3,4,Suzhou,vehicle/industrial exhaust,cause,3
+B20180121A1032,1,72,4,5,Suzhou,re. temperature,adaptation,3
+B20180121A1033,0,35,6,4,Suzhou,air pollution,pollution,1
+C20180120A0905,0,29,6,6,Suzhou,disease,health,2
+C20180120A0910,0,33,7,5,Suzhou,global warming,scienific terms,3
+C20180120A0915,0,28,5,3,Suzhou,green house effect,scienific terms,3
+C20180120A0925,0,27,7,4,Suzhou,air pollution,pollution,3
+C20180120A0935,0,25,7,4,Suzhou,reduce emission,mitigation,3
+C20180120A0950,0,28,6,5,Suzhou,bad weather,weather,3
+C20180120A1000,0,27,7,5,Suzhou,others,disaster,3
+C20180120A1001,0,23,3,6,Suzhou,cold,temperature,3
+C20180120A1003,1,31,7,5,Suzhou,air pollution,pollution,3
+C20180120A1006,0,22,6,3,Suzhou,other pollution,pollution,3
+C20180120A1022,0,25,4,5,Suzhou,cold,temperature,2
+C20180120A1024,0,24,7,8,Suzhou,air pollution,pollution,0
+C20180120A1100,0,20,4,6,Suzhou,bad weather,weather,0
+C20180120A1103,0,22,7,4,Suzhou,bad weather,weather,3
+C20180120A1111,0,25,6,4,Suzhou,flood,disaster,3
+C20180120A1131,0,21,5,5,Suzhou,reduce emission,mitigation,3
+C20180120A1134,0,34,3,8,Suzhou,reduce emission,mitigation,1
+C20180121A1000,1,21,6,4,Suzhou,green house effect,scienific terms,1
+C20180121A1003,0,19,7,5,Suzhou,rising sea,disaster,2
+C20180121A1004,0,20,4,5,Suzhou,air pollution,pollution,3
+C20180121A1006,1,26,7,6,Suzhou,GHG/CO2 emission,cause,3
+C20180121A1007,0,18,4,4,Suzhou,green house effect,scienific terms,2
+C20180121A1008,0,20,6,7,Suzhou,capricious,temperature,2
+C20180121A1010,0,23,6,3,Suzhou,disease,health,3
+C20180121A1011,1,24,6,3,Suzhou,air pollution,pollution,2
+C20180121A1013,0,23,6,3,Suzhou,capricious,temperature,3
+C20180121A1014,0,19,4,4,Suzhou,cold,temperature,3
+C20180121A1015,0,41,7,4,Suzhou,air pollution,pollution,3
+C20180121A1017,0,26,7,4,Suzhou,air pollution,pollution,2
+C20180121A1018,1,29,5,3,Suzhou,green house effect,scienific terms,3
+C20180121A1019,1,34,4,4,Suzhou,bad weather,weather,3
+C20180121A1020,1,23,7,5,Suzhou,air pollution,pollution,3
+C20180121A1025,0,34,7,4,Suzhou,green house effect,scienific terms,2
+C20180121A1026,0,30,3,5,Suzhou,vehicle/industrial exhaust,cause,2
+C20180121A1027,1,61,3,5,Suzhou,urbanization/economy,cause,2
+C20180121A1028,1,35,4,2,Suzhou,vehicle/industrial exhaust,cause,3
+C20180121A1029,0,30,6,6,Suzhou,re. temperature,adaptation,1
+A20180113A0904,1,60,4,3,Yangzhou,anomaly,temperature,2
+A20180113A0911,1,66,3,2,Yangzhou,unhapiness,health,3
+A20180113A0912,1,29,7,4,Yangzhou,re. temperature,adaptation,2
+A20180113A0914,0,63,5,2,Yangzhou,global warming,scienific terms,3
+A20180113A0921,0,21,6,2,Yangzhou,vehicle/industrial exhaust,cause,3
+A20180113A0925,1,20,6,5,Yangzhou,bad weather,weather,2
+A20180113A0926,1,18,6,4,Yangzhou,bad weather,weather,1
+A20180113A0927,1,17,6,4,Yangzhou,bad weather,weather,1
+A20180113A0928,1,17,6,3,Yangzhou,bad weather,weather,1
+A20180113A0929,1,22,6,3,Yangzhou,bad weather,weather,3
+A20180113A0930,0,18,5,3,Yangzhou,air pollution,pollution,3
+A20180113A0931,1,20,6,4,Yangzhou,proverb,weather,3
+A20180113A0932,1,19,6,3,Yangzhou,bad weather,weather,2
+A20180113A0933,1,19,4,3,Yangzhou,bad weather,weather,1
+A20180114A0900,1,16,5,3,Yangzhou,bad weather,weather,3
+A20180114A0902,1,20,6,5,Yangzhou,bad weather,weather,2
+A20180114A0903,1,19,6,3,Yangzhou,bad weather,weather,3
+A20180114A0904,1,15,4,3,Yangzhou,bad weather,weather,2
+A20180114A0905,1,15,4,2,Yangzhou,bad weather,weather,0
+A20180114A0906,1,19,6,4,Yangzhou,bad weather,weather,3
+A20180114A0907,1,20,4,4,Yangzhou,bad weather,weather,3
+A20180114A0908,1,20,6,3,Yangzhou,bad weather,weather,2
+A20180114A0909,1,73,6,4,Yangzhou,others,adaptation,3
+A20180114A0910,0,56,3,5,Yangzhou,disease,health,3
+A20180114A0912,0,67,5,6,Yangzhou,re. temperature,adaptation,2
+A20180114A0913,1,68,7,5,Yangzhou,cold,temperature,3
+A20180114A0914,1,65,3,4,Yangzhou,air pollution,pollution,2
+A20180114A0915,0,56,6,5,Yangzhou,disease,health,3
+A20180114A0917,0,50,4,3,Yangzhou,air pollution,pollution,2
+A20180114A0918,0,68,3,3,Yangzhou,disease,health,2
+A20180114A0919,0,55,6,4,Yangzhou,capricious,temperature,3
+A20180114A0922,0,65,3,4,Yangzhou,disease,health,3
+A20180114A0924,0,63,4,4,Yangzhou,protect environment,mitigation,3
+A20180114A0925,0,60,5,3,Yangzhou,others,adaptation,2
+A20180114A0929,0,68,6,4,Yangzhou,disease,health,0
+A20180114A0931,0,59,4,4,Yangzhou,disease,health,3
+D20180113A0928,0,32,7,5,Yangzhou,global warming,scienific terms,1
+D20180113A0935,0,56,3,3,Yangzhou,disease,health,3
+D20180113A0937,0,70,3,3,Yangzhou,GHG/CO2 emission,cause,2
+D20180113A0938,0,41,5,3,Yangzhou,bad weather,weather,2
+D20180113A0939,0,37,6,5,Yangzhou,capricious,temperature,3
+D20180113A0942,0,50,4,3,Yangzhou,bad weather,weather,3
+D20180113A0944,1,30,6,3,Yangzhou,sandstorms,disaster,3
+D20180113A0945,1,52,3,3,Yangzhou,sandstorms,disaster,3
+D20180113A0947,1,60,3,4,Yangzhou,capricious,temperature,2
+D20180113A0948,1,60,3,5,Yangzhou,air pollution,pollution,0
+D20180113A0951,0,51,3,3,Yangzhou,disease,health,3
+D20180113A0952,1,62,3,3,Yangzhou,bad weather,weather,3
+D20180113A0953,0,62,3,4,Yangzhou,bad weather,weather,2
+D20180113A0954,0,71,5,4,Yangzhou,bad weather,weather,2
+D20180113A0956,0,65,3,5,Yangzhou,bad weather,weather,2
+D20180113A0958,0,71,1,3,Yangzhou,bad weather,weather,2
+D20180113A1000,0,29,6,4,Yangzhou,bad weather,weather,3
+D20180113A1020,0,39,6,4,Yangzhou,bad weather,weather,3
+D20180113A1130,0,31,7,3,Yangzhou,proverb,weather,3
+D20180113A1135,1,48,4,1,Yangzhou,bad weather,weather,3
+D20180114A0925,0,35,6,4,Yangzhou,hot,temperature,1
+D20180114A0926,1,65,4,5,Yangzhou,reduce emission,mitigation,3
+D20180114A0927,1,65,4,3,Yangzhou,vehicle/industrial exhaust,cause,2
+D20180114A0928,1,60,4,4,Yangzhou,bad weather,weather,2
+D20180114A0930,1,35,7,4,Yangzhou,global warming,scienific terms,3
+D20180114A0933,1,34,7,4,Yangzhou,air pollution,pollution,2
+D20180114A0934,0,66,3,5,Yangzhou,air pollution,pollution,3
+D20180114A0935,1,68,3,5,Yangzhou,rising sea,disaster,3
+D20180114A0938,1,65,4,5,Yangzhou,bad weather,weather,3
+D20180114A0940,0,30,6,4,Yangzhou,re. temperature,adaptation,3
+D20180114A0942,1,29,7,3,Yangzhou,re. temperature,adaptation,3
+D20180114A0947,0,68,3,4,Yangzhou,air pollution,pollution,2
+D20180114A0949,1,72,6,4,Yangzhou,proverb,weather,2
+D20180114A1000,0,68,4,3,Yangzhou,air pollution,pollution,2
+D20180114A1002,1,74,6,3,Yangzhou,air pollution,pollution,3
+D20180114A1003,1,70,3,3,Yangzhou,bad weather,weather,3
+D20180114A1004,1,72,3,3,Yangzhou,others,adaptation,3
+D20180114A1006,1,69,3,3,Yangzhou,bad weather,weather,2
+C20180113A1121,0,24,5,5,Yangzhou,disease,health,3
+C20180113A1120,0,38,4,3,Yangzhou,urbanization/economy,cause,3
+C20180113A1119,0,41,4,3,Yangzhou,world endings,disaster,0
+C20180113A1000,1,80,3,4,Yangzhou,disease,health,1
+C20180113A0943,1,77,4,3,Yangzhou,nice weather,weather,0
+C20180113A0941,1,40,5,3,Yangzhou,air pollution,pollution,2
+C20180113A0939,1,30,8,3,Yangzhou,air pollution,pollution,2
+C20180113A0937,1,71,3,6,Yangzhou,re. weather change,adaptation,2
+C20180113A0936,0,31,7,3,Yangzhou,air pollution,pollution,3
+C20180113A0935,0,43,6,3,Yangzhou,disease,health,2
+C20180113A0934,1,63,4,3,Yangzhou,protect environment,mitigation,1
+C20180113A0933,0,21,6,2,Yangzhou,air pollution,pollution,2
+C20180113A0931,0,40,6,3,Yangzhou,re. air pollution,adaptation,2
+C20180113A0928,1,75,4,5,Yangzhou,urbanization/economy,cause,3
+C20180113A0927,0,43,4,2,Yangzhou,other pollution,pollution,2
+C20180113A0925,0,25,6,5,Yangzhou,re. temperature,adaptation,0
+C20180113A0924,0,24,6,5,Yangzhou,re. temperature,adaptation,0
+C20180113A0923,1,30,7,3,Yangzhou,air pollution,pollution,3
+C20180113A0922,1,50,7,4,Yangzhou,air pollution,pollution,3
+C20180114A1008,0,43,3,2,Yangzhou,other pollution,pollution,2
+C20180114A1010,0,38,4,8,Yangzhou,re. air pollution,adaptation,2
+C20180114A1011,0,45,4,3,Yangzhou,re. temperature,adaptation,2
+C20180114A1015,0,43,4,3,Yangzhou,proverb,weather,2
+C20180114A1019,0,36,6,4,Yangzhou,capricious,temperature,3
+C20180114A1023,1,45,6,5,Yangzhou,vehicle/industrial exhaust,cause,3
+C20180114A1026,0,42,6,4,Yangzhou,green house effect,scienific terms,2
+C20180114A1027,0,48,4,2,Yangzhou,season,weather,2
+B20180113A0905,0,62,3,5,Yangzhou,disease,health,3
+B20180113A0932,0,58,5,4,Yangzhou,protect environment,mitigation,3
+B20180113A1000,1,28,5,4,Yangzhou,protect environment,mitigation,3
+B20180113A1001,0,63,7,4,Yangzhou,green house effect,scienific terms,3
+B20180113A1002,0,30,5,3,Yangzhou,bad weather,weather,1
+B20180113A1003,0,28,4,4,Yangzhou,hail,disaster,3
+B20180113A1004,0,30,5,3,Yangzhou,other pollution,pollution,2
+B20180113A1007,0,27,6,3,Yangzhou,air pollution,pollution,1
+B20180113A1008,0,33,6,4,Yangzhou,air pollution,pollution,3
+B20180113A1012,1,32,5,4,Yangzhou,other pollution,pollution,1
+B20180114A0900,0,25,6,4,Yangzhou,green house effect,scienific terms,3
+B20180114A0905,0,33,4,5,Yangzhou,other pollution,pollution,2
+B20180114A0908,0,26,6,3,Yangzhou,others,adaptation,1
+B20180114A0909,1,48,4,4,Yangzhou,vehicle/industrial exhaust,cause,3
+B20180114P1301,1,23,4,3,Yangzhou,rising sea,disaster,3
+B20180114P1302,0,80,5,3,Yangzhou,re. air pollution,adaptation,2
+B20180114P1306,1,60,6,3,Yangzhou,protect environment,mitigation,2
+B20180114P1310,1,44,5,3,Yangzhou,global warming,scienific terms,2
+B20180114P1311,1,55,7,4,Yangzhou,other pollution,pollution,3
+B20180114P1312,1,50,6,4,Yangzhou,green house effect,scienific terms,3
+B20180114P1401,1,70,4,2,Yangzhou,vehicle/industrial exhaust,cause,3
+B20180114P1402,0,56,3,4,Yangzhou,proverb,weather,2
+B20180114P1404,0,34,4,3,Yangzhou,other pollution,pollution,1
+B20180114P1405,0,39,4,5,Yangzhou,cold,temperature,3
+B20180114P1408,0,56,3,4,Yangzhou,disease,health,3
+B20180114P1409,0,72,4,3,Yangzhou,air pollution,pollution,3
+A20170826A1045,0,37,4,3,Yangzhou,nice weather,weather,3
+A20170826A1041,1,38,4,6,Yangzhou,air pollution,pollution,2
+A20170826A1035,0,40,7,4,Yangzhou,other pollution,pollution,3
+A20170826A1029,0,49,4,5,Yangzhou,anomaly,temperature,3
+A20170826A1023,1,63,3,3,Yangzhou,re. temperature,adaptation,1
+A20170826A1038,1,38,7,5,Yangzhou,other pollution,pollution,3
+A20170827A1049,0,30,4,4,Yangzhou,capricious,temperature,2
+A20170827A1050,0,31,7,3,Yangzhou,anomaly,temperature,3
+A20170826A1111,1,60,3,2,Yangzhou,bad weather,weather,3
+A20170826A1110,0,57,3,5,Yangzhou,global warming,scienific terms,1
+A20170826A1059,0,68,2,3,Yangzhou,protect environment,mitigation,2
+A20170826A1057,1,53,3,3,Yangzhou,socio-economic impact,socioeconomic_impact,1
+A20170826A1056,0,42,6,4,Yangzhou,bad weather,weather,3
+A20170826A1052,1,47,6,3,Yangzhou,melting ice,disaster,3
+A20170826A1051,0,44,4,4,Yangzhou,cold,temperature,2
+A20170827A1052,1,65,7,2,Yangzhou,bad weather,weather,3
+A20170827A1051,1,61,3,3,Yangzhou,bad weather,weather,1
+A20170827A1048,0,73,4,2,Yangzhou,season,weather,3
+A20170827A1043,1,38,4,2,Yangzhou,bad weather,weather,2
+A20170827A1042,0,64,6,4,Yangzhou,degradation,pollution,3
+A20170827A1041,1,75,7,2,Yangzhou,flood,disaster,2
+A20170827A1038,1,69,7,4,Yangzhou,air pollution,pollution,3
+A20170827A1037,0,60,7,4,Yangzhou,hot,temperature,3
+A20170827A1033,1,36,6,3,Yangzhou,hurricane,disaster,3
+A20170827A1030,1,39,7,4,Yangzhou,degradation,pollution,2
+A20170827A1029,0,35,4,4,Yangzhou,others,adaptation,3
+A20170827A1028,0,34,6,4,Yangzhou,re. temperature,adaptation,2
+A20170827A1027,0,37,4,4,Yangzhou,anomaly,temperature,3
+A20170827A1024,1,13,3,3,Yangzhou,air pollution,pollution,3
+A20170827A1016,0,37,6,3,Yangzhou,bad weather,weather,3
+A20170827A1015,1,42,6,3,Yangzhou,hot,temperature,2
+A20170827A1012,0,47,7,3,Yangzhou,bad weather,weather,3
+B0120170826a0801,1,65,3,3,Yangzhou,bad weather,weather,3
+B0120170826a0802,1,63,3,3,Yangzhou,hurricane,disaster,3
+B0120170826a0804,0,41,3,3,Yangzhou,bad weather,weather,3
+B0120170826a0807,0,33,7,4,Yangzhou,global warming,scienific terms,2
+B0120170826a0808,1,60,2,3,Yangzhou,GHG/CO2 emission,cause,3
+B0120170826a0809,0,37,6,5,Yangzhou,bad weather,weather,3
+B0120170826a0811,0,38,6,4,Yangzhou,other pollution,pollution,3
+B0120170826a0812,1,29,6,3,Yangzhou,anomaly,temperature,2
+B0120170826a0816,0,67,3,3,Yangzhou,bad weather,weather,3
+B0220170826a0801,0,52,6,4,Yangzhou,cold,temperature,3
+B0220170826a0803,1,43,7,4,Yangzhou,bad weather,weather,3
+B0220170826a0811,1,61,6,8,Yangzhou,hot,temperature,3
+B0220170826a0812,0,28,6,4,Yangzhou,hurricane,disaster,3
+B0220170827a0803,0,66,6,4,Yangzhou,capricious,temperature,3
+B0220170827a0804,0,61,3,3,Yangzhou,reduce emission,mitigation,0
+B0220170827a0806,1,75,5,4,Yangzhou,others,adaptation,3
+B0220170827a0808,0,64,6,4,Yangzhou,vehicle/industrial exhaust,cause,3
+B0220170827a0811,0,67,2,3,Yangzhou,bad weather,weather,3
+B0120170827a0803,1,78,4,4,Yangzhou,protect environment,mitigation,3
+B0120170827a0806,1,25,8,4,Yangzhou,El Nino/ozone hole,scienific terms,3
+B0120170827a0810,1,65,5,5,Yangzhou,bad weather,weather,3
+B0120170827a0811,1,73,7,3,Yangzhou,nice weather,weather,3
+B0120170827a0813,1,68,3,3,Yangzhou,reduce emission,mitigation,3
+B0120170827a0817,1,79,7,4,Yangzhou,others,adaptation,3
+C20170826A0810,1,21,7,5,Yangzhou,cold,temperature,3
+C20170826A0836,0,26,7,3,Yangzhou,air pollution,pollution,3
+C20170826A0841,1,30,7,4,Yangzhou,air pollution,pollution,3
+C20170826A0851,1,50,3,4,Yangzhou,air pollution,pollution,3
+C20170826A0852,1,67,4,4,Yangzhou,others,adaptation,2
+C20170826A0900,1,45,6,4,Yangzhou,air pollution,pollution,3
+C20170826A0915,0,41,7,5,Yangzhou,air pollution,pollution,3
+C20170826A1101,0,67,6,4,Yangzhou,hot,temperature,3
+C20170826P1228,0,23,7,3,Yangzhou,hurricane,disaster,2
+C20170827A0815,0,44,7,6,Yangzhou,proverb,weather,2
+C20170827A0840,1,45,6,5,Yangzhou,bad weather,weather,2
+C20170827A0843,0,28,7,3,Yangzhou,protect environment,mitigation,1
+C20170827A0845,0,32,4,5,Yangzhou,air pollution,pollution,1
+C20170827A0853,0,28,6,3,Yangzhou,protect environment,mitigation,3
+C20170827A0857,0,29,6,3,Yangzhou,global warming,scienific terms,3
+C20170827A0910,1,34,6,5,Yangzhou,flood,disaster,2
+C20170827A0942,1,50,7,4,Yangzhou,bad weather,weather,3
+C20170827A0945,0,47,4,4,Yangzhou,bad weather,weather,2
+C20170827A0953,0,41,3,3,Yangzhou,GHG/CO2 emission,cause,3
+C20170827A1023,0,29,7,2,Yangzhou,others,adaptation,2
+D20170827A1250,0,39,6,4,Yangzhou,air pollution,pollution,2
+D20170827A1240,0,37,6,3,Yangzhou,urbanization/economy,cause,3
+D20170827P1315,0,32,7,3,Yangzhou,other pollution,pollution,2
+D20170827P1330,0,38,7,4,Yangzhou,flood,disaster,3
+D20170827P1320,0,35,7,4,Yangzhou,protect environment,mitigation,3
+D20170827A1030,0,30,6,3,Yangzhou,nice weather,weather,3
+D20170827A1030,0,30,6,4,Yangzhou,air pollution,pollution,3
+D20170827A1212,0,50,3,2,Yangzhou,hot,temperature,2
+D20170827A0911,0,38,6,5,Yangzhou,hot,temperature,3
+D20170827A1020,1,32,7,4,Yangzhou,other pollution,pollution,3
+D20170827A1030,1,32,4,5,Yangzhou,bad weather,weather,3
+D20170827A1130,1,28,7,4,Yangzhou,bad weather,weather,2
+D20170827A1205,1,34,7,3,Yangzhou,sandstorms,disaster,2
+D20170827A1210,1,53,4,3,Yangzhou,air pollution,pollution,2
+D20170827A1222,1,37,6,4,Yangzhou,degradation,pollution,3
+D20170827P1312,1,54,3,3,Yangzhou,urbanization/economy,cause,3
+D20170827A0930,0,26,6,3,Yangzhou,urbanization/economy,cause,3
+D20170827A0930,0,36,7,4,Yangzhou,air pollution,pollution,3
+D20170826A1001,0,41,7,4,Yangzhou,other pollution,pollution,3
+D20170826A0908,0,46,3,4,Yangzhou,proverb,weather,3
+D20170826A0900,0,56,3,2,Yangzhou,disease,health,2
+D20170826A0900,0,51,3,4,Yangzhou,socio-economic impact,socioeconomic_impact,3
+D20170826P1838,0,38,7,3,Yangzhou,bad weather,weather,3
+D20170826P1810,0,31,7,4,Yangzhou,cold,temperature,3
+D20170826P1825,0,36,7,4,Yangzhou,air pollution,pollution,2
+D20170826P1715,0,24,7,5,Yangzhou,earthquake,disaster,3
+D20170826A1008,0,29,7,4,Yangzhou,bad weather,weather,3
+D20170826A0945,1,58,4,3,Yangzhou,urbanization/economy,cause,1
+D20170826A0946,1,56,3,3,Yangzhou,bad weather,weather,3
+D20170826A0951,1,42,7,5,Yangzhou,air pollution,pollution,3
+D20170826A0956,1,30,8,3,Yangzhou,earthquake,disaster,3
+D20170826A0958,1,25,7,5,Yangzhou,air pollution,pollution,3
+D20170826A1005,1,41,5,2,Yangzhou,hot,temperature,1
+D20170826A1046,1,52,3,1,Yangzhou,global warming,scienific terms,3
+D20170826A1110,1,22,7,3,Yangzhou,bad weather,weather,3
+D20170826A1000,1,55,4,3,Yangzhou,disease,health,2
+D20170826A0930,1,58,4,2,Yangzhou,disease,health,2
+D20170826A1030,1,39,7,4,Yangzhou,other pollution,pollution,2
+D20170826P1820,1,30,7,3,Yangzhou,other pollution,pollution,3
+D20170826P1800,1,30,6,4,Yangzhou,hot,temperature,1
+A20180120A0830,0,42,2,2,Yancheng,cold,temperature,3
+A20180120A0832,1,16,3,4,Yancheng,GHG/CO2 emission,cause,3
+A20180120A0833,0,39,3,3,Yancheng,bad weather,weather,3
+A20180120A0835,0,47,4,3,Yancheng,hurricane,disaster,3
+A20180120A0837,0,51,2,2,Yancheng,bad weather,weather,3
+A20180120A0841,0,51,3,2,Yancheng,hail,disaster,3
+A20180120A0843,1,40,7,4,Yancheng,world endings,disaster,3
+A20180120A0900,0,36,7,5,Yancheng,global warming,scienific terms,3
+A20180120A0902,0,23,7,5,Yancheng,green house effect,scienific terms,3
+A20180120A0905,0,54,4,2,Yancheng,earthquake,disaster,3
+A20180120A0906,0,19,4,4,Yancheng,re. temperature,adaptation,3
+A20180120A0907,1,17,4,5,Yancheng,air pollution,pollution,3
+A20180120A0908,0,33,7,6,Yancheng,cold,temperature,2
+A20180120A0909,1,52,3,3,Yancheng,cold,temperature,3
+A20180120A0910,0,24,6,4,Yancheng,disease,health,0
+A20180120A0911,0,20,6,4,Yancheng,unhapiness,health,2
+A20180120A0913,0,43,3,4,Yancheng,disease,health,1
+A20180120A0915,1,48,6,5,Yancheng,El Nino/ozone hole,scienific terms,3
+A20180120A0916,0,27,3,3,Yancheng,re. temperature,adaptation,2
+A20180121A0831,1,30,7,5,Yancheng,disease,health,3
+A20180121A0832,0,20,7,3,Yancheng,bad weather,weather,1
+A20180121A0833,0,52,3,3,Yancheng,bad weather,weather,3
+A20180121A0834,1,52,4,4,Yancheng,bad weather,weather,3
+A20180121A0836,1,20,3,3,Yancheng,bad weather,weather,2
+A20180121A0840,0,47,3,5,Yancheng,nice weather,weather,3
+A20180121A0841,1,21,5,3,Yancheng,cold,temperature,2
+A20180121A0842,0,42,7,4,Yancheng,hurricane,disaster,2
+A20180121A0843,0,39,3,3,Yancheng,earthquake,disaster,3
+A20180121A0845,0,36,3,8,Yancheng,disease,health,3
+A20180121A0846,0,52,3,3,Yancheng,bad weather,weather,3
+A20180121A0847,1,35,3,3,Yancheng,disease,health,1
+A20180121A0848,0,46,3,3,Yancheng,nice weather,weather,1
+A20180121A0849,0,45,3,2,Yancheng,bad weather,weather,3
+A20180121A0852,0,44,3,3,Yancheng,bad weather,weather,3
+A20180121A0853,0,51,3,2,Yancheng,bad weather,weather,3
+A20180121A0854,0,52,3,2,Yancheng,bad weather,weather,3
+A20180121A0855,0,36,4,2,Yancheng,bad weather,weather,1
+A20180121A0856,1,28,7,8,Yancheng,cold,temperature,1
+A20180121A0859,0,34,3,3,Yancheng,nice weather,weather,2
+B20180121A0910,1,29,4,3,Yancheng,reduce emission,mitigation,3
+B20180121A0912,0,49,3,3,Yancheng,bad weather,weather,2
+B20180121A0918,0,40,3,3,Yancheng,bad weather,weather,3
+B20180121A0920,0,61,3,2,Yancheng,cold,temperature,1
+B20180121A0922,0,14,3,6,Yancheng,unhapiness,health,2
+B20180121A0931,0,42,2,2,Yancheng,bad weather,weather,3
+B20180121A0935,0,69,3,2,Yancheng,bad weather,weather,3
+B20180120A0900,0,29,6,3,Yancheng,bad weather,weather,3
+B20180120A0903,0,52,4,4,Yancheng,vehicle/industrial exhaust,cause,3
+B20180120A0909,0,37,6,4,Yancheng,bad weather,weather,1
+B20180120A0910,0,29,6,5,Yancheng,air pollution,pollution,3
+B20180120A0917,0,28,7,3,Yancheng,hurricane,disaster,2
+B20180120A0921,0,35,7,5,Yancheng,air pollution,pollution,3
+B20180120A0929,1,54,5,3,Yancheng,other pollution,pollution,3
+C20180120A1105,0,37,7,4,Yancheng,other pollution,pollution,3
+C20180120A1109,0,30,4,2,Yancheng,proverb,weather,3
+C20180120A1110,1,46,6,4,Yancheng,green house effect,scienific terms,3
+C20180120A1111,1,35,7,3,Yancheng,protect environment,mitigation,1
+C20180120A1116,1,35,7,4,Yancheng,other pollution,pollution,3
+C20180120A1120,0,38,4,4,Yancheng,hot,temperature,1
+C20180120A1130,1,34,3,1,Yancheng,anomaly,temperature,3
+C20180121A1002,0,27,6,3,Yancheng,air pollution,pollution,2
+C20180121A1003,0,24,7,5,Yancheng,bad weather,weather,3
+C20180121A1004,0,47,5,4,Yancheng,hot,temperature,3
+C20180121A1006,1,42,7,4,Yancheng,degradation,pollution,2
+C20180121A1007,0,51,4,3,Yancheng,other pollution,pollution,2
+C20180121A1008,0,53,4,4,Yancheng,vehicle/industrial exhaust,cause,2
+C20180121A1009,0,49,4,5,Yancheng,hot,temperature,3
+C20180121A1013,0,27,6,4,Yancheng,bad weather,weather,3
+C20180121A1021,0,53,4,4,Yancheng,cold,temperature,3
+C20180121A1022,1,29,7,4,Yancheng,air pollution,pollution,2
+C20180121P1442,1,25,7,4,Yancheng,proverb,weather,0
+C20180121P1444,0,56,2,2,Yancheng,disease,health,3
+C20180121P1445,0,30,6,2,Yancheng,other pollution,pollution,2
+C20180121P1447,0,30,6,3,Yancheng,bad weather,weather,3
+C220170806A1104,0,30,8,6,Yancheng,air pollution,pollution,3
+C220170806A1106,1,52,7,4,Yancheng,melting ice,disaster,3
+C220170806A1107,0,54,6,5,Yancheng,air pollution,pollution,3
+C220170805A0900,0,27,7,3,Yancheng,air pollution,pollution,3
+C220170805A0905,1,42,6,4,Yancheng,urbanization/economy,cause,0
+C220170805A0907,0,26,7,3,Yancheng,hurricane,disaster,3
+C220170805A0911,0,37,7,4,Yancheng,El Nino/ozone hole,scienific terms,3
+C220170805A0912,0,28,7,4,Yancheng,air pollution,pollution,3
+C220170805A0913,0,30,7,5,Yancheng,air pollution,pollution,3
+C220170805A0915,0,29,7,4,Yancheng,bad weather,weather,3
+C120170805A1015,1,33,3,5,Yancheng,hurricane,disaster,3
+C120170805A1016,1,55,3,2,Yancheng,bad weather,weather,3
+C120170805A1017,1,53,7,5,Yancheng,sandstorms,disaster,3
+C120170805A1021,0,63,6,4,Yancheng,others,adaptation,3
+C120170805A1035,1,52,4,3,Yancheng,physical discomfort,health,3
+C120170805A1041,1,20,6,4,Yancheng,bad weather,weather,0
+C120170805A1042,0,17,4,2,Yancheng,others,disaster,1
+C120170805A1043,1,55,4,3,Yancheng,physical discomfort,health,2
+C120170805A1044,0,46,4,6,Yancheng,hot,temperature,2
+C120170805A1050,1,18,5,5,Yancheng,bad weather,weather,2
+C120170805A1051,1,19,7,3,Yancheng,rising sea,disaster,3
+C220170806A0952,1,31,6,4,Yancheng,cold,temperature,0
+B20170806A0846,1,21,7,5,Yancheng,El Nino/ozone hole,scienific terms,2
+B20170806A0850,1,29,6,3,Yancheng,vehicle/industrial exhaust,cause,2
+B20170806A0950,1,19,6,2,Yancheng,hot,temperature,3
+B20170806A0953,0,34,6,4,Yancheng,hurricane,disaster,3
+B20170806A1001,0,34,3,4,Yancheng,reduce emission,mitigation,1
+B20170806A1022,0,30,3,3,Yancheng,earthquake,disaster,2
+B20170806A1031,0,45,4,3,Yancheng,hot,temperature,2
+B20170805A0856,0,46,6,5,Yancheng,disease,health,3
+B20170805A0859,0,37,7,3,Yancheng,physical discomfort,health,3
+B20170805A0907,1,18,6,5,Yancheng,global warming,scienific terms,3
+B20170805A0911,0,40,5,4,Yancheng,bad weather,weather,2
+B20170805A0950,1,67,4,3,Yancheng,anomaly,temperature,1
+B20170805A0952,1,35,7,5,Yancheng,earthquake,disaster,3
+B20170805A0955,1,35,7,5,Yancheng,disease,health,3
+B20170805A0958,0,67,3,3,Yancheng,hot,temperature,2
+B20170805A1019,0,29,6,4,Yancheng,protect environment,mitigation,3
+B20170805A1020,1,43,6,6,Yancheng,hot,temperature,3
+B20170805A1026,0,41,3,3,Yancheng,earthquake,disaster,2
+B20170805A1035,0,43,4,2,Yancheng,earthquake,disaster,1
+B20170805A1044,0,64,4,3,Yancheng,degradation,pollution,1
+B20170805A1045,0,36,4,4,Yancheng,air pollution,pollution,3
+A120170806A0704,0,35,4,4,Yancheng,hurricane,disaster,2
+A120170806A0705,1,21,6,4,Yancheng,hurricane,disaster,3
+A120170806A0706,1,32,4,3,Yancheng,bad weather,weather,3
+A120170806A0707,1,39,3,3,Yancheng,bad weather,weather,3
+A120170806A0708,0,52,4,4,Yancheng,hail,disaster,1
+A120170806A0709,1,65,3,3,Yancheng,cold,temperature,1
+A120170806A0710,1,40,3,4,Yancheng,bad weather,weather,3
+A120170806A0711,0,20,5,3,Yancheng,cold,temperature,1
+A120170806A0712,0,41,3,3,Yancheng,bad weather,weather,1
+A120170806A0713,1,31,3,2,Yancheng,bad weather,weather,0
+A120170806A0714,0,29,4,3,Yancheng,season,weather,3
+A120170806A0716,1,60,3,2,Yancheng,hot,temperature,3
+A120170806A0720,1,61,2,4,Yancheng,bad weather,weather,3
+A120170806A0721,0,45,3,6,Yancheng,hail,disaster,1
+A120170806A0901,1,36,4,4,Yancheng,physical discomfort,health,3
+A120170806A0903,0,35,4,4,Yancheng,bad weather,weather,3
+A120170806A0904,1,61,2,5,Yancheng,bad weather,weather,2
+A120170805P0401,1,65,4,4,Yancheng,bad weather,weather,0
+A120170805P0402,1,42,7,4,Yancheng,bad weather,weather,3
+A120170805P0405,0,30,7,3,Yancheng,bad weather,weather,2
+A120170805P0406,1,53,3,3,Yancheng,hot,temperature,2
+A120170805P0408,0,59,4,4,Yancheng,bad weather,weather,2
+A120170805P0412,0,51,5,3,Yancheng,hot,temperature,1
+A220170805P0401,0,41,3,3,Yancheng,bad weather,weather,1
+A220170805P0455,0,41,3,4,Yancheng,bad weather,weather,0
+A220170805P0541,1,55,7,4,Yancheng,flood,disaster,3
+A220170805P0554,0,57,6,3,Yancheng,hot,temperature,1
+A220170805P0603,0,36,4,3,Yancheng,re. temperature,adaptation,3
+A220170805P0605,0,36,4,3,Yancheng,hot,temperature,3
+A220170805P0607,1,38,6,4,Yancheng,air pollution,pollution,3
+HZ-20190827-01-01-01,1,23,7,4,Hangzhou,bad weather,weather,3
+HZ-20190827-01-01-02,1,18,7,4,Hangzhou,season,weather,3
+HZ-20190827-01-01-03,1,42,7,7,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-01-05,0,22,3,3,Hangzhou,hot,temperature,1
+HZ-20190828-01-01-06,1,28,7,5,Hangzhou,flood,disaster,3
+HZ-20190828-01-01-07,1,32,7,6,Hangzhou,disease,health,3
+HZ-20190828-01-01-08,0,19,7,5,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-01-09,1,40,3,4,Hangzhou,hurricane,disaster,1
+HZ-20190828-01-01-10,0,38,5,4,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-01-11,0,38,7,7,Hangzhou,green house effect,scienific terms,3
+HZ-20190828-01-01-12,1,19,7,6,Hangzhou,sandstorms,disaster,3
+HZ-20190828-01-01-13,1,27,6,4,Hangzhou,drought,disaster,3
+HZ-20190828-01-01-14,0,24,7,4,Hangzhou,global warming,scienific terms,2
+HZ-20190828-01-01-15,0,45,4,6,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-01-16,1,45,8,7,Hangzhou,air pollution,pollution,3
+HZ-20190827-01-02-01,0,30,6,5,Hangzhou,disease,health,2
+HZ-20190827-01-02-03,1,34,6,6,Hangzhou,air pollution,pollution,0
+HZ-20190827-01-02-04,0,25,8,4,Hangzhou,bad weather,weather,3
+HZ-20190828-01-02-05,1,40,7,5,Hangzhou,bad weather,weather,3
+HZ-20190828-01-02-06,0,24,8,6,Hangzhou,rising sea,disaster,3
+HZ-20190828-01-02-07,1,32,8,5,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-02-08,1,19,7,6,Hangzhou,green house effect,scienific terms,2
+HZ-20190828-01-02-09,1,24,6,4,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-02-10,1,45,7,5,Hangzhou,anomaly,temperature,0
+HZ-20190828-01-02-11,0,36,7,5,Hangzhou,unhapiness,health,3
+HZ-20190828-01-02-12,0,36,7,5,Hangzhou,green house effect,scienific terms,3
+HZ-20190828-01-02-13,0,35,6,4,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-02-14,1,44,6,3,Hangzhou,global warming,scienific terms,2
+HZ-20190828-01-02-15,1,37,4,5,Hangzhou,green house effect,scienific terms,2
+HZ-20190828-01-02-16,0,46,7,7,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-02-17,1,46,4,4,Hangzhou,anomaly,temperature,2
+HZ-20190828-01-02-18,1,20,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_01_03_01,0,23,6,5,Hangzhou,bad weather,weather,3
+HZ_20190827_01_03_02,1,18,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_01_03_03,0,20,6,3,Hangzhou,physical discomfort,health,2
+HZ_20190827_01_03_04,0,24,7,6,Hangzhou,bad weather,weather,3
+HZ_20190828_01_03_05,1,27,7,3,Hangzhou,bad weather,weather,2
+HZ_20190828_01_03_06,1,32,4,4,Hangzhou,bad weather,weather,3
+HZ_20190828_01_03_07,1,61,8,4,Hangzhou,hurricane,disaster,1
+HZ_20190828_01_03_08,1,48,8,4,Hangzhou,bad weather,weather,1
+HZ_20190828_01_03_09,1,36,8,5,Hangzhou,season,weather,2
+HZ_20190828_01_03_10,1,38,4,4,Hangzhou,season,weather,3
+HZ_20190828_01_03_11,1,17,4,4,Hangzhou,bad weather,weather,1
+HZ_20190828_01_03_12,0,41,3,3,Hangzhou,bad weather,weather,2
+HZ_20190828_01_03_13,1,24,7,4,Hangzhou,other pollution,pollution,3
+HZ-20190827-01-04-01,0,24,8,6,Hangzhou,bad weather,weather,3
+HZ-20190827-01-04-02,0,24,7,5,Hangzhou,anomaly,temperature,3
+HZ-20190827-01-04-03,0,30,6,7,Hangzhou,protect environment,mitigation,3
+HZ-20190827-01-04-04,0,25,6,7,Hangzhou,wild fire,disaster,3
+HZ-20190827-01-04-05,0,25,8,7,Hangzhou,green house effect,scienific terms,1
+HZ-20190827-01-04-06,1,35,4,4,Hangzhou,unhapiness,health,2
+HZ-20190828-01-04-07,1,32,7,7,Hangzhou,unhapiness,health,2
+HZ-20190828-01-04-08,0,40,7,8,Hangzhou,GHG/CO2 emission,cause,3
+HZ-20190828-01-04-09,1,32,6,3,Hangzhou,cold,temperature,2
+HZ-20190828-01-04-10,0,28,7,6,Hangzhou,rising sea,disaster,2
+HZ-20190828-01-04-11,1,33,6,6,Hangzhou,season,weather,3
+HZ-20190828-01-04-12,0,30,7,5,Hangzhou,hot,temperature,2
+HZ-20190828-01-04-13,1,36,7,5,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-04-14,0,34,7,6,Hangzhou,nice weather,weather,3
+HZ-20190828-01-04-15,0,22,8,3,Hangzhou,season,weather,3
+HZ-20190828-01-04-16,1,22,4,7,Hangzhou,disease,health,3
+HZ-20190828-01-04-17,0,23,8,6,Hangzhou,nice weather,weather,3
+HZ-20190828-01-04-18,0,36,5,8,Hangzhou,season,weather,3
+HZ-20190828-01-04-19,1,24,7,4,Hangzhou,global warming,scienific terms,3
+HZ-20190827-01-05-01,0,31,6,4,Hangzhou,sandstorms,disaster,3
+HZ-20190827-01-05-03,0,23,7,6,Hangzhou,physical discomfort,health,3
+HZ-20190827-01-05-04,0,23,7,4,Hangzhou,bad weather,weather,2
+HZ-20190827-01-05-05,0,35,6,4,Hangzhou,air pollution,pollution,3
+HZ-20190827-01-05-06,0,30,7,1,Hangzhou,El Nino/ozone hole,scienific terms,2
+HZ-20190827-01-05-07,1,40,8,5,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-05-08,0,24,7,1,Hangzhou,hot,temperature,3
+HZ-20190828-01-05-09,0,24,7,1,Hangzhou,hot,temperature,3
+HZ-20190828-01-05-10,0,28,7,5,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-05-11,0,28,7,7,Hangzhou,protect environment,mitigation,3
+HZ-20190828-01-05-12,1,45,8,7,Hangzhou,sandstorms,disaster,1
+HZ-20190828-01-05-13,0,38,7,3,Hangzhou,bad weather,weather,2
+HZ-20190828-01-05-14,0,27,7,5,Hangzhou,melting ice,disaster,3
+HZ-20190828-01-05-15,0,40,7,5,Hangzhou,sandstorms,disaster,3
+HZ-20190828-01-05-16,0,11,2,4,Hangzhou,sandstorms,disaster,1
+HZ-20190828-01-05-17,0,23,7,1,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ-20190828-01-05-18,0,23,7,5,Hangzhou,wild fire,disaster,2
+HZ-20190828-01-05-19,0,24,7,8,Hangzhou,bad weather,weather,3
+HZ-20190828-01-05-20,0,31,7,4,Hangzhou,global warming,scienific terms,3
+HZ_2019028__02__06_01,1,17,4,6,Hangzhou,disease,health,3
+HZ_2019028__02__06_02,0,32,7,7,Hangzhou,disease,health,2
+HZ_2019028__02__06_04,0,34,7,3,Hangzhou,bad weather,weather,3
+HZ_2019028__02__06_05,1,22,7,6,Hangzhou,rising sea,disaster,1
+HZ_2019028__02__06_09,1,24,7,3,Hangzhou,hot,temperature,3
+HZ_2019028__02__06_11,1,25,7,4,Hangzhou,capricious,temperature,3
+HZ_2019028__02__06_13,1,12,2,3,Hangzhou,physical discomfort,health,3
+HZ_2019028__02__06_16,1,10,2,4,Hangzhou,melting ice,disaster,3
+HZ_2019028__02__06_18,1,55,3,2,Hangzhou,air pollution,pollution,3
+HZ_2019028__02__06_19,1,24,7,5,Hangzhou,hot,temperature,3
+HZ_2019028__02__06_20,1,30,7,4,Hangzhou,air pollution,pollution,2
+HZ_20190828__02__07_01,0,16,4,5,Hangzhou,rising sea,disaster,1
+HZ_20190828__02__07_04,0,44,7,5,Hangzhou,capricious,temperature,2
+HZ_20190828__02__07_06,0,19,4,4,Hangzhou,hot,temperature,2
+HZ_20190828__02__07_07,0,20,7,4,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190828__02__07_08,0,20,7,4,Hangzhou,hot,temperature,3
+HZ_20190828__02__07_09,0,17,4,7,Hangzhou,cold,temperature,2
+HZ_20190828__02__07_11,0,16,4,5,Hangzhou,reduce emission,mitigation,2
+HZ_20190828__02__07_12,0,17,4,4,Hangzhou,urbanization/economy,cause,1
+HZ_20190828__02__07_13,1,32,7,3,Hangzhou,hot,temperature,1
+HZ_20190827__02__07_14,1,31,6,8,Hangzhou,physical discomfort,health,2
+HZ_20190827__02__07_17,0,23,7,4,Hangzhou,others,adaptation,3
+HZ_20190827__02__07_21,0,22,7,4,Hangzhou,anomaly,temperature,3
+HZ_20190827__02__07_23,0,29,8,7,Hangzhou,other pollution,pollution,3
+HZ-20190827-02-08-01,0,25,7,3,Hangzhou,anomaly,temperature,3
+HZ-20190827-02-08-02,1,55,4,5,Hangzhou,anomaly,temperature,3
+HZ-20190828-02-08-03,1,18,4,4,Hangzhou,bad weather,weather,3
+HZ-20190828-02-08-04,0,30,8,5,Hangzhou,melting ice,disaster,3
+HZ-20190828-02-08-05,1,60,7,5,Hangzhou,melting ice,disaster,2
+HZ-20190828-02-08-06,1,17,4,5,Hangzhou,hot,temperature,3
+HZ-20190828-02-08-07,1,16,4,4,Hangzhou,melting ice,disaster,2
+HZ-20190828-02-08-08,0,40,6,5,Hangzhou,nice weather,weather,1
+HZ-20190828-02-08-09,0,36,6,4,Hangzhou,vehicle/industrial exhaust,cause,3
+HZ-20190828-02-08-10,0,19,6,5,Hangzhou,unhapiness,health,1
+HZ-20190828-02-08-11,1,20,7,7,Hangzhou,flood,disaster,3
+HZ_20190827_02_09_01,1,18,4,7,Hangzhou,season,weather,3
+HZ_20190827_02_09_02,1,27,6,7,Hangzhou,hurricane,disaster,3
+HZ_20190827_02_09_03,0,52,7,4,Hangzhou,season,weather,3
+HZ_20190827_02_09_04,0,18,7,8,Hangzhou,hot,temperature,3
+HZ_20190827_02_09_05,1,35,8,5,Hangzhou,wild fire,disaster,0
+HZ_20190828_02_09_06,1,83,7,4,Hangzhou,anomaly,temperature,3
+HZ_20190828_02_09_07,1,19,4,4,Hangzhou,hot,temperature,3
+HZ_20190828_02_09_08,0,19,4,4,Hangzhou,other pollution,pollution,3
+HZ_20190828_02_09_09,0,28,8,4,Hangzhou,anomaly,temperature,3
+HZ_20190828_02_09_10,1,15,4,5,Hangzhou,bad weather,weather,3
+HZ_20190828_02_09_11,1,71,7,5,Hangzhou,melting ice,disaster,3
+HZ_20190828_02_09_12,0,39,6,4,Hangzhou,wild fire,disaster,1
+HZ_20190828_02_09_13,0,50,3,5,Hangzhou,air pollution,pollution,2
+HZ_20190828_02_09_14,0,40,7,4,Hangzhou,global warming,scienific terms,2
+HZ20190827031001,1,20,7,5,Hangzhou,melting ice,disaster,2
+HZ20190827031002,1,23,6,4,Hangzhou,flood,disaster,3
+HZ20190827031003,1,23,6,2,Hangzhou,hot,temperature,2
+HZ20190827031004,0,25,3,3,Hangzhou,bad weather,weather,3
+HZ20190827031005,1,26,7,5,Hangzhou,bad weather,weather,2
+HZ20190827031006,0,28,8,6,Hangzhou,nice weather,weather,2
+HZ20190827031007,1,22,6,4,Hangzhou,hot,temperature,3
+HZ20190827031008,1,22,7,4,Hangzhou,capricious,temperature,2
+HZ20190827031009,1,18,6,6,Hangzhou,hurricane,disaster,1
+HZ20190827031010,0,24,6,3,Hangzhou,bad weather,weather,3
+HZ20190827031011,0,30,8,4,Hangzhou,global warming,scienific terms,3
+HZ20190827031012,0,40,6,2,Hangzhou,physical discomfort,health,2
+HZ20190827031013,1,15,4,5,Hangzhou,air pollution,pollution,2
+HZ20190827031014,1,16,4,5,Hangzhou,air pollution,pollution,3
+HZ20190827031015,1,38,7,8,Hangzhou,green house effect,scienific terms,3
+HZ20190827031016,1,22,7,4,Hangzhou,rising sea,disaster,3
+HZ20190827031017,1,23,7,4,Hangzhou,global warming,scienific terms,2
+HZ20190827031018,1,18,7,6,Hangzhou,hurricane,disaster,3
+HZ20190827031019,0,48,7,4,Hangzhou,air pollution,pollution,2
+HZ20190827031020,0,24,6,4,Hangzhou,physical discomfort,health,3
+HZ_20190827_03_11_01,0,30,7,6,Hangzhou,anomaly,temperature,3
+HZ_20190827_03_11_02,0,28,7,5,Hangzhou,capricious,temperature,3
+HZ_20190827_03_11_03,1,30,8,5,Hangzhou,earthquake,disaster,3
+HZ_20190827_03_11_04,1,28,8,5,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190827_03_11_05,1,20,7,5,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190827_03_11_06,1,46,7,6,Hangzhou,reduce emission,mitigation,2
+HZ_20190827_03_11_07,1,28,5,4,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_11_08,0,25,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_11_09,0,28,8,4,Hangzhou,bad weather,weather,1
+HZ_20190827_03_11_10,1,20,7,6,Hangzhou,season,weather,1
+HZ_20190827_03_11_11,1,38,5,4,Hangzhou,flood,disaster,1
+HZ_20190827_03_11_12,1,55,4,3,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_13,0,18,4,5,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_11_14,1,36,5,4,Hangzhou,bad weather,weather,3
+HZ_20190827_03_11_15,0,25,7,5,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_11_17,1,29,7,4,Hangzhou,melting ice,disaster,3
+HZ_20190827_03_11_18,0,26,7,4,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_19,0,30,8,5,Hangzhou,sandstorms,disaster,3
+HZ_20190827_03_12_01,0,28,7,4,Hangzhou,melting ice,disaster,3
+HZ_20190827_03_12_02,0,30,7,4,Hangzhou,sandstorms,disaster,3
+HZ_20190827_03_12_05,0,32,7,5,Hangzhou,reduce emission,mitigation,3
+HZ_20190827_03_12_07,1,25,7,4,Hangzhou,bad weather,weather,3
+HZ_20190827_03_12_08,0,36,6,5,Hangzhou,hot,temperature,3
+HZ_20190827_03_12_09,0,42,7,3,Hangzhou,hot,temperature,3
+HZ_20190827_03_12_10,0,16,4,7,Hangzhou,hot,temperature,3
+HZ_20190827_03_12_11,1,21,7,3,Hangzhou,vehicle/industrial exhaust,cause,3
+HZ_20190827_03_12_12,1,42,4,6,Hangzhou,hot,temperature,3
+HZ_20190827_03_12_13,1,32,6,5,Hangzhou,proverb,weather,3
+HZ_20190827_03_12_14,1,15,3,5,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_12_17,1,19,6,7,Hangzhou,bad weather,weather,3
+HZ_20190827_03_12_18,1,33,7,7,Hangzhou,sandstorms,disaster,3
+HZ_20190827_03_12_20,1,18,6,5,Hangzhou,disease,health,2
+HZ_20190827_03_12_21,1,54,6,6,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190827_03_12_22,1,22,4,5,Hangzhou,GHG/CO2 emission,cause,3
+HZ_20190827_03_12_23,1,34,4,5,Hangzhou,anomaly,temperature,3
+HZ_20190827-03-13-01,1,26,7,7,Hangzhou,air pollution,pollution,3
+HZ_20190827-03-13-02,1,19,7,7,Hangzhou,hot,temperature,3
+HZ_20190827-03-13-03,1,20,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827-03-13-04,0,19,7,5,Hangzhou,melting ice,disaster,3
+HZ_20190828-03-13-05,1,18,7,6,Hangzhou,air pollution,pollution,3
+HZ_20190828-03-13-06,1,26,8,4,Hangzhou,proverb,weather,2
+HZ_20190828-03-13-07,0,19,7,4,Hangzhou,air pollution,pollution,3
+LD_190321_1230_NO1_01_G1,1,40,3,2,Longde,urbanization/economy,cause,3
+LD_190321_1745_NO1_02_G2,0,28,7,3,Longde,proverb,weather,1
+LD_190322_1230_NO1_04_G4,0,39,3,1,Longde,capricious,temperature,3
+LD_190322_1745_NO1_05_G5,1,14,3,2,Longde,hot,temperature,3
+LD_190322_1930_NO1_06_G6,1,41,7,4,Longde,other pollution,pollution,3
+LD_190323_0730_NO1_07_G7,0,44,4,3,Longde,degradation,pollution,3
+LD_190323_0900_NO1_08_G1,0,46,4,3,Longde,capricious,temperature,3
+LD_190323_1030_NO1_09_G2,0,36,2,6,Longde,proverb,weather,3
+LD_190323_1230_NO1_10_G3,0,38,3,3,Longde,bad weather,weather,3
+LD_190323_1400_NO1_11_G4,0,41,7,3,Longde,proverb,weather,3
+LD_190323_1530_NO1_12_G5,0,40,7,3,Longde,proverb,weather,3
+LD_190323_1800_NO1_13_G6,0,38,3,3,Longde,flood,disaster,3
+LD_190323_1930_NO1_14_G7,1,48,4,3,Longde,vehicle/industrial exhaust,cause,3
+LD_190324_0730_NO1_15_G1,1,18,4,4,Longde,global warming,scienific terms,3
+LD_190324_0900_NO1_16_G2,0,44,4,2,Longde,urbanization/economy,cause,2
+LD_190324_1030_NO1_17_G3,1,41,7,4,Longde,anomaly,temperature,3
+LD_190324_1230_NO1_18_G4,1,40,7,3,Longde,bad weather,weather,3
+LD_190324_1530_NO1_20_G6,1,42,7,4,Longde,nice weather,weather,3
+LD_190324_1800_NO1_21_G7,0,36,5,3,Longde,capricious,temperature,3
+LD_190325_1230_NO1_22_G1,0,36,7,4,Longde,bad weather,weather,3
+LD_190325_1745_NO1_23_G2,0,37,4,3,Longde,anomaly,temperature,3
+LD_190326_1745_NO1_24_G3,1,36,7,4,Longde,nice weather,weather,3
+LD_190326_1930_NO1_25_G4,1,45,3,2,Longde,global warming,scienific terms,3
+LD_190327_1930_NO1_26_G5,0,40,3,3,Longde,anomaly,temperature,3
+LD_190328_1230_NO1_27_G6,0,14,3,3,Longde,physical discomfort,health,3
+LD_190328_1930_NO1_28_G7,0,42,2,3,Longde,anomaly,temperature,1
+LD_190329_1230_NO1_29_G1,1,45,7,4,Longde,physical discomfort,health,1
+LD_190329_1745_NO1_30_G2,0,43,6,4,Longde,sandstorms,disaster,2
+LD_190329_1930_NO1_31_G3,0,43,7,4,Longde,sandstorms,disaster,3
+LD_190330_0730_NO1_32_G4,1,45,3,3,Longde,re. temperature,adaptation,3
+LD_190330_1230_NO1_33_G5,1,51,4,3,Longde,bad weather,weather,3
+LD_190330_1400_NO1_34_G6,0,36,3,2,Longde,degradation,pollution,3
+LD_190330_1800_NO1_35_G7,1,42,2,3,Longde,hot,temperature,3
+LD_190331_0730_NO1_36_G1,1,18,4,3,Longde,bad weather,weather,1
+LD_190331_0900_NO1_37_G2,1,37,2,1,Longde,cold,temperature,3
+LD_190331_1030_NO1_38_G3,0,44,4,2,Longde,other pollution,pollution,3
+LD_190331_1530_NO1_40_G5,0,35,3,3,Longde,capricious,temperature,2
+LD_190331_1800_NO1_41_G6,1,24,6,3,Longde,proverb,weather,1
+LD_190401_1230_NO1_42_G7,1,36,3,4,Longde,disease,health,3
+LD_190321_1230_NO2_01_G1,1,38,7,4,Longde,disease,health,3
+LD_190321_1745_NO2_02_G2,0,35,2,2,Longde,bad weather,weather,3
+LD_190321_1230_NO2_03_G3,0,37,3,3,Longde,bad weather,weather,3
+LD_190322_1745_NO2_04_G4,1,15,3,1,Longde,degradation,pollution,3
+LD_190322_1930_NO2_05_G5,1,36,3,3,Longde,hot,temperature,3
+LD_190323_0730_NO2_06_G6,0,42,4,3,Longde,bad weather,weather,3
+LD_190323_0900_NO2_07_G7,1,48,4,7,Longde,protect environment,mitigation,3
+LD_190323_1030_NO2_08_G1,0,13,3,3,Longde,other pollution,pollution,2
+LD_190323_1230_NO2_09_G2,1,39,7,4,Longde,global warming,scienific terms,3
+LD_190323_1400_NO2_10_G3,1,41,7,4,Longde,anomaly,temperature,3
+LD_190323_1530_NO2_11_G4,0,45,4,3,Longde,bad weather,weather,3
+LD_190323_1800_NO2_12_G5,0,40,7,4,Longde,bad weather,weather,2
+LD_190323_1930_NO2_13_G6,0,44,5,3,Longde,melting ice,disaster,3
+LD_190324_0730_NO2_14_G7,1,18,4,2,Longde,green house effect,scienific terms,3
+LD_190324_0900_NO2_15_G1,1,43,3,3,Longde,nice weather,weather,3
+LD_190324_1030_NO2_16_G2,0,40,7,4,Longde,nice weather,weather,2
+LD_190324_1230_NO2_17_G3,0,44,4,3,Longde,other pollution,pollution,3
+LD_190324_1400_NO2_18_G4,1,15,3,3,Longde,bad weather,weather,3
+LD_190324_1530_NO2_19_G5,0,42,7,4,Longde,sandstorms,disaster,3
+LD_190325_1230_NO2_20_G6,1,43,4,2,Longde,others,adaptation,2
+LD_190325_1745_NO2_21_G7,0,43,3,3,Longde,anomaly,temperature,3
+LD_190326_1230_NO2_22_G1,0,38,2,2,Longde,capricious,temperature,3
+LD_190326_1745_NO2_23_G2,1,55,6,4,Longde,unhapiness,health,3
+LD_190327_1745_NO2_25_G4,0,42,7,4,Longde,nice weather,weather,3
+LD_190327_1930_NO2_26_G5,1,49,4,3,Longde,physical discomfort,health,3
+LD_190328_1230_NO2_27_G6,1,49,7,4,Longde,drought,disaster,2
+LD_190328_1745_NO2_28_G7,0,36,7,4,Longde,proverb,weather,0
+LD_190328_1930_NO2_29_G1,0,38,2,3,Longde,anomaly,temperature,3
+LD_190329_1230_NO2_30_G2,0,44,7,4,Longde,bad weather,weather,3
+LD_190329_1745_NO2_31_G3,0,36,6,3,Longde,bad weather,weather,3
+LD_190329_1930_NO2_32_G4,1,45,4,3,Longde,nice weather,weather,3
+LD_190330_0900_NO2_33_G5,1,18,4,2,Longde,sandstorms,disaster,3
+LD_190330_1230_NO2_34_G6,1,50,4,3,Longde,bad weather,weather,3
+LD_190330_1530_NO2_35_G7,0,40,3,3,Longde,bad weather,weather,3
+LD_190330_1930_NO2_36_G1,0,39,3,3,Longde,unhapiness,health,2
+LD_190331_1030_NO2_37_G2,1,18,4,3,Longde,hot,temperature,3
+LD_190331_1400_NO2_38_G3,0,38,3,2,Longde,anomaly,temperature,3
+LD_190401_1230_NO2_39_G4,1,32,6,4,Longde,cold,temperature,3
+LD_190401_1745_NO2_40_G5,0,23,6,2,Longde,bad weather,weather,3
+LD_190401_1930_NO2_41_G6,1,45,2,2,Longde,hot,temperature,3
+LD_190402_1230_NO2_42_G7,1,37,3,3,Longde,protect environment,mitigation,1
+LD_190402_1745_NO2_43_G1,0,40,3,3,Longde,hot,temperature,3
+LD_190402_1930_NO2_44_G2,1,54,4,3,Longde,season,weather,3
+LD_190403_1230_NO2_45_G3,1,40,3,3,Longde,nice weather,weather,1
+LD_190403_1900_NO2_46_G4,1,39,3,3,Longde,sandstorms,disaster,3
+LD_190404_1230_NO2_47_G5,1,35,3,2,Longde,cold,temperature,3
+LD_190404_1745_NO2_48_G6,1,32,3,2,Longde,cold,temperature,3
+LD_190404_1930_NO2_49_G7,1,53,7,3,Longde,cold,temperature,3
+LD_190405_0900_NO2_50_G1,1,42,3,3,Longde,socio-economic impact,socioeconomic_impact,3
+LD_190405_1530_NO2_51_G2,0,25,7,3,Longde,nice weather,weather,3
+LD_190406_1030_NO2_52_G3,1,48,4,2,Longde,physical discomfort,health,3
+LD_190407_0900_NO2_53_G4,1,44,5,4,Longde,world endings,disaster,3
+LD_190407_1030_NO2_54_G5,1,36,4,4,Longde,capricious,temperature,3
+LD_190407_1800_NO2_55_G6,1,48,3,3,Longde,socio-economic impact,socioeconomic_impact,3
+LD_190408_1030_NO2_56_G7,1,34,7,3,Longde,nice weather,weather,3
+LD_190402_1745_NO3_40_G5,0,35,3,3,Longde,bad weather,weather,2
+LD_190321_1745_NO3_02_G2,0,35,7,3,Longde,melting ice,disaster,3
+LD_190321_1930_NO3_03_G3,1,49,4,3,Longde,degradation,pollution,3
+LD_190322_1230_NO3_04_G4,0,41,6,3,Longde,air pollution,pollution,3
+LD_190322_1745_NO3_05_G5,0,50,3,3,Longde,air pollution,pollution,3
+LD_190322_1930_NO3_06_G6,1,42,3,3,Longde,drought,disaster,3
+LD_190323_0730_NO3_07_G7,0,43,3,2,Longde,others,adaptation,3
+LD_190323_0900_NO3_08_G1,0,13,3,2,Longde,air pollution,pollution,2
+LD_190323_1230_NO3_09_G2,1,39,6,7,Longde,anomaly,temperature,1
+LD_190323_1400_NO3_10_G3,0,45,7,4,Longde,other pollution,pollution,3
+LD_190324_0900_NO3_11_G4,0,19,4,3,Longde,air pollution,pollution,3
+LD_190324_1030_NO3_12_G5,0,14,3,4,Longde,air pollution,pollution,1
+LD_190324_1230_NO3_13_G6,0,39,4,3,Longde,season,weather,3
+LD_190325_1230_NO3_14_G7,0,39,2,3,Longde,disease,health,2
+LD_190325_1745_NO3_15_G1,0,38,2,3,Longde,anomaly,temperature,2
+LD_190325_1930_NO3_16_G2,1,44,7,4,Longde,green house effect,scienific terms,3
+LD_190326_1230_NO3_17_G3,0,46,4,2,Longde,capricious,temperature,3
+LD_190326_1745_NO3_18_G4,0,38,7,4,Longde,melting ice,disaster,1
+LD_190327_1745_NO3_19_G5,0,41,2,2,Longde,anomaly,temperature,3
+LD_190327_1930_NO3_20_G6,0,50,3,2,Longde,drought,disaster,3
+LD_190328_1230_NO3_21_G7,1,42,3,3,Longde,degradation,pollution,3
+LD_190328_1745_NO3_22_G1,1,49,7,4,Longde,re. temperature,adaptation,3
+LD_190329_1745_NO3_24_G3,0,40,3,3,Longde,proverb,weather,2
+LD_190329_1930_NO3_25_G4,0,41,6,4,Longde,bad weather,weather,3
+LD_190330_0730_NO3_26_G5,1,37,7,3,Longde,protect environment,mitigation,3
+LD_190330_1400_NO3_27_G6,0,46,3,3,Longde,hurricane,disaster,3
+LD_190330_1800_NO3_28_G7,0,42,3,3,Longde,anomaly,temperature,1
+LD_190330_1930_NO3_29_G1,1,48,3,2,Longde,hail,disaster,3
+LD_190331_0730_NO3_30_G2,0,43,3,3,Longde,capricious,temperature,3
+LD_190331_0900_NO3_31_G3,1,19,4,3,Longde,air pollution,pollution,2
+LD_190331_1030_NO3_32_G4,1,18,4,3,Longde,nice weather,weather,2
+LD_190331_1400_NO4_33_G5,1,18,4,3,Longde,melting ice,disaster,3
+LD_190331_1530_NO4_34_G6,0,45,4,2,Longde,cold,temperature,3
+LD_190331_1800_NO4_35_G7,0,41,2,2,Longde,anomaly,temperature,2
+LD_190401_1230_NO3_36_G1,0,42,3,3,Longde,sandstorms,disaster,2
+LD_190401_1745_NO3_37_G2,0,24,7,4,Longde,capricious,temperature,3
+LD_190401_1930_NO3_38_G3,0,34,2,2,Longde,hot,temperature,2
+LD_190402_1230_NO3_39_G4,1,28,4,3,Longde,physical discomfort,health,3
+LD_190402_1745_NO3_40_G5,0,29,6,3,Longde,bad weather,weather,3
+LD_190402_1930_NO3_41_G6,1,27,7,3,Longde,sandstorms,disaster,3
+LD_190403_1230_NO3_42_G7,1,34,3,3,Longde,bad weather,weather,3
+LD_190403_1900_NO3_43_G1,1,21,4,3,Longde,bad weather,weather,3
+LD_190404_1230_NO3_44_G2,1,33,4,4,Longde,air pollution,pollution,2
+LD_190404_1745_NO3_45_G3,1,35,7,3,Longde,re. temperature,adaptation,3
+LD_190404_1930_NO3_46_G4,1,36,3,3,Longde,anomaly,temperature,3
+LD_190405_0900_NO3_47_G5,0,41,3,3,Longde,global warming,scienific terms,3
+LD_190405_1030_NO3_48_G6,1,52,7,4,Longde,anomaly,temperature,3
+LD_190405_1400_NO3_48_G7,0,46,2,2,Longde,nice weather,weather,2
+LD_190406_1030_NO3_50_G1,1,50,4,2,Longde,anomaly,temperature,3
+LD_190407_0900_NO3_51_G2,1,43,7,3,Longde,hot,temperature,3
+LD_190407_1030_NO3_52_G3,1,32,4,4,Longde,capricious,temperature,3
+A20171209B1321,1,23,7,4,Dongguan,green house effect,scienific terms,2
+A20171209B1317,1,51,5,3,Dongguan,nice weather,weather,3
+A20171209A1050,1,33,7,6,Dongguan,capricious,temperature,3
+A20171209A1001,0,16,3,3,Dongguan,re. temperature,adaptation,3
+A20171209A0925,0,23,3,4,Dongguan,capricious,temperature,0
+A20171209A0922,0,30,3,2,Dongguan,air pollution,pollution,3
+A20171209A0920,0,29,6,5,Dongguan,cold,temperature,1
+A20171209B1312,1,50,5,3,Dongguan,protect environment,mitigation,3
+A20171209A0911,1,12,3,2,Dongguan,other pollution,pollution,2
+A20171209A0910,1,61,4,5,Dongguan,hot,temperature,3
+A20171209A0909,0,32,4,2,Dongguan,others,disaster,3
+A20171209A0908,0,23,4,4,Dongguan,global warming,scienific terms,2
+A20171209A0904,1,21,3,4,Dongguan,degradation,pollution,3
+A20171209A0902,0,39,3,2,Dongguan,hurricane,disaster,3
+A20171209A0900,1,41,3,2,Dongguan,flood,disaster,3
+B20171209A0909,1,27,8,5,Dongguan,air pollution,pollution,2
+B20171209A0945,0,28,4,4,Dongguan,bad weather,weather,3
+B20171209A1013,1,16,3,3,Dongguan,protect environment,mitigation,0
+B20171209A1101,0,27,4,5,Dongguan,bad weather,weather,1
+B20171209A1115,1,23,4,4,Dongguan,reduce emission,mitigation,3
+B20171209A1128,1,34,4,3,Dongguan,capricious,temperature,2
+B20171209A1139,0,30,5,3,Dongguan,air pollution,pollution,3
+B20171209A1200,1,27,5,4,Dongguan,air pollution,pollution,1
+B20171209B1533,0,15,3,7,Dongguan,global warming,scienific terms,3
+B20171209B1429,0,28,7,3,Dongguan,hurricane,disaster,1
+B20171209B1430,0,30,4,4,Dongguan,hot,temperature,2
+B20171209B1424,1,23,7,5,Dongguan,nice weather,weather,3
+B20171209B1503,1,34,4,3,Dongguan,others,adaptation,1
+B20171209A1203,1,33,4,4,Dongguan,drought,disaster,2
+B20171209B1529,0,15,3,1,Dongguan,re. temperature,adaptation,3
+C20171209A1035,1,26,3,2,Dongguan,nice weather,weather,3
+C20171209A1040,0,40,2,3,Dongguan,physical discomfort,health,3
+C20171209A1036,0,26,7,4,Dongguan,global warming,scienific terms,2
+C20171209A1041,1,44,4,4,Dongguan,other pollution,pollution,3
+C20171209A1042,1,53,3,6,Dongguan,re. temperature,adaptation,3
+C20171209A1037,1,45,3,5,Dongguan,bad weather,weather,1
+C20171209A1038,0,20,6,5,Dongguan,re. temperature,adaptation,2
+C20171209A1030,0,38,7,7,Dongguan,socio-economic impact,socioeconomic_impact,3
+C20171209A1031,1,33,6,7,Dongguan,re. weather change,adaptation,2
+C20171209A1032,0,43,4,4,Dongguan,other pollution,pollution,3
+C20171209A1039,0,21,7,2,Dongguan,other pollution,pollution,3
+C20171209A1033,0,23,4,1,Dongguan,others,adaptation,3
+C20171209A1025,0,30,3,3,Dongguan,physical discomfort,health,3
+C20171209A1026,1,23,6,4,Dongguan,nice weather,weather,2
+C20171209A1020,0,29,7,4,Dongguan,socio-economic impact,socioeconomic_impact,3
+C20171209A1021,0,40,3,3,Dongguan,bad weather,weather,3
+C20171209A1005,1,32,6,4,Dongguan,nice weather,weather,2
+C20171209A1006,1,38,7,5,Dongguan,disease,health,3
+C20171209A1007,1,30,6,4,Dongguan,bad weather,weather,3
+C20171209A1000,0,26,7,3,Dongguan,bad weather,weather,3
+C20171209A1001,1,70,2,2,Dongguan,nice weather,weather,3
+C20171209A0955,1,28,7,4,Dongguan,socio-economic impact,socioeconomic_impact,3
+C20171209A0950,0,45,4,3,Dongguan,re. temperature,adaptation,2
+C20171209A0915,0,54,2,3,Dongguan,hot,temperature,3
+C20171209A0920,0,40,6,4,Dongguan,bad weather,weather,3
+C20171209A0935,1,13,3,2,Dongguan,nice weather,weather,0
+C20171209A0930,1,43,4,4,Dongguan,nice weather,weather,2
+C20171209A0936,0,15,3,2,Dongguan,nice weather,weather,3
+C20171209A0940,0,35,7,3,Dongguan,other pollution,pollution,3
+C20171209A0920,1,24,4,3,Dongguan,nice weather,weather,2
+C20171209A0941,1,53,3,2,Dongguan,re. temperature,adaptation,3
+C20171209A1051,0,38,4,4,Dongguan,nice weather,weather,0
+C20171209A1100,0,15,4,4,Dongguan,re. temperature,adaptation,3
+C20171209A1200,0,16,4,3,Dongguan,hurricane,disaster,1
+C20171209A1141,0,22,7,4,Dongguan,El Nino/ozone hole,scienific terms,2
+C20171209A1116,1,15,4,3,Dongguan,reduce emission,mitigation,2
+C20171209A1111,0,15,4,5,Dongguan,melting ice,disaster,3
+C20171209A1112,1,15,4,2,Dongguan,bad weather,weather,1
+C20171209A1105,0,40,3,3,Dongguan,nice weather,weather,2
+C20171209A1200,0,16,4,2,Dongguan,nice weather,weather,0
+C20171209A1201,0,21,5,1,Dongguan,protect environment,mitigation,1
+C20171209A1155,1,40,3,2,Dongguan,nice weather,weather,0
+C20171209A1156,0,36,3,2,Dongguan,nice weather,weather,0
+C20171209A1151,0,42,7,4,Dongguan,disease,health,0
+C20171209A1153,0,35,3,2,Dongguan,anomaly,temperature,3
+C20171209A1154,0,28,6,3,Dongguan,nice weather,weather,2
+C20171209A1158,1,50,7,3,Dongguan,anomaly,temperature,2
+A20170903A1005,1,49,4,2,Dongguan,bad weather,weather,3
+A20170903A1006,1,40,7,4,Dongguan,vehicle/industrial exhaust,cause,1
+A20170903A1007,1,38,7,3,Dongguan,other pollution,pollution,2
+A20170903A1009,0,36,5,3,Dongguan,re. weather change,adaptation,3
+A20170903A1010,0,43,4,4,Dongguan,hot,temperature,2
+A20170903A1015,0,32,6,3,Dongguan,air pollution,pollution,2
+A20170903A1022,0,45,2,2,Dongguan,re. temperature,adaptation,3
+A20170903A1023,1,44,3,3,Dongguan,rising sea,disaster,3
+A20170903A1024,1,48,4,3,Dongguan,disease,health,1
+A20170902P1203,1,29,4,3,Dongguan,other pollution,pollution,2
+A20170902A1123,1,43,3,3,Dongguan,vehicle/industrial exhaust,cause,0
+A20170902A1117,0,37,7,6,Dongguan,El Nino/ozone hole,scienific terms,2
+A20170902A1120,0,33,7,5,Dongguan,other pollution,pollution,3
+A20170903A0945,1,31,6,1,Dongguan,hot,temperature,3
+A20170903A0957,1,25,4,4,Dongguan,bad weather,weather,2
+A20170903A0958,1,30,6,3,Dongguan,bad weather,weather,2
+A20170903A0959,1,35,6,4,Dongguan,anomaly,temperature,3
+A20170903A1001,1,16,4,3,Dongguan,vehicle/industrial exhaust,cause,2
+A20170903A1002,1,30,6,5,Dongguan,hot,temperature,1
+A20170903A1040,1,52,3,4,Dongguan,hot,temperature,2
+C20170902A0915,0,20,4,4,Dongguan,drought,disaster,3
+C20170902A0920,0,43,2,3,Dongguan,re. weather change,adaptation,2
+C20170902A0925,0,26,6,3,Dongguan,bad weather,weather,2
+C20170902A0935,0,30,7,4,Dongguan,bad weather,weather,1
+C20170902A0946,0,18,8,1,Dongguan,protect environment,mitigation,3
+C20170902A0947,0,30,4,4,Dongguan,flood,disaster,1
+C20170902A0949,0,22,7,4,Dongguan,reduce emission,mitigation,3
+C20170902A0951,0,29,4,2,Dongguan,bad weather,weather,2
+C20170902A0954,0,21,7,4,Dongguan,air pollution,pollution,2
+C20170902A0955,1,40,7,5,Dongguan,bad weather,weather,1
+C20170902A0956,1,33,6,4,Dongguan,others,adaptation,2
+C20170902A0957,0,58,3,1,Dongguan,re. weather change,adaptation,2
+C20170902A0958,0,22,7,5,Dongguan,reduce emission,mitigation,3
+C20170902A0959,1,53,4,1,Dongguan,disease,health,2
+C20170902A1000,0,18,7,5,Dongguan,reduce emission,mitigation,2
+C20170902A1045,0,64,2,1,Dongguan,re. weather change,adaptation,1
+B20170903A0930,1,42,6,3,Dongguan,world endings,disaster,1
+B20170903A0931,0,24,7,4,Dongguan,others,adaptation,3
+B20170903A0932,0,28,6,3,Dongguan,global warming,scienific terms,3
+B20170903A0933,1,25,6,4,Dongguan,hurricane,disaster,3
+B20170903A0934,0,23,7,3,Dongguan,bad weather,weather,3
+B20170903A0935,1,40,6,3,Dongguan,flood,disaster,3
+B20170903A0937,1,23,6,4,Dongguan,anomaly,temperature,3
+B20170903A0940,1,48,6,1,Dongguan,flood,disaster,2
+B20170903A0939,1,38,6,2,Dongguan,flood,disaster,3
+B20170903A0942,1,49,4,4,Dongguan,flood,disaster,3
+B20170903A0943,1,27,6,4,Dongguan,reduce emission,mitigation,3
+B20170903A0944,0,26,6,2,Dongguan,season,weather,0
+B20170903A0945,0,33,4,2,Dongguan,season,weather,3
+B20170903A0947,0,19,5,3,Dongguan,others,adaptation,3
+B20170903A0948,1,53,3,7,Dongguan,vehicle/industrial exhaust,cause,3
+B20170903A0949,0,20,6,3,Dongguan,others,adaptation,3
+B20170903A0950,0,18,6,3,Dongguan,disease,health,3
+B20170903A0951,0,18,6,3,Dongguan,cold,temperature,2
+B20170903A0952,0,22,7,2,Dongguan,others,adaptation,3
+B20170903A0953,1,22,3,3,Dongguan,others,adaptation,2
+B20170903A0954,1,25,6,3,Dongguan,anomaly,temperature,1
+B20170903A0955,1,38,4,3,Dongguan,other pollution,pollution,3
+B20170903A0957,0,21,6,3,Dongguan,others,adaptation,3
+B20170903A0958,0,20,6,3,Dongguan,nice weather,weather,2
+B20170903A0959,0,21,6,3,Dongguan,bad weather,weather,2
+B20170902A0930,1,26,4,2,Dongguan,hot,temperature,3
+B20170902A0936,0,38,3,3,Dongguan,disease,health,3
+B20170902A0940,0,34,4,3,Dongguan,disease,health,2
+B20170902A0948,1,39,3,3,Dongguan,hot,temperature,2
+B20170902A0952,1,44,7,4,Dongguan,unhapiness,health,3
+B20170902A0957,1,32,6,2,Dongguan,world endings,disaster,3
+C20170903A1039,1,38,6,4,Dongguan,bad weather,weather,3
+C20170903A1120,0,35,6,3,Dongguan,others,adaptation,1
+C20170903A1110,1,26,6,3,Dongguan,GHG/CO2 emission,cause,1
+C20170903A1111,1,30,6,3,Dongguan,reduce emission,mitigation,2
+C20170903A1115,1,24,7,8,Dongguan,nice weather,weather,2
+C20170903A1100,1,34,7,4,Dongguan,re. weather change,adaptation,3
+C20170903A1040,0,35,6,3,Dongguan,re. weather change,adaptation,3
+C20170903A1036,0,50,7,4,Dongguan,re. weather change,adaptation,3
+C20170903A1041,0,40,7,5,Dongguan,re. temperature,adaptation,3
+C20170903A1031,1,28,6,5,Dongguan,drought,disaster,3
+C20170903A1025,0,25,5,4,Dongguan,physical discomfort,health,3
+C20170903A1021,0,36,6,5,Dongguan,physical discomfort,health,3
+C20170903A1016,0,36,3,3,Dongguan,re. weather change,adaptation,2
+C20170903A1010,0,16,4,3,Dongguan,capricious,temperature,1
+C20170903A1005,1,27,7,5,Dongguan,reduce emission,mitigation,3
+C20170903A1000,1,30,6,3,Dongguan,re. temperature,adaptation,2
+C20170903A0945,0,36,5,3,Dongguan,re. temperature,adaptation,3
+C20170903A0925,0,22,7,4,Dongguan,air pollution,pollution,3
+C20170903A0935,0,26,7,3,Dongguan,protect environment,mitigation,3
+C20170903A0926,1,35,5,3,Dongguan,bad weather,weather,0
+C20170903A0920,0,75,2,2,Dongguan,hot,temperature,3
+C20170903A0915,0,33,7,2,Dongguan,capricious,temperature,3
+C20170903A1037,1,33,7,3,Dongguan,re. weather change,adaptation,3
+C20170903A1031,0,37,6,4,Dongguan,bad weather,weather,2
+A20180120A0920,0,30,5,3,Suzhou,GHG/CO2 emission,cause,3
+A20180120A0940,0,46,3,3,Suzhou,others,adaptation,1
+A20180120A0955,1,40,7,5,Suzhou,socio-economic impact,socioeconomic_impact,3
+A20180120A1120,1,53,7,5,Suzhou,hot,temperature,3
+A20180120A1125,1,24,4,5,Suzhou,re. air pollution,adaptation,2
+A20180120A1130,0,28,4,3,Suzhou,global warming,scienific terms,3
+A20180120A1135,0,28,4,4,Suzhou,others,adaptation,3
+A20180121A0900,1,61,2,4,Suzhou,urbanization/economy,cause,2
+A20180121A0935,0,30,6,4,Suzhou,global warming,scienific terms,2
+A20180121A0940,1,30,6,6,Suzhou,protect environment,mitigation,3
+A20180121A0950,0,36,7,4,Suzhou,air pollution,pollution,3
+B20180120A0916,0,25,7,5,Suzhou,green house effect,scienific terms,0
+B20180120A1056,0,17,3,5,Suzhou,disease,health,0
+B20180120A1057,0,26,7,5,Suzhou,bad weather,weather,3
+B20180120A1101,0,11,2,8,Suzhou,protect environment,mitigation,3
+B20180120A1129,0,16,3,3,Suzhou,reduce emission,mitigation,2
+B20180120P1233,1,36,7,7,Suzhou,earthquake,disaster,1
+B20180120P1417,0,25,7,7,Suzhou,air pollution,pollution,3
+B20180120P1418,1,20,4,6,Suzhou,bad weather,weather,3
+B20180120P1421,1,42,6,5,Suzhou,sandstorms,disaster,3
+B20180120P1426,1,24,6,5,Suzhou,green house effect,scienific terms,3
+B20180121A1003,0,18,4,3,Suzhou,air pollution,pollution,3
+B20180121A1008,0,20,7,6,Suzhou,bad weather,weather,3
+B20180121A1013,1,24,3,4,Suzhou,protect environment,mitigation,3
+B20180121A1014,0,24,6,4,Suzhou,protect environment,mitigation,2
+B20180121A1016,1,28,6,5,Suzhou,bad weather,weather,2
+B20180121A1019,1,31,6,5,Suzhou,reduce emission,mitigation,3
+B20180121A1020,0,24,3,4,Suzhou,unhapiness,health,1
+B20180121A1021,1,20,7,3,Suzhou,others,adaptation,1
+B20180121A1022,0,30,4,3,Suzhou,vehicle/industrial exhaust,cause,3
+B20180121A1032,1,72,4,5,Suzhou,re. temperature,adaptation,3
+B20180121A1033,0,35,6,4,Suzhou,bad weather,weather,1
+C20180120A0910,0,33,7,5,Suzhou,anomaly,temperature,3
+C20180120A0915,0,28,5,3,Suzhou,rising sea,disaster,3
+C20180120A0925,0,27,7,4,Suzhou,reduce emission,mitigation,3
+C20180120A0935,0,25,7,4,Suzhou,cold,temperature,3
+C20180120A0950,0,28,6,5,Suzhou,bad weather,weather,3
+C20180120A1000,0,27,7,6,Suzhou,anomaly,temperature,3
+C20180120A1001,0,23,4,6,Suzhou,cold,temperature,3
+C20180120A1006,0,22,6,3,Suzhou,reduce emission,mitigation,3
+C20180120A1022,0,25,4,5,Suzhou,bad weather,weather,2
+C20180120A1024,0,24,7,8,Suzhou,reduce emission,mitigation,0
+C20180120A1100,0,20,4,6,Suzhou,hail,disaster,0
+C20180120A1103,0,22,7,4,Suzhou,air pollution,pollution,3
+C20180120A1111,0,25,6,4,Suzhou,reduce emission,mitigation,3
+C20180120A1131,0,21,5,5,Suzhou,reduce emission,mitigation,3
+C20180121A1000,1,21,6,5,Suzhou,socio-economic impact,socioeconomic_impact,1
+C20180121A1003,0,19,7,5,Suzhou,air pollution,pollution,2
+C20180121A1004,0,20,4,5,Suzhou,air pollution,pollution,3
+C20180121A1006,1,26,7,4,Suzhou,cold,temperature,3
+C20180121A1007,0,18,4,4,Suzhou,reduce emission,mitigation,2
+C20180121A1011,1,24,6,3,Suzhou,air pollution,pollution,2
+C20180121A1013,0,23,6,3,Suzhou,disease,health,3
+C20180121A1014,0,19,4,4,Suzhou,cold,temperature,3
+C20180121A1017,0,26,7,4,Suzhou,reduce emission,mitigation,2
+C20180121A1019,1,34,4,4,Suzhou,air pollution,pollution,3
+C20180121A1020,1,23,7,5,Suzhou,capricious,temperature,3
+C20180121A1026,0,30,3,5,Suzhou,other pollution,pollution,2
+C20180121A1027,1,61,3,5,Suzhou,reduce emission,mitigation,2
+C20180121A1028,1,35,4,2,Suzhou,urbanization/economy,cause,3
+C20180121A1029,0,30,6,6,Suzhou,re. weather change,adaptation,1
+A20180113A0904,1,60,4,3,Yangzhou,protect environment,mitigation,2
+A20180113A0912,1,29,7,4,Yangzhou,bad weather,weather,2
+A20180113A0921,0,21,6,2,Yangzhou,reduce emission,mitigation,3
+A20180113A0925,1,20,6,5,Yangzhou,bad weather,weather,2
+A20180113A0926,1,18,6,4,Yangzhou,bad weather,weather,1
+A20180113A0928,1,17,6,3,Yangzhou,bad weather,weather,1
+A20180113A0930,0,18,5,3,Yangzhou,vehicle/industrial exhaust,cause,3
+A20180113A0931,1,20,6,4,Yangzhou,bad weather,weather,3
+A20180113A0932,1,19,6,3,Yangzhou,bad weather,weather,2
+A20180113A0933,1,19,4,3,Yangzhou,bad weather,weather,1
+A20180114A0900,1,16,5,3,Yangzhou,bad weather,weather,3
+A20180114A0902,1,20,6,5,Yangzhou,bad weather,weather,2
+A20180114A0903,1,19,6,3,Yangzhou,bad weather,weather,3
+A20180114A0904,1,15,4,3,Yangzhou,proverb,weather,2
+A20180114A0905,1,15,4,2,Yangzhou,nice weather,weather,0
+A20180114A0906,1,19,6,4,Yangzhou,bad weather,weather,3
+A20180114A0907,1,20,4,4,Yangzhou,bad weather,weather,3
+A20180114A0908,1,20,6,3,Yangzhou,bad weather,weather,2
+A20180114A0909,1,73,6,4,Yangzhou,others,adaptation,3
+A20180114A0912,0,67,5,6,Yangzhou,re. temperature,adaptation,2
+A20180114A0913,1,68,7,5,Yangzhou,others,adaptation,3
+A20180114A0919,0,55,6,4,Yangzhou,cold,temperature,3
+A20180114A0922,0,65,3,4,Yangzhou,other pollution,pollution,3
+A20180114A0924,0,63,4,4,Yangzhou,protect environment,mitigation,3
+A20180114A0925,0,60,5,3,Yangzhou,re. temperature,adaptation,2
+A20180114A0931,0,59,4,4,Yangzhou,other pollution,pollution,3
+D20180113A0928,0,32,7,5,Yangzhou,air pollution,pollution,1
+D20180113A0935,0,56,3,3,Yangzhou,disease,health,3
+D20180113A0937,0,70,3,3,Yangzhou,air pollution,pollution,2
+D20180113A0938,0,41,5,3,Yangzhou,bad weather,weather,2
+D20180113A0939,0,37,6,5,Yangzhou,global warming,scienific terms,3
+D20180113A0942,0,50,4,3,Yangzhou,cold,temperature,3
+D20180113A0944,1,30,6,3,Yangzhou,other pollution,pollution,3
+D20180113A0945,1,52,3,3,Yangzhou,other pollution,pollution,3
+D20180113A0948,1,60,3,5,Yangzhou,green house effect,scienific terms,0
+D20180113A0951,0,51,3,3,Yangzhou,disease,health,3
+D20180113A0952,1,62,3,3,Yangzhou,bad weather,weather,3
+D20180113A0953,0,62,3,4,Yangzhou,bad weather,weather,2
+D20180113A0954,0,71,5,4,Yangzhou,bad weather,weather,2
+D20180113A0956,0,65,3,5,Yangzhou,hot,temperature,2
+D20180113A1000,0,29,6,4,Yangzhou,hot,temperature,3
+D20180113A1130,0,31,7,3,Yangzhou,proverb,weather,3
+D20180114A0925,0,35,6,4,Yangzhou,melting ice,disaster,1
+D20180114A0927,1,65,4,3,Yangzhou,other pollution,pollution,2
+D20180114A0928,1,60,4,4,Yangzhou,nice weather,weather,2
+D20180114A0930,1,35,7,4,Yangzhou,reduce emission,mitigation,3
+D20180114A0933,1,34,7,4,Yangzhou,hot,temperature,2
+D20180114A0934,0,66,3,5,Yangzhou,other pollution,pollution,3
+D20180114A0935,1,68,3,5,Yangzhou,reduce emission,mitigation,3
+D20180114A0942,1,29,7,3,Yangzhou,re. air pollution,adaptation,3
+D20180114A0947,0,68,3,4,Yangzhou,bad weather,weather,2
+D20180114A0949,1,72,6,4,Yangzhou,proverb,weather,2
+D20180114A1000,0,68,4,3,Yangzhou,hurricane,disaster,2
+D20180114A1002,1,74,6,3,Yangzhou,protect environment,mitigation,3
+D20180114A1003,1,70,3,3,Yangzhou,bad weather,weather,3
+C20180113A1121,0,24,5,5,Yangzhou,re. temperature,adaptation,3
+C20180113A1120,0,38,4,3,Yangzhou,urbanization/economy,cause,3
+C20180113A1119,0,41,4,3,Yangzhou,rising sea,disaster,0
+C20180113A0943,1,77,4,3,Yangzhou,bad weather,weather,0
+C20180113A0941,1,40,5,3,Yangzhou,disease,health,2
+C20180113A0939,1,30,8,3,Yangzhou,global warming,scienific terms,2
+C20180113A0937,1,71,3,6,Yangzhou,others,adaptation,2
+C20180113A0936,0,31,7,3,Yangzhou,protect environment,mitigation,3
+C20180113A0935,0,43,6,3,Yangzhou,air pollution,pollution,2
+C20180113A0934,1,63,4,3,Yangzhou,urbanization/economy,cause,1
+C20180113A0933,0,33,6,2,Yangzhou,air pollution,pollution,2
+C20180113A0931,0,40,6,3,Yangzhou,disease,health,2
+C20180113A0928,1,75,4,5,Yangzhou,urbanization/economy,cause,3
+C20180113A0925,0,25,6,5,Yangzhou,air pollution,pollution,0
+C20180113A0924,0,24,6,4,Yangzhou,air pollution,pollution,0
+C20180113A0923,1,30,7,3,Yangzhou,disease,health,3
+C20180113A0922,1,50,7,4,Yangzhou,sandstorms,disaster,3
+C20180114A1008,0,43,3,2,Yangzhou,other pollution,pollution,2
+C20180114A1010,0,38,4,8,Yangzhou,others,adaptation,2
+C20180114A1011,0,45,4,3,Yangzhou,others,adaptation,2
+C20180114A1015,0,43,4,3,Yangzhou,proverb,weather,2
+C20180114A1019,0,36,6,4,Yangzhou,air pollution,pollution,3
+C20180114A1023,1,45,6,5,Yangzhou,air pollution,pollution,3
+C20180114A1026,0,42,6,4,Yangzhou,air pollution,pollution,2
+C20180114A1027,0,48,4,2,Yangzhou,cold,temperature,2
+B20180113A0905,0,62,3,5,Yangzhou,protect environment,mitigation,3
+B20180113A0932,0,58,5,4,Yangzhou,protect environment,mitigation,3
+B20180113A1000,1,28,5,4,Yangzhou,reduce emission,mitigation,3
+B20180113A1001,0,34,7,3,Yangzhou,bad weather,weather,3
+B20180113A1002,0,30,5,3,Yangzhou,cold,temperature,1
+B20180113A1003,0,28,4,4,Yangzhou,disease,health,3
+B20180113A1004,0,30,5,3,Yangzhou,air pollution,pollution,2
+B20180113A1007,0,27,6,3,Yangzhou,air pollution,pollution,1
+B20180113A1008,0,33,6,4,Yangzhou,El Nino/ozone hole,scienific terms,3
+B20180113A1012,1,32,5,4,Yangzhou,others,adaptation,1
+B20180114A0908,0,26,6,3,Yangzhou,socio-economic impact,socioeconomic_impact,1
+B20180114P1301,1,23,4,3,Yangzhou,anomaly,temperature,3
+B20180114P1302,0,80,3,3,Yangzhou,disease,health,2
+B20180114P1306,1,60,6,3,Yangzhou,protect environment,mitigation,2
+B20180114P1310,1,51,5,3,Yangzhou,drought,disaster,2
+B20180114P1311,1,55,7,4,Yangzhou,flood,disaster,3
+B20180114P1401,1,70,4,2,Yangzhou,air pollution,pollution,3
+B20180114P1404,0,34,4,3,Yangzhou,air pollution,pollution,2
+B20180114P1405,0,39,4,4,Yangzhou,other pollution,pollution,3
+B20180114P1408,0,56,3,4,Yangzhou,bad weather,weather,3
+A20170826A1041,1,38,4,5,Yangzhou,others,adaptation,2
+A20170826A1035,0,40,7,4,Yangzhou,global warming,scienific terms,3
+A20170826A1029,0,49,4,5,Yangzhou,world endings,disaster,3
+A20170826A1038,1,38,7,5,Yangzhou,vehicle/industrial exhaust,cause,3
+A20170827A1049,0,30,4,4,Yangzhou,capricious,temperature,2
+A20170827A1050,0,31,7,3,Yangzhou,air pollution,pollution,3
+A20170826A1111,1,60,3,2,Yangzhou,season,weather,3
+A20170826A1059,0,68,2,3,Yangzhou,protect environment,mitigation,2
+A20170826A1057,1,53,5,3,Yangzhou,green house effect,scienific terms,1
+A20170826A1056,0,42,6,4,Yangzhou,proverb,weather,3
+A20170826A1052,1,47,6,3,Yangzhou,El Nino/ozone hole,scienific terms,3
+A20170826A1051,0,44,4,4,Yangzhou,hot,temperature,2
+A20170827A1052,1,64,7,2,Yangzhou,wild fire,disaster,3
+A20170827A1051,1,61,3,3,Yangzhou,global warming,scienific terms,2
+A20170827A1048,0,73,4,2,Yangzhou,socio-economic impact,socioeconomic_impact,3
+A20170827A1043,1,38,4,2,Yangzhou,global warming,scienific terms,2
+A20170827A1042,0,64,6,4,Yangzhou,reduce emission,mitigation,3
+A20170827A1041,1,45,7,2,Yangzhou,wild fire,disaster,2
+A20170827A1038,1,69,7,4,Yangzhou,season,weather,3
+A20170827A1037,0,60,7,4,Yangzhou,disease,health,3
+A20170827A1033,1,36,6,3,Yangzhou,bad weather,weather,3
+A20170827A1030,1,39,7,4,Yangzhou,socio-economic impact,socioeconomic_impact,2
+A20170827A1029,0,35,4,4,Yangzhou,re. weather change,adaptation,3
+A20170827A1028,0,34,6,4,Yangzhou,others,adaptation,2
+A20170827A1027,0,37,4,4,Yangzhou,world endings,disaster,3
+A20170827A1016,0,37,6,3,Yangzhou,flood,disaster,3
+A20170827A1015,1,42,6,3,Yangzhou,global warming,scienific terms,2
+A20170827A1012,0,47,7,3,Yangzhou,capricious,temperature,3
+B0120170826a0801,1,65,3,3,Yangzhou,bad weather,weather,3
+B0120170826a0804,0,41,3,3,Yangzhou,bad weather,weather,3
+B0120170826a0807,0,33,7,4,Yangzhou,air pollution,pollution,2
+B0120170826a0808,1,60,2,3,Yangzhou,air pollution,pollution,3
+B0120170826a0809,0,37,6,5,Yangzhou,flood,disaster,3
+B0120170826a0811,0,38,6,4,Yangzhou,other pollution,pollution,3
+B0120170826a0812,1,29,6,3,Yangzhou,other pollution,pollution,2
+B0120170826a0816,0,67,3,3,Yangzhou,bad weather,weather,3
+B0220170826a0801,0,52,6,4,Yangzhou,bad weather,weather,3
+B0220170826a0803,1,43,7,4,Yangzhou,cold,temperature,3
+B0220170826a0811,1,61,6,8,Yangzhou,earthquake,disaster,3
+B0220170826a0812,0,28,6,4,Yangzhou,earthquake,disaster,3
+B0220170827a0804,0,61,3,3,Yangzhou,reduce emission,mitigation,0
+B0220170827a0806,1,75,5,4,Yangzhou,others,adaptation,3
+B0220170827a0808,0,64,6,4,Yangzhou,urbanization/economy,cause,3
+B0120170827a0803,1,78,4,4,Yangzhou,reduce emission,mitigation,3
+B0120170827a0806,1,25,8,4,Yangzhou,rising sea,disaster,3
+B0120170827a0810,1,65,5,5,Yangzhou,nice weather,weather,3
+B0120170827a0811,1,73,7,3,Yangzhou,nice weather,weather,3
+C20170826A0836,0,26,7,3,Yangzhou,global warming,scienific terms,3
+C20170826A0841,1,30,7,4,Yangzhou,rising sea,disaster,3
+C20170826A0851,1,50,3,4,Yangzhou,global warming,scienific terms,3
+C20170826A0852,1,67,4,4,Yangzhou,others,adaptation,2
+C20170826A0900,1,45,6,4,Yangzhou,world endings,disaster,3
+C20170826A0915,0,41,7,5,Yangzhou,sandstorms,disaster,3
+C20170826A1101,0,67,6,4,Yangzhou,disease,health,3
+C20170826P1228,0,23,7,3,Yangzhou,earthquake,disaster,2
+C20170827A0815,0,44,7,6,Yangzhou,bad weather,weather,2
+C20170827A0840,1,45,6,5,Yangzhou,drought,disaster,2
+C20170827A0843,0,28,7,3,Yangzhou,global warming,scienific terms,1
+C20170827A0845,0,32,3,5,Yangzhou,re. air pollution,adaptation,1
+C20170827A0853,0,28,6,3,Yangzhou,reduce emission,mitigation,3
+C20170827A0857,0,29,6,3,Yangzhou,reduce emission,mitigation,3
+C20170827A0910,1,34,6,5,Yangzhou,global warming,scienific terms,2
+C20170827A0942,1,50,7,4,Yangzhou,air pollution,pollution,3
+C20170827A0945,0,47,4,4,Yangzhou,hot,temperature,2
+C20170827A0953,0,41,3,3,Yangzhou,air pollution,pollution,3
+D20170827A1240,0,37,6,3,Yangzhou,urbanization/economy,cause,3
+D20170827P1320,0,35,7,4,Yangzhou,other pollution,pollution,3
+D20170827A1030,0,30,6,3,Yangzhou,bad weather,weather,3
+D20170827A1212,0,50,3,2,Yangzhou,drought,disaster,1
+D20170827A0911,0,38,6,5,Yangzhou,bad weather,weather,3
+D20170827A1030,1,32,4,5,Yangzhou,bad weather,weather,3
+D20170827A1222,1,37,6,4,Yangzhou,air pollution,pollution,3
+D20170827P1312,1,54,3,3,Yangzhou,air pollution,pollution,3
+D20170827A0930,0,26,6,3,Yangzhou,vehicle/industrial exhaust,cause,3
+D20170827A0930,0,36,7,4,Yangzhou,GHG/CO2 emission,cause,3
+D20170826A1001,0,41,7,4,Yangzhou,anomaly,temperature,3
+D20170826A0908,0,46,3,4,Yangzhou,proverb,weather,3
+D20170826A0900,0,56,3,2,Yangzhou,disease,health,2
+D20170826A0900,0,51,3,4,Yangzhou,reduce emission,mitigation,3
+D20170826P1838,0,38,7,3,Yangzhou,proverb,weather,3
+D20170826P1810,0,31,7,4,Yangzhou,anomaly,temperature,3
+D20170826P1825,0,36,7,4,Yangzhou,air pollution,pollution,2
+D20170826P1715,0,24,7,5,Yangzhou,hurricane,disaster,3
+D20170826A1008,0,29,7,4,Yangzhou,hot,temperature,3
+D20170826A0946,1,56,3,3,Yangzhou,sandstorms,disaster,3
+D20170826A0951,1,42,7,5,Yangzhou,air pollution,pollution,3
+D20170826A0956,1,30,8,3,Yangzhou,urbanization/economy,cause,3
+D20170826A0958,1,25,7,5,Yangzhou,air pollution,pollution,3
+D20170826A1005,1,41,5,2,Yangzhou,other pollution,pollution,1
+D20170826A1046,1,52,3,1,Yangzhou,reduce emission,mitigation,3
+D20170826A1110,1,22,7,3,Yangzhou,air pollution,pollution,3
+D20170826A1000,1,55,4,3,Yangzhou,hot,temperature,2
+D20170826A0930,1,58,4,2,Yangzhou,disease,health,2
+D20170826A1030,1,39,7,4,Yangzhou,urbanization/economy,cause,2
+D20170826P1820,1,30,7,3,Yangzhou,socio-economic impact,socioeconomic_impact,3
+D20170826P1800,1,30,6,4,Yangzhou,hot,temperature,1
+A20180120A0830,0,42,2,2,Yancheng,hot,temperature,3
+A20180120A0832,1,16,3,4,Yancheng,air pollution,pollution,3
+A20180120A0833,0,39,3,3,Yancheng,air pollution,pollution,3
+A20180120A0835,0,47,4,3,Yancheng,other pollution,pollution,3
+A20180120A0837,0,51,2,2,Yancheng,nice weather,weather,3
+A20180120A0841,0,51,3,2,Yancheng,hurricane,disaster,3
+A20180120A0843,1,40,7,4,Yancheng,other pollution,pollution,3
+A20180120A0900,0,36,7,5,Yancheng,protect environment,mitigation,3
+A20180120A0905,0,54,4,2,Yancheng,bad weather,weather,3
+A20180120A0906,0,19,4,4,Yancheng,re. temperature,adaptation,3
+A20180120A0908,0,33,7,6,Yancheng,bad weather,weather,2
+A20180120A0909,1,52,3,3,Yancheng,cold,temperature,3
+A20180120A0911,0,20,6,4,Yancheng,unhapiness,health,2
+A20180120A0913,0,43,3,4,Yancheng,socio-economic impact,socioeconomic_impact,1
+A20180120A0915,1,48,6,5,Yancheng,others,disaster,3
+A20180120A0916,0,27,3,3,Yancheng,re. air pollution,adaptation,2
+A20180121A0831,1,30,7,5,Yancheng,re. temperature,adaptation,3
+A20180121A0832,0,20,7,3,Yancheng,bad weather,weather,1
+A20180121A0833,0,52,3,3,Yancheng,nice weather,weather,3
+A20180121A0834,1,52,4,4,Yancheng,bad weather,weather,3
+A20180121A0836,1,20,3,3,Yancheng,nice weather,weather,2
+A20180121A0840,0,47,3,5,Yancheng,bad weather,weather,3
+A20180121A0841,1,21,5,3,Yancheng,re. temperature,adaptation,2
+A20180121A0842,0,42,7,4,Yancheng,earthquake,disaster,2
+A20180121A0843,0,39,3,3,Yancheng,hail,disaster,3
+A20180121A0845,0,36,3,8,Yancheng,disease,health,3
+A20180121A0846,0,52,3,3,Yancheng,bad weather,weather,3
+A20180121A0847,1,35,3,3,Yancheng,disease,health,1
+A20180121A0848,0,46,3,3,Yancheng,bad weather,weather,1
+A20180121A0849,0,45,3,2,Yancheng,bad weather,weather,1
+A20180121A0852,0,44,3,3,Yancheng,bad weather,weather,3
+A20180121A0853,0,51,3,2,Yancheng,nice weather,weather,3
+A20180121A0854,0,52,3,2,Yancheng,earthquake,disaster,3
+A20180121A0855,0,36,4,2,Yancheng,bad weather,weather,1
+A20180121A0856,1,28,7,8,Yancheng,hot,temperature,1
+A20180121A0859,0,34,3,3,Yancheng,bad weather,weather,2
+B20180121A0910,1,29,5,3,Yancheng,reduce emission,mitigation,3
+B20180121A0912,0,49,3,3,Yancheng,bad weather,weather,2
+B20180121A0918,0,40,3,3,Yancheng,air pollution,pollution,3
+B20180121A0922,0,14,3,4,Yancheng,unhapiness,health,2
+B20180121A0931,0,42,2,2,Yancheng,bad weather,weather,3
+B20180120A0900,0,29,6,3,Yancheng,hail,disaster,3
+B20180120A0903,0,52,4,4,Yancheng,degradation,pollution,3
+B20180120A0909,0,37,6,4,Yancheng,bad weather,weather,1
+B20180120A0910,0,29,6,5,Yancheng,disease,health,3
+B20180120A0917,0,28,7,3,Yancheng,El Nino/ozone hole,scienific terms,2
+B20180120A0929,1,54,5,3,Yancheng,protect environment,mitigation,3
+C20180120A1109,0,30,4,2,Yancheng,bad weather,weather,3
+C20180120A1111,1,35,7,3,Yancheng,reduce emission,mitigation,1
+C20180120A1130,1,34,3,1,Yancheng,air pollution,pollution,3
+C20180121A1002,0,27,6,3,Yancheng,season,weather,2
+C20180121A1003,0,24,7,5,Yancheng,nice weather,weather,3
+C20180121A1004,0,47,5,4,Yancheng,other pollution,pollution,3
+C20180121A1006,1,42,7,4,Yancheng,degradation,pollution,2
+C20180121A1007,0,51,4,3,Yancheng,air pollution,pollution,2
+C20180121A1008,0,53,4,4,Yancheng,other pollution,pollution,2
+C20180121A1009,0,49,4,5,Yancheng,physical discomfort,health,3
+C20180121A1013,0,27,6,4,Yancheng,nice weather,weather,3
+C20180121A1021,0,53,4,4,Yancheng,bad weather,weather,3
+C20180121P1444,0,56,2,2,Yancheng,socio-economic impact,socioeconomic_impact,3
+C20180121P1445,0,30,6,2,Yancheng,vehicle/industrial exhaust,cause,2
+C20180121P1447,0,30,6,3,Yancheng,capricious,temperature,3
+C220170806A1104,0,30,8,6,Yancheng,melting ice,disaster,3
+C220170806A1106,1,52,7,4,Yancheng,anomaly,temperature,3
+C220170806A1107,0,54,6,5,Yancheng,other pollution,pollution,3
+C220170805A0905,1,42,6,4,Yancheng,protect environment,mitigation,0
+C220170805A0907,0,26,7,3,Yancheng,sandstorms,disaster,3
+C220170805A0911,0,37,7,4,Yancheng,anomaly,temperature,3
+C220170805A0912,0,28,7,4,Yancheng,others,disaster,3
+C220170805A0915,0,29,7,4,Yancheng,hurricane,disaster,3
+C120170805A1015,1,33,6,5,Yancheng,hurricane,disaster,3
+C120170805A1016,1,55,3,2,Yancheng,hot,temperature,3
+C120170805A1017,1,53,7,5,Yancheng,hot,temperature,3
+C120170805A1021,0,63,6,4,Yancheng,others,adaptation,3
+C120170805A1035,1,52,4,3,Yancheng,other pollution,pollution,3
+C120170805A1041,1,20,6,4,Yancheng,bad weather,weather,0
+C120170805A1042,0,17,5,2,Yancheng,sandstorms,disaster,1
+C120170805A1043,1,55,4,3,Yancheng,hot,temperature,2
+C120170805A1044,0,46,4,6,Yancheng,drought,disaster,2
+C120170805A1050,1,18,5,3,Yancheng,bad weather,weather,2
+C120170805A1051,1,19,7,3,Yancheng,El Nino/ozone hole,scienific terms,3
+C220170806A0952,1,31,6,4,Yancheng,flood,disaster,0
+B20170806A0846,1,21,7,5,Yancheng,hail,disaster,2
+B20170806A0850,1,29,6,3,Yancheng,other pollution,pollution,2
+B20170806A0950,1,19,6,2,Yancheng,bad weather,weather,3
+B20170806A0953,0,34,6,4,Yancheng,hail,disaster,3
+B20170806A1001,0,34,3,4,Yancheng,protect environment,mitigation,1
+B20170806A1022,0,30,3,3,Yancheng,flood,disaster,2
+B20170806A1031,0,45,4,3,Yancheng,nice weather,weather,2
+B20170805A0907,1,18,6,5,Yancheng,El Nino/ozone hole,scienific terms,3
+B20170805A0911,0,40,5,4,Yancheng,hot,temperature,2
+B20170805A0950,1,67,4,3,Yancheng,anomaly,temperature,1
+B20170805A0952,1,35,7,5,Yancheng,hurricane,disaster,3
+B20170805A0955,1,35,7,5,Yancheng,socio-economic impact,socioeconomic_impact,3
+B20170805A0958,0,67,3,3,Yancheng,anomaly,temperature,2
+B20170805A1019,0,29,6,4,Yancheng,protect environment,mitigation,3
+B20170805A1020,1,43,6,6,Yancheng,hail,disaster,3
+B20170805A1044,0,64,4,3,Yancheng,degradation,pollution,1
+B20170805A1045,0,36,4,4,Yancheng,air pollution,pollution,3
+A120170806A0704,0,35,4,4,Yancheng,bad weather,weather,2
+A120170806A0705,1,21,6,4,Yancheng,bad weather,weather,3
+A120170806A0706,1,32,4,3,Yancheng,hail,disaster,3
+A120170806A0707,1,39,3,3,Yancheng,bad weather,weather,3
+A120170806A0708,0,52,4,4,Yancheng,cold,temperature,1
+A120170806A0709,1,65,3,3,Yancheng,bad weather,weather,1
+A120170806A0710,1,40,3,4,Yancheng,bad weather,weather,3
+A120170806A0711,0,20,5,3,Yancheng,bad weather,weather,1
+A120170806A0712,0,41,3,3,Yancheng,hurricane,disaster,1
+A120170806A0713,1,31,3,2,Yancheng,bad weather,weather,0
+A120170806A0714,0,29,4,3,Yancheng,anomaly,temperature,3
+A120170806A0716,1,60,3,2,Yancheng,cold,temperature,3
+A120170806A0720,1,61,2,4,Yancheng,bad weather,weather,3
+A120170806A0721,0,45,3,6,Yancheng,bad weather,weather,1
+A120170806A0901,1,36,4,4,Yancheng,physical discomfort,health,3
+A120170806A0903,0,35,4,4,Yancheng,unhapiness,health,3
+A120170806A0904,1,61,2,5,Yancheng,bad weather,weather,2
+A120170805P0401,1,65,4,4,Yancheng,hurricane,disaster,0
+A120170805P0402,1,42,7,4,Yancheng,hail,disaster,3
+A120170805P0405,0,30,7,3,Yancheng,hurricane,disaster,2
+A120170805P0406,1,53,3,3,Yancheng,hurricane,disaster,2
+A120170805P0408,0,59,4,4,Yancheng,hurricane,disaster,2
+A120170805P0412,0,51,4,3,Yancheng,hurricane,disaster,1
+A220170805P0401,0,41,3,3,Yancheng,hail,disaster,1
+A220170805P0455,0,41,4,4,Yancheng,cold,temperature,0
+A220170805P0541,1,55,7,4,Yancheng,bad weather,weather,3
+A220170805P0554,0,57,6,3,Yancheng,cold,temperature,1
+A220170805P0603,0,36,4,3,Yancheng,socio-economic impact,socioeconomic_impact,3
+A220170805P0605,0,36,4,3,Yancheng,bad weather,weather,3
+A220170805P0607,1,38,6,4,Yancheng,socio-economic impact,socioeconomic_impact,3
+HZ-20190827-01-01-02,1,18,7,4,Hangzhou,bad weather,weather,3
+HZ-20190828-01-01-05,0,22,3,3,Hangzhou,capricious,temperature,1
+HZ-20190828-01-01-06,1,28,7,5,Hangzhou,other pollution,pollution,3
+HZ-20190828-01-01-07,1,32,7,6,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-01-08,0,19,7,5,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ-20190828-01-01-10,0,38,5,4,Hangzhou,bad weather,weather,3
+HZ-20190828-01-01-11,0,38,7,7,Hangzhou,anomaly,temperature,3
+HZ-20190828-01-01-12,1,19,7,6,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-01-13,1,27,6,4,Hangzhou,flood,disaster,3
+HZ-20190828-01-01-14,0,24,7,4,Hangzhou,other pollution,pollution,2
+HZ-20190828-01-01-15,0,45,4,6,Hangzhou,capricious,temperature,3
+HZ-20190828-01-01-16,1,45,8,7,Hangzhou,rising sea,disaster,3
+HZ-20190827-01-02-01,0,30,6,5,Hangzhou,proverb,weather,2
+HZ-20190828-01-02-05,1,40,7,5,Hangzhou,others,adaptation,3
+HZ-20190828-01-02-06,0,24,8,6,Hangzhou,protect environment,mitigation,3
+HZ-20190828-01-02-07,1,32,8,5,Hangzhou,bad weather,weather,3
+HZ-20190828-01-02-08,1,19,7,6,Hangzhou,anomaly,temperature,2
+HZ-20190828-01-02-09,1,24,6,4,Hangzhou,bad weather,weather,3
+HZ-20190828-01-02-10,1,45,7,5,Hangzhou,world endings,disaster,0
+HZ-20190828-01-02-11,0,36,7,5,Hangzhou,unhapiness,health,3
+HZ-20190828-01-02-12,0,36,7,5,Hangzhou,other pollution,pollution,3
+HZ-20190828-01-02-13,0,35,6,4,Hangzhou,rising sea,disaster,3
+HZ-20190828-01-02-14,1,44,6,3,Hangzhou,hot,temperature,2
+HZ-20190828-01-02-15,1,37,4,5,Hangzhou,air pollution,pollution,2
+HZ-20190828-01-02-16,0,46,7,7,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-02-18,1,20,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_01_03_01,0,23,6,5,Hangzhou,socio-economic impact,socioeconomic_impact,3
+HZ_20190827_01_03_02,1,18,7,5,Hangzhou,rising sea,disaster,3
+HZ_20190827_01_03_03,0,20,6,3,Hangzhou,physical discomfort,health,2
+HZ_20190827_01_03_04,0,24,7,6,Hangzhou,re. temperature,adaptation,3
+HZ_20190828_01_03_05,1,27,7,3,Hangzhou,season,weather,2
+HZ_20190828_01_03_06,1,32,4,4,Hangzhou,season,weather,3
+HZ_20190828_01_03_07,1,61,8,4,Hangzhou,hot,temperature,1
+HZ_20190828_01_03_08,1,48,8,4,Hangzhou,season,weather,1
+HZ_20190828_01_03_09,1,36,8,5,Hangzhou,flood,disaster,2
+HZ_20190828_01_03_10,1,38,4,4,Hangzhou,wild fire,disaster,3
+HZ_20190828_01_03_11,1,17,4,4,Hangzhou,hot,temperature,1
+HZ_20190828_01_03_12,0,41,3,3,Hangzhou,flood,disaster,2
+HZ_20190828_01_03_13,1,24,7,4,Hangzhou,drought,disaster,3
+HZ-20190827-01-04-01,0,24,8,6,Hangzhou,bad weather,weather,3
+HZ-20190827-01-04-02,0,24,7,5,Hangzhou,world endings,disaster,3
+HZ-20190827-01-04-03,0,30,6,7,Hangzhou,protect environment,mitigation,3
+HZ-20190827-01-04-04,0,25,6,7,Hangzhou,melting ice,disaster,3
+HZ-20190827-01-04-05,0,25,8,7,Hangzhou,hot,temperature,1
+HZ-20190828-01-04-07,1,32,7,7,Hangzhou,disease,health,2
+HZ-20190828-01-04-08,0,40,7,8,Hangzhou,physical discomfort,health,3
+HZ-20190828-01-04-09,1,32,6,3,Hangzhou,air pollution,pollution,2
+HZ-20190828-01-04-10,0,28,7,6,Hangzhou,other pollution,pollution,2
+HZ-20190828-01-04-11,1,33,6,6,Hangzhou,hot,temperature,3
+HZ-20190828-01-04-12,0,30,7,5,Hangzhou,hot,temperature,2
+HZ-20190828-01-04-13,1,36,7,5,Hangzhou,global warming,scienific terms,3
+HZ-20190828-01-04-14,0,34,7,6,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-04-15,0,22,8,3,Hangzhou,season,weather,3
+HZ-20190828-01-04-16,1,22,4,7,Hangzhou,physical discomfort,health,3
+HZ-20190828-01-04-17,0,23,8,6,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-04-18,0,36,5,8,Hangzhou,hot,temperature,3
+HZ-20190828-01-04-19,1,24,7,4,Hangzhou,melting ice,disaster,3
+HZ-20190827-01-05-01,0,31,6,4,Hangzhou,hurricane,disaster,3
+HZ-20190827-01-05-04,0,23,7,4,Hangzhou,hot,temperature,2
+HZ-20190827-01-05-05,0,35,6,4,Hangzhou,air pollution,pollution,3
+HZ-20190827-01-05-07,1,40,8,5,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-05-08,0,24,7,1,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ-20190828-01-05-09,0,24,7,1,Hangzhou,hot,temperature,3
+HZ-20190828-01-05-10,0,28,7,5,Hangzhou,bad weather,weather,3
+HZ-20190828-01-05-11,0,28,7,7,Hangzhou,air pollution,pollution,3
+HZ-20190828-01-05-12,1,45,8,7,Hangzhou,green house effect,scienific terms,1
+HZ-20190828-01-05-13,0,38,7,3,Hangzhou,hurricane,disaster,2
+HZ-20190828-01-05-14,0,27,7,5,Hangzhou,disease,health,3
+HZ-20190828-01-05-16,0,11,2,4,Hangzhou,hurricane,disaster,1
+HZ-20190828-01-05-17,0,23,7,1,Hangzhou,hurricane,disaster,3
+HZ-20190828-01-05-18,0,23,7,5,Hangzhou,others,disaster,2
+HZ-20190828-01-05-19,0,24,7,8,Hangzhou,nice weather,weather,3
+HZ_2019028__02__06_02,0,32,7,7,Hangzhou,re. temperature,adaptation,2
+HZ_2019028__02__06_04,0,34,7,3,Hangzhou,hot,temperature,3
+HZ_2019028__02__06_05,1,22,7,6,Hangzhou,wild fire,disaster,1
+HZ_2019028__02__06_11,1,25,7,4,Hangzhou,physical discomfort,health,3
+HZ_2019028__02__06_13,1,12,2,3,Hangzhou,physical discomfort,health,3
+HZ_2019028__02__06_16,1,10,2,4,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_2019028__02__06_18,1,55,3,2,Hangzhou,socio-economic impact,socioeconomic_impact,3
+HZ_2019028__02__06_19,1,24,7,5,Hangzhou,GHG/CO2 emission,cause,3
+HZ_2019028__02__06_20,1,30,7,4,Hangzhou,global warming,scienific terms,2
+HZ_20190828__02__07_01,0,16,4,5,Hangzhou,El Nino/ozone hole,scienific terms,1
+HZ_20190828__02__07_06,0,19,4,4,Hangzhou,degradation,pollution,2
+HZ_20190828__02__07_07,0,20,7,4,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190828__02__07_08,0,20,7,4,Hangzhou,rising sea,disaster,3
+HZ_20190828__02__07_09,0,17,4,5,Hangzhou,physical discomfort,health,2
+HZ_20190828__02__07_11,0,16,4,5,Hangzhou,urbanization/economy,cause,2
+HZ_20190828__02__07_13,1,32,7,3,Hangzhou,reduce emission,mitigation,1
+HZ_20190827__02__07_17,0,23,7,4,Hangzhou,others,adaptation,3
+HZ-20190827-02-08-01,0,25,7,3,Hangzhou,hurricane,disaster,3
+HZ-20190827-02-08-02,1,55,4,5,Hangzhou,air pollution,pollution,3
+HZ-20190828-02-08-03,1,18,4,4,Hangzhou,flood,disaster,3
+HZ-20190828-02-08-04,0,30,8,5,Hangzhou,wild fire,disaster,3
+HZ-20190828-02-08-05,1,60,7,5,Hangzhou,anomaly,temperature,2
+HZ-20190828-02-08-06,1,17,4,5,Hangzhou,bad weather,weather,3
+HZ-20190828-02-08-07,1,16,4,4,Hangzhou,melting ice,disaster,2
+HZ-20190828-02-08-08,0,40,6,5,Hangzhou,air pollution,pollution,1
+HZ-20190828-02-08-09,0,36,6,4,Hangzhou,hurricane,disaster,3
+HZ-20190828-02-08-10,0,19,6,5,Hangzhou,unhapiness,health,1
+HZ-20190828-02-08-11,1,20,7,7,Hangzhou,bad weather,weather,3
+HZ_20190827_02_09_01,1,18,4,7,Hangzhou,melting ice,disaster,3
+HZ_20190827_02_09_02,1,27,6,5,Hangzhou,rising sea,disaster,3
+HZ_20190827_02_09_03,0,52,7,4,Hangzhou,degradation,pollution,3
+HZ_20190827_02_09_04,0,18,7,8,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190827_02_09_05,1,35,8,5,Hangzhou,season,weather,0
+HZ_20190828_02_09_06,1,83,7,4,Hangzhou,wild fire,disaster,3
+HZ_20190828_02_09_07,1,19,4,4,Hangzhou,capricious,temperature,3
+HZ_20190828_02_09_08,0,19,4,4,Hangzhou,urbanization/economy,cause,3
+HZ_20190828_02_09_09,0,28,8,4,Hangzhou,air pollution,pollution,3
+HZ_20190828_02_09_10,1,15,4,5,Hangzhou,air pollution,pollution,3
+HZ_20190828_02_09_12,0,39,6,4,Hangzhou,hurricane,disaster,1
+HZ_20190828_02_09_13,0,50,3,5,Hangzhou,other pollution,pollution,2
+HZ_20190828_02_09_14,0,40,7,4,Hangzhou,anomaly,temperature,2
+HZ20190827031001,1,20,7,5,Hangzhou,El Nino/ozone hole,scienific terms,2
+HZ20190827031002,1,23,6,4,Hangzhou,bad weather,weather,3
+HZ20190827031003,1,23,6,2,Hangzhou,rising sea,disaster,2
+HZ20190827031004,0,25,3,3,Hangzhou,bad weather,weather,3
+HZ20190827031005,1,26,7,5,Hangzhou,hurricane,disaster,2
+HZ20190827031006,0,28,8,6,Hangzhou,cold,temperature,2
+HZ20190827031007,1,22,6,4,Hangzhou,season,weather,3
+HZ20190827031008,1,22,7,4,Hangzhou,global warming,scienific terms,2
+HZ20190827031009,1,18,6,6,Hangzhou,hot,temperature,1
+HZ20190827031010,0,24,6,3,Hangzhou,physical discomfort,health,3
+HZ20190827031011,0,30,8,4,Hangzhou,other pollution,pollution,3
+HZ20190827031012,0,40,6,2,Hangzhou,disease,health,2
+HZ20190827031013,1,15,4,5,Hangzhou,wild fire,disaster,2
+HZ20190827031014,1,16,4,5,Hangzhou,bad weather,weather,3
+HZ20190827031015,1,38,7,8,Hangzhou,melting ice,disaster,3
+HZ20190827031016,1,22,7,4,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ20190827031017,1,23,7,4,Hangzhou,degradation,pollution,2
+HZ20190827031018,1,18,7,6,Hangzhou,capricious,temperature,3
+HZ20190827031019,0,48,7,4,Hangzhou,other pollution,pollution,2
+HZ20190827031020,0,24,6,4,Hangzhou,hurricane,disaster,3
+HZ_20190827_03_11_01,0,30,7,6,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_02,0,28,7,5,Hangzhou,unhapiness,health,3
+HZ_20190827_03_11_03,1,30,8,5,Hangzhou,others,disaster,3
+HZ_20190827_03_11_04,1,28,8,5,Hangzhou,rising sea,disaster,3
+HZ_20190827_03_11_05,1,20,7,5,Hangzhou,El Nino/ozone hole,scienific terms,3
+HZ_20190827_03_11_09,0,28,8,4,Hangzhou,bad weather,weather,1
+HZ_20190827_03_11_10,1,20,7,6,Hangzhou,nice weather,weather,1
+HZ_20190827_03_11_11,1,38,5,4,Hangzhou,hot,temperature,1
+HZ_20190827_03_11_12,1,55,4,3,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_13,0,18,4,5,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_15,0,25,7,5,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_17,1,29,7,4,Hangzhou,hot,temperature,3
+HZ_20190827_03_11_18,0,26,7,4,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_11_19,0,30,8,5,Hangzhou,melting ice,disaster,3
+HZ_20190827_03_12_01,0,28,7,4,Hangzhou,rising sea,disaster,3
+HZ_20190827_03_12_05,0,32,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_12_07,1,25,7,4,Hangzhou,hot,temperature,3
+HZ_20190827_03_12_08,0,36,6,5,Hangzhou,anomaly,temperature,3
+HZ_20190827_03_12_09,0,27,7,3,Hangzhou,bad weather,weather,3
+HZ_20190827_03_12_10,0,16,4,7,Hangzhou,bad weather,weather,3
+HZ_20190827_03_12_11,1,21,7,3,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_12_12,1,45,5,4,Hangzhou,protect environment,mitigation,3
+HZ_20190827_03_12_13,1,34,6,4,Hangzhou,degradation,pollution,3
+HZ_20190827_03_12_14,1,15,3,2,Hangzhou,air pollution,pollution,3
+HZ_20190827_03_12_17,1,19,6,4,Hangzhou,bad weather,weather,3
+HZ_20190827_03_12_20,1,18,6,5,Hangzhou,hurricane,disaster,2
+HZ_20190827_03_12_21,1,35,4,5,Hangzhou,capricious,temperature,3
+HZ_20190827_03_12_22,1,30,6,4,Hangzhou,global warming,scienific terms,3
+HZ_20190827_03_12_23,1,24,4,7,Hangzhou,world endings,disaster,3
+HZ_20190827-03-13-01,1,26,7,4,Hangzhou,GHG/CO2 emission,cause,3
+HZ_20190827-03-13-02,1,19,7,4,Hangzhou,green house effect,scienific terms,3
+HZ_20190827-03-13-03,1,20,7,5,Hangzhou,air pollution,pollution,3
+HZ_20190827-03-13-04,0,19,7,5,Hangzhou,melting ice,disaster,3
+HZ_20190828-03-13-05,1,18,7,6,Hangzhou,season,weather,3
+HZ_20190828-03-13-06,1,26,8,4,Hangzhou,wild fire,disaster,2
+HZ_20190828-03-13-07,0,19,7,4,Hangzhou,hot,temperature,3
+LD_190321_1230_NO1_01_G1,1,40,3,2,Longde,vehicle/industrial exhaust,cause,3
+LD_190321_1745_NO1_02_G2,0,28,7,3,Longde,bad weather,weather,1
+LD_190322_1230_NO1_04_G4,0,39,3,1,Longde,bad weather,weather,3
+LD_190322_1745_NO1_05_G5,1,14,3,2,Longde,season,weather,3
+LD_190322_1930_NO1_06_G6,1,41,7,4,Longde,sandstorms,disaster,3
+LD_190323_0730_NO1_07_G7,0,44,4,3,Longde,degradation,pollution,3
+LD_190323_0900_NO1_08_G1,0,46,4,3,Longde,air pollution,pollution,3
+LD_190323_1030_NO1_09_G2,0,36,2,6,Longde,other pollution,pollution,3
+LD_190323_1230_NO1_10_G3,0,38,3,3,Longde,bad weather,weather,3
+LD_190323_1400_NO1_11_G4,0,41,7,3,Longde,capricious,temperature,3
+LD_190323_1530_NO1_12_G5,0,40,7,3,Longde,physical discomfort,health,3
+LD_190323_1800_NO1_13_G6,0,38,3,3,Longde,drought,disaster,3
+LD_190323_1930_NO1_14_G7,1,48,4,3,Longde,hot,temperature,3
+LD_190324_0730_NO1_15_G1,1,18,4,4,Longde,others,disaster,3
+LD_190324_0900_NO1_16_G2,0,44,4,2,Longde,air pollution,pollution,2
+LD_190324_1030_NO1_17_G3,1,41,7,4,Longde,anomaly,temperature,3
+LD_190324_1230_NO1_18_G4,1,40,7,3,Longde,bad weather,weather,3
+LD_190324_1530_NO1_20_G6,1,42,7,4,Longde,proverb,weather,3
+LD_190324_1800_NO1_21_G7,0,36,5,3,Longde,air pollution,pollution,3
+LD_190325_1230_NO1_22_G1,0,36,7,4,Longde,cold,temperature,3
+LD_190325_1745_NO1_23_G2,0,37,4,3,Longde,anomaly,temperature,3
+LD_190326_1745_NO1_24_G3,1,36,7,4,Longde,bad weather,weather,3
+LD_190327_1930_NO1_26_G5,0,40,3,3,Longde,sandstorms,disaster,3
+LD_190328_1230_NO1_27_G6,0,14,3,3,Longde,cold,temperature,3
+LD_190328_1930_NO1_28_G7,0,42,2,3,Longde,capricious,temperature,1
+LD_190329_1230_NO1_29_G1,1,45,7,4,Longde,capricious,temperature,1
+LD_190329_1745_NO1_30_G2,0,43,6,4,Longde,air pollution,pollution,2
+LD_190329_1930_NO1_31_G3,0,43,7,4,Longde,other pollution,pollution,3
+LD_190330_0730_NO1_32_G4,1,45,3,3,Longde,bad weather,weather,3
+LD_190330_1230_NO1_33_G5,1,51,4,3,Longde,cold,temperature,3
+LD_190330_1400_NO1_34_G6,0,36,3,2,Longde,anomaly,temperature,3
+LD_190330_1800_NO1_35_G7,1,42,2,3,Longde,protect environment,mitigation,3
+LD_190331_0730_NO1_36_G1,1,18,4,3,Longde,bad weather,weather,1
+LD_190331_0900_NO1_37_G2,1,37,2,1,Longde,physical discomfort,health,3
+LD_190331_1030_NO1_38_G3,0,44,4,2,Longde,other pollution,pollution,3
+LD_190331_1530_NO1_40_G5,0,35,3,3,Longde,capricious,temperature,2
+LD_190331_1800_NO1_41_G6,1,24,6,3,Longde,proverb,weather,1
+LD_190401_1230_NO1_42_G7,1,36,3,4,Longde,capricious,temperature,3
+LD_190321_1230_NO2_01_G1,1,38,7,4,Longde,world endings,disaster,3
+LD_190321_1745_NO2_02_G2,0,35,2,2,Longde,anomaly,temperature,3
+LD_190321_1230_NO2_03_G3,0,37,3,3,Longde,cold,temperature,3
+LD_190322_1745_NO2_04_G4,1,15,3,1,Longde,re. temperature,adaptation,3
+LD_190322_1930_NO2_05_G5,1,36,3,3,Longde,cold,temperature,3
+LD_190323_0730_NO2_06_G6,0,42,4,3,Longde,nice weather,weather,3
+LD_190323_0900_NO2_07_G7,1,48,4,7,Longde,protect environment,mitigation,3
+LD_190323_1030_NO2_08_G1,0,13,3,3,Longde,other pollution,pollution,2
+LD_190323_1230_NO2_09_G2,1,39,7,4,Longde,other pollution,pollution,3
+LD_190323_1400_NO2_10_G3,1,41,7,4,Longde,global warming,scienific terms,3
+LD_190323_1530_NO2_11_G4,0,45,4,3,Longde,hurricane,disaster,3
+LD_190323_1800_NO2_12_G5,0,40,7,4,Longde,bad weather,weather,2
+LD_190323_1930_NO2_13_G6,0,44,5,3,Longde,others,disaster,3
+LD_190324_0730_NO2_14_G7,1,18,4,2,Longde,global warming,scienific terms,3
+LD_190324_0900_NO2_15_G1,1,43,3,3,Longde,nice weather,weather,3
+LD_190324_1030_NO2_16_G2,0,40,7,4,Longde,sandstorms,disaster,2
+LD_190324_1230_NO2_17_G3,0,44,4,3,Longde,reduce emission,mitigation,3
+LD_190324_1400_NO2_18_G4,1,15,3,3,Longde,capricious,temperature,3
+LD_190324_1530_NO2_19_G5,0,42,7,4,Longde,capricious,temperature,3
+LD_190325_1230_NO2_20_G6,1,43,4,2,Longde,others,adaptation,2
+LD_190325_1745_NO2_21_G7,0,43,3,3,Longde,anomaly,temperature,3
+LD_190326_1230_NO2_22_G1,0,38,2,2,Longde,proverb,weather,3
+LD_190326_1745_NO2_23_G2,1,55,6,4,Longde,bad weather,weather,3
+LD_190327_1745_NO2_25_G4,0,42,7,4,Longde,nice weather,weather,3
+LD_190327_1930_NO2_26_G5,1,49,4,3,Longde,air pollution,pollution,3
+LD_190328_1230_NO2_27_G6,1,49,7,4,Longde,sandstorms,disaster,2
+LD_190328_1745_NO2_28_G7,0,36,7,4,Longde,cold,temperature,0
+LD_190328_1930_NO2_29_G1,0,38,2,3,Longde,anomaly,temperature,3
+LD_190329_1230_NO2_30_G2,0,44,7,4,Longde,bad weather,weather,3
+LD_190329_1745_NO2_31_G3,0,36,6,3,Longde,cold,temperature,3
+LD_190329_1930_NO2_32_G4,1,45,4,3,Longde,anomaly,temperature,3
+LD_190330_0900_NO2_33_G5,1,18,4,2,Longde,sandstorms,disaster,3
+LD_190330_1230_NO2_34_G6,1,50,4,3,Longde,bad weather,weather,3
+LD_190330_1530_NO2_35_G7,0,40,3,3,Longde,physical discomfort,health,3
+LD_190330_1930_NO2_36_G1,0,39,3,3,Longde,unhapiness,health,2
+LD_190331_1030_NO2_37_G2,1,18,4,3,Longde,hot,temperature,3
+LD_190331_1400_NO2_38_G3,0,38,3,2,Longde,anomaly,temperature,3
+LD_190401_1230_NO2_39_G4,1,32,6,4,Longde,capricious,temperature,3
+LD_190401_1745_NO2_40_G5,0,23,6,2,Longde,cold,temperature,3
+LD_190401_1930_NO2_41_G6,1,45,2,2,Longde,hot,temperature,3
+LD_190402_1230_NO2_42_G7,1,37,3,3,Longde,reduce emission,mitigation,1
+LD_190402_1745_NO2_43_G1,0,40,3,3,Longde,nice weather,weather,3
+LD_190402_1930_NO2_44_G2,1,54,4,3,Longde,bad weather,weather,3
+LD_190403_1230_NO2_45_G3,1,40,3,3,Longde,nice weather,weather,1
+LD_190403_1900_NO2_46_G4,1,39,3,3,Longde,proverb,weather,3
+LD_190404_1230_NO2_47_G5,1,35,3,2,Longde,hot,temperature,3
+LD_190404_1745_NO2_48_G6,1,32,3,2,Longde,bad weather,weather,3
+LD_190404_1930_NO2_49_G7,1,53,7,3,Longde,drought,disaster,3
+LD_190405_0900_NO2_50_G1,1,42,3,3,Longde,hot,temperature,3
+LD_190405_1530_NO2_51_G2,0,25,7,3,Longde,hot,temperature,3
+LD_190406_1030_NO2_52_G3,1,48,4,2,Longde,bad weather,weather,3
+LD_190407_0900_NO2_53_G4,1,44,5,4,Longde,sandstorms,disaster,3
+LD_190407_1030_NO2_54_G5,1,36,4,4,Longde,proverb,weather,3
+LD_190407_1800_NO2_55_G6,1,48,3,3,Longde,proverb,weather,3
+LD_190408_1030_NO2_56_G7,1,34,7,3,Longde,bad weather,weather,3
+LD_190402_1745_NO3_40_G5,0,35,3,3,Longde,cold,temperature,2
+LD_190321_1745_NO3_02_G2,0,35,7,3,Longde,air pollution,pollution,3
+LD_190321_1930_NO3_03_G3,1,49,4,3,Longde,reduce emission,mitigation,3
+LD_190322_1230_NO3_04_G4,0,41,6,3,Longde,hot,temperature,3
+LD_190322_1930_NO3_06_G6,1,42,3,3,Longde,drought,disaster,3
+LD_190323_0900_NO3_08_G1,0,13,3,2,Longde,hurricane,disaster,2
+LD_190323_1230_NO3_09_G2,1,39,6,7,Longde,anomaly,temperature,1
+LD_190323_1400_NO3_10_G3,0,45,7,4,Longde,others,disaster,3
+LD_190324_0900_NO3_11_G4,0,19,4,3,Longde,melting ice,disaster,3
+LD_190324_1030_NO3_12_G5,0,14,3,4,Longde,green house effect,scienific terms,1
+LD_190324_1230_NO3_13_G6,0,39,4,3,Longde,hot,temperature,3
+LD_190325_1230_NO3_14_G7,0,39,2,3,Longde,unhapiness,health,2
+LD_190325_1745_NO3_15_G1,0,38,2,3,Longde,anomaly,temperature,2
+LD_190325_1930_NO3_16_G2,1,44,7,4,Longde,hurricane,disaster,3
+LD_190326_1230_NO3_17_G3,0,46,4,2,Longde,proverb,weather,3
+LD_190326_1745_NO3_18_G4,0,38,7,4,Longde,global warming,scienific terms,1
+LD_190327_1745_NO3_19_G5,0,41,2,2,Longde,bad weather,weather,3
+LD_190327_1930_NO3_20_G6,0,50,3,2,Longde,air pollution,pollution,3
+LD_190328_1230_NO3_21_G7,1,42,3,3,Longde,degradation,pollution,3
+LD_190328_1745_NO3_22_G1,1,49,7,4,Longde,re. temperature,adaptation,3
+LD_190328_1930_NO3_23_G2,1,45,3,3,Longde,hot,temperature,3
+LD_190329_1745_NO3_24_G3,0,40,3,3,Longde,nice weather,weather,2
+LD_190329_1930_NO3_25_G4,0,41,6,4,Longde,bad weather,weather,3
+LD_190330_1400_NO3_27_G6,0,46,3,3,Longde,drought,disaster,3
+LD_190330_1930_NO3_29_G1,1,48,3,2,Longde,hot,temperature,3
+LD_190331_0730_NO3_30_G2,0,43,3,3,Longde,nice weather,weather,3
+LD_190331_0900_NO3_31_G3,1,19,4,3,Longde,global warming,scienific terms,2
+LD_190331_1030_NO3_32_G4,1,18,4,3,Longde,nice weather,weather,2
+LD_190331_1400_NO4_33_G5,1,18,4,3,Longde,air pollution,pollution,3
+LD_190331_1530_NO4_34_G6,0,45,4,2,Longde,cold,temperature,3
+LD_190331_1800_NO4_35_G7,0,41,2,2,Longde,proverb,weather,2
+LD_190401_1230_NO3_36_G1,0,42,3,3,Longde,drought,disaster,2
+LD_190401_1745_NO3_37_G2,0,24,7,4,Longde,sandstorms,disaster,3
+LD_190401_1930_NO3_38_G3,0,34,2,2,Longde,capricious,temperature,2
+LD_190402_1230_NO3_39_G4,1,28,4,3,Longde,disease,health,3
+LD_190402_1745_NO3_40_G5,0,29,6,3,Longde,nice weather,weather,3
+LD_190402_1930_NO3_41_G6,1,27,7,3,Longde,capricious,temperature,3
+LD_190403_1230_NO3_42_G7,1,34,3,3,Longde,nice weather,weather,3
+LD_190403_1900_NO3_43_G1,1,21,4,3,Longde,bad weather,weather,3
+LD_190404_1230_NO3_44_G2,1,33,4,4,Longde,flood,disaster,2
+LD_190404_1745_NO3_45_G3,1,35,7,3,Longde,others,adaptation,3
+LD_190404_1930_NO3_46_G4,1,36,3,3,Longde,anomaly,temperature,3
+LD_190405_0900_NO3_47_G5,0,41,3,3,Longde,other pollution,pollution,3
+LD_190405_1030_NO3_48_G6,1,52,7,4,Longde,bad weather,weather,3
+LD_190405_1400_NO3_48_G7,0,46,2,2,Longde,cold,temperature,2
+LD_190406_1030_NO3_50_G1,1,50,4,2,Longde,hot,temperature,3
+LD_190407_0900_NO3_51_G2,1,43,7,3,Longde,cold,temperature,3
+LD_190407_1030_NO3_52_G3,1,32,4,4,Longde,protect environment,mitigation,3
