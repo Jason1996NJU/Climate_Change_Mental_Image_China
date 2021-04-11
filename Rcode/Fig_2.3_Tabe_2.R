@@ -8,7 +8,7 @@ library(sjPlot)
 # ---
 # R_sripts to reproduce results in :
 
-# perceptions of Climate Change in China
+# Perceptions of Climate Change in China
 # Authors: Jianxun Yang, Dimitrios Gounaridis, Miaomiao Liu, Jun Bi, Joshua P. Newell (2021-04-10)
 # Contact: yangjx@smail.nju.edu.cn
 # ---
@@ -20,9 +20,27 @@ data <- read.csv('coded_data.csv', header = T, stringsAsFactors = F)
 # Note that our data is already in the long format
 # See more detailed variable explanation in our paper
 
-# 2 - 
+# 2 - Descriptive analysis
+# Figure_2 - Subcategory mental image prevalence
+data %>%
+  group_by(topic, sub.topic) %>%
+  summarise(prevalence = n()) %>%
+  View()
 
-# 3 - Multilevel regressions
+# Figure_3 - Mental image prevalence in each city
+data %>%
+  group_by(location) %>%
+  summarise(image_by_city = n()) -> image_bycity # count total images in each city
+
+data %>%
+  left_join(., image_bycity, by = 'location') %>%
+  group_by(topic, location) %>%
+  summarise(prevalence_percent = scales::percent(n()/image_by_city)) %>%
+  distinct(topic,location, .keep_all = T) %>%
+  arrange(location)
+
+
+# 3 - Multilevel regressions to create Table_2
 cityBackground <- read.csv('CityBackground.csv', header = T)
 data %>%  left_join(., y = cityBackground, by = 'location') -> data
 data <- data %>% 
@@ -86,4 +104,3 @@ tab_model(m_weather, m_temperature,m_pollution,m_disaster,m_scientific,
           show.aic = FALSE,
           dv.labels = c("weather", "temperature", "pollution", "disaster",
                         "scientific term", "health", "adaptation", "mitigation", "cause"))
-
