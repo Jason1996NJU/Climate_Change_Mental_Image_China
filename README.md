@@ -7,3 +7,6 @@
 Data used in this study is deposited in [Data](https://github.com/Jason1996NJU/Climate_Change_Mental_Image_China/tree/master/Data)
 
 R scripts used to produce Figure.2, Figure.3, and Table.2 can be found in [Rcode](https://github.com/Jason1996NJU/Climate_Change_Mental_Image_China/tree/master/Rcode)
+
+Our data has also been deposited to archive zenodo:
+[![DOI](https://zenodo.org/badge/356459117.svg)](https://zenodo.org/badge/latestdoi/356459117)
